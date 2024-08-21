@@ -2,16 +2,17 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br><img src="images%2Fupc_logo_200x200_jao73r.png"></img><br>
     <br>
-    <strong>Ingeniería de Software - 202401</strong><br>
+    <strong>Ingeniería de Software - 202402</strong><br>
     <br>
-    <strong>SI729 - Desarrollo de Aplicaciones Open Source - SW54</strong><br>  
+    <strong>SI729 - Desarrollo de Aplicaciones Móviles - SW61</strong><br>  
     <br>
-    <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
+    <strong>Profesor: Mayta Guillermo, Jorge Luis
+</strong><br>
     <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
 </p>
 <p align="center">
-    <strong>Startup: ReadWell </strong><br>
-    <strong>Producto:  BookFlow </strong>
+    <strong>Startup: AutoRentify </strong><br>
+    <strong>Producto:  GottaGoFast </strong>
 </p>
 
 <h3 align="center" >Team Members:</h3>
@@ -22,24 +23,24 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Huamán Cataño, Miguel Ángel</td>
-            <td>U202120615</td>
+            <td>Christian Renato Espinoza Saenz</td>
+            <td>U202213208</td>
         </tr>
         <tr>
-            <td>Morales Calderón, Hernan Emilio</td>
-            <td>U202216263</td>
+            <td>Julio Esteban Elsner De La Torre Ugarte</td>
+            <td>U202111654</td>
         </tr>
         <tr>
-            <td>Párraga Gamarra, Paolo Gonzalo</td>
-            <td>U202219186</td>
-        </tr>
-        <tr>
-            <td>Rivadeneyra Ramos, Joaquin</td>
+            <td>Joaquin David Rivadeneyra Ramos</td>
             <td>U202211846</td>
         </tr>
         <tr>
-            <td>Zarate Caceres, Victor Ernesto</td>
-            <td>U202112907</td>
+            <td>Alvaro Felipe Pinto Fuentes Rivera</td>
+            <td>U202213384</td>
+        </tr>
+        <tr>
+            <td>Serrano Ircañaupa, Nelson Elías</td>
+            <td>U202214733</td>
         </tr>
     </table>
 </div>
