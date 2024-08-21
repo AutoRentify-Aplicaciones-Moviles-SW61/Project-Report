@@ -1,45 +1,59 @@
-﻿![upcLogo.png](images/upcLogo.png)
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <br><img src="images%2Fupc_logo_200x200_jao73r.png"></img><br>
+    <br>
+    <strong>Ingeniería de Software - 202402</strong><br>
+    <br>
+    <strong>SI729 - Desarrollo de Aplicaciones Móviles - SW61</strong><br>  
+    <br>
+    <strong>Profesor: Mayta Guillermo, Jorge Luis
+</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
+</p>
+<p align="center">
+    <strong>Startup: AutoRentify </strong><br>
+    <strong>Producto:  GottaGoFast </strong>
+</p>
 
-**Universidad Peruana de Ciencias Aplicadas**
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Christian Renato Espinoza Saenz</td>
+            <td>U202213208</td>
+        </tr>
+        <tr>
+            <td>Julio Esteban Elsner De La Torre Ugarte</td>
+            <td>U202111654</td>
+        </tr>
+        <tr>
+            <td>Joaquin David Rivadeneyra Ramos</td>
+            <td>U202211846</td>
+        </tr>
+        <tr>
+            <td>Alvaro Felipe Pinto Fuentes Rivera</td>
+            <td>U202213384</td>
+        </tr>
+        <tr>
+            <td>Serrano Ircañaupa, Nelson Elías</td>
+            <td>U202214733</td>
+        </tr>
+    </table>
+</div>
+<br>
 
-Ingeniería de software
+# Registro de Versiones del Informe
 
-Desarrollo de Aplicaciones Móviles - 6° Ciclo
-
-SW61
-
-**Informe del Trabajo Final**
-
-Mayta Guillermo, Jorge Luis
-
-#NOmbreStartup
-
-*“GottaGoFast”*
-
-
-
-
-|            **Integrantes**            |**Código**|
-|:-------------------------------------:| :-: |
-|    Christian Renato Espinoza Saenz    |U202213208|
-|Julio Esteban Elsner De La Torre Ugarte|u202111654|
-|    Joaquin David Rivadeneyra Ramos    |U202211846|
-|  Alvaro Felipe Pinto Fuentes Rivera   |U202213384|
-|    Serrano Ircañaupa, Nelson Elías    |<p>U202214733</p><p></p>|
-
-
-
-Agosto de 2024-02
-
-**Registro de Versiones del Informe**
-**
-
-
-| **Versión** |**Fecha**|**Autor**|                        **Descripción de modificación**                         |
-|:-----------:| :-: | :-: |:------------------------------------------------------------------------------:|
-|     TB1     |||                                           |
-|     TB1     |||                                      |
-
+| Versión |   Fecha    | Autor | Descripción de modificación | 
+|:-------:|:----------:|:-----:|:----------------------------| 
+|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
+|TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
+|TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
+|TF | 24/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión definitiva de Web Services<br>Versión definitiva de Video About-The-Product.<br>Versión definitiva de Video About-The-Team|
 
 **Student Outcome**
 
@@ -57,7 +71,6 @@ Facilitar el acceso a una experiencia de alquiler de autos rápida, confiable y 
 
 **Visión:**  
 Convertirnos en la plataforma líder en alquiler de autos, redefiniendo la industria con un enfoque en la conveniencia y la transparencia. Aspiramos a construir una comunidad global de usuarios satisfechos que confían en AutoRentify para todas sus necesidades de movilidad, promoviendo al mismo tiempo un modelo de negocio sostenible y tecnológicamente avanzado.
-
 #### **1.1.2. Perfiles de integrantes del equipo**
 
 
@@ -133,7 +146,6 @@ El alquiler de autos tradicional enfrenta varios desafíos que afectan tanto a l
 
 #### **1.2.2.1. Lean UX Problem Statements**
 
----
 El proceso de alquiler de autos tradicionalmente implica múltiples pasos, incluyendo la búsqueda en varios sitios, la comparación de precios y la confirmación de disponibilidad, lo que puede resultar en un proceso engorroso y poco transparente para los usuarios.
 
 Las soluciones actuales a menudo carecen de una interfaz unificada y fácil de usar para comparar opciones, ver precios claros y realizar reservas de manera eficiente. Esto genera frustración en los usuarios y una experiencia inconsistente.
@@ -205,8 +217,6 @@ Recibir una valoración positiva en el 85% de las encuestas de satisfacción env
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
----
-
 **Hipótesis 1:**
 
 Creemos que lograremos que el 25% de los usuarios objetivo en áreas urbanas y destinos turísticos adopten la aplicación dentro del primer año de lanzamiento.
@@ -262,61 +272,57 @@ Con un diseño de experiencia de usuario que priorice la facilidad de uso, la cl
 
 #### **1.2.2.4. Lean UX Canvas**
 
----
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.007.png)
 
-![LeanUXCanvas.png](images/LeanUXCanvas.png)
-
-LINK LEAN UX CANVAS: https://miro.com/app/board/uXjVKnG08sE=/?share_link_id=250310705435
-
+LINK LEAN UX CANVAS: 
 ### **1.3. Segmentos objetivo**
 
----
-
-**Segmento objetivo #1: Personas Interesadas en Alquilar Vehículos**
-
-**Aspectos demográficos:**
-
-- **Sexo:** Masculino y femenino.
-- **Edad:** 25-50 años.
-- **Estado civil:** Varía entre solteros, casados y personas en relaciones estables.
-- **Tamaño de la familia:** Desde individuos solos hasta familias pequeñas.
-
-**Aspectos geográficos:**
-
-- **Ubicación:** Principalmente en áreas urbanas y destinos turísticos donde el alquiler de vehículos es común.
-
-**Aspectos psicográficos:**
-
-- **Valores:** Valoran la conveniencia, la eficiencia en la planificación de sus viajes, y la transparencia en el acceso a servicios.
-- **Intereses:** Interesados en viajes, tecnología, movilidad urbana, y soluciones que faciliten la logística diaria.
-- **Comportamiento:** Buscan soluciones rápidas y confiables para sus necesidades de transporte. Prefieren aplicaciones móviles que ofrezcan claridad en precios y disponibilidad, y que permitan realizar reservas de forma sencilla. Tienden a comparar opciones antes de tomar una decisión y valoran la personalización del servicio.
-
----
-
-**Segmento objetivo #2: Empresas de Alquiler de Autos**
-
-**Aspectos demográficos:**
-
-- **Sexo:** Masculino y femenino (en roles de gestión y operación).
-- **Edad:** 30-55 años.
-- **Estado civil:** Variado, abarcando desde solteros hasta personas con familias.
-- **Tamaño de la empresa:** Desde pequeñas empresas de alquiler hasta grandes corporaciones con flotas amplias.
-
-**Aspectos geográficos:**
-
-- **Ubicación:** Localizadas en áreas urbanas y zonas turísticas donde existe una alta demanda de alquiler de vehículos.
-
-**Aspectos psicográficos:**
-
-- **Valores:** Enfocados en la eficiencia operativa, maximización de la ocupación de vehículos, y optimización del servicio al cliente.
-- **Intereses:** Altamente interesados en plataformas que mejoren la gestión de reservas, la visibilidad del inventario en tiempo real, y que permitan alcanzar a un mayor número de clientes potenciales.
-- **Comportamiento:** Buscan herramientas que aumenten la visibilidad de su oferta en el mercado, mejoren la eficiencia operativa y proporcionen una experiencia de usuario sin fricciones. Valoran soluciones tecnológicas que les permitan gestionar su flota de manera óptima y que ofrezcan soporte al cliente para resolver problemas rápidamente. Prefieren plataformas que se integren fácilmente con sus sistemas actuales y que ofrezcan reportes detallados para la toma de decisiones.
-
---- 
-
-Estos segmentos objetivo permiten a AutoRentify enfocar sus esfuerzos de desarrollo, marketing y ventas en satisfacer las necesidades específicas de sus principales audiencias.
+**Segmento objetivo #1: 
+**Segmento objetivo #2: 
 
 ## **Capítulo II: Needfinding**
+
+# Competitive Analysis Landscape
+
+## ¿Por qué llevar a cabo este análisis?
+Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.
+
+## Competidores
+
+| **Nombre** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------|------------------|-----------|----------|----------|
+| **Logo**   | ![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png) | ![Hertz Logo](./imgs/hertz_logo.png) | ![Avis Logo](./imgs/avis_logo.png) | ![Sixt Logo](./imgs/sixt_logo.png) |
+
+### Perfil
+
+| **Perfil** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------|------------------|-----------|----------|----------|
+| **Overview** | Aplicación diseñada para alquilar vehículos rápidamente, con una amplia gama de opciones y una experiencia de usuario optimizada para la comodidad. Ofrece suscripción premium con tarifas reducidas para alquileres prolongados y soporte 24/7. | Compañía global de alquiler de autos con una gran variedad de vehículos disponibles en ubicaciones clave alrededor del mundo. Ofrece programas de fidelidad y servicios de alquiler flexibles. | Multinacional de alquiler de autos que se enfoca en la calidad del servicio al cliente y la facilidad de acceso a vehículos en una red global de ubicaciones. Ofrece programas de fidelidad y opciones de alquiler a corto y largo plazo. | Proveedor de alquiler de vehículos con un enfoque en el servicio premium y una flota diversa que incluye desde autos económicos hasta de lujo. Enfocado en la innovación tecnológica y la expansión internacional. |
+| **Ventaja competitiva** | Rapidez en el proceso de alquiler, variedad de vehículos, opciones de suscripción premium, y facilidad en la gestión de reservas a través de la app. | Amplia red de ubicaciones, flota diversa, programas de fidelidad, y presencia global. | Servicio al cliente de alta calidad, opciones de alquiler flexibles, y una extensa red de ubicaciones. | Enfoque premium, flota diversa, opciones de alquiler de lujo, y una fuerte presencia en mercados internacionales. |
+
+### Perfil de Marketing
+
+| **Perfil de Marketing** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|-------------------------|------------------|-----------|----------|----------|
+| **Mercado objetivo** | Usuarios digitales que buscan alquilar vehículos rápidamente, turistas, viajeros de negocios, y usuarios frecuentes que prefieren la comodidad de un servicio premium. | Viajeros frecuentes, turistas, clientes corporativos, y usuarios que buscan un servicio confiable a nivel global. | Viajeros frecuentes, turistas, clientes corporativos, y usuarios que valoran la calidad del servicio. | Viajeros de lujo, turistas, clientes corporativos, y usuarios que buscan una experiencia de alquiler premium. |
+| **Estrategias de Marketing** | Presencia fuerte en plataformas digitales, campañas en redes sociales, promociones para suscriptores premium, y colaboraciones con influencers. | Publicidad en medios tradicionales y digitales, programas de lealtad, asociaciones con aerolíneas y hoteles, y promociones estacionales. | Publicidad en medios tradicionales y digitales, programas de lealtad, promociones en aeropuertos, y campañas en redes sociales. | Marketing enfocado en la innovación y el lujo, promociones en aeropuertos, y alianzas con marcas de lujo y eventos exclusivos. |
+
+### Perfil de Producto
+
+| **Perfil de Producto** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------------------|------------------|-----------|----------|----------|
+| **Productos y Servicios** | Aplicación de alquiler de vehículos, suscripción premium, soporte 24/7, y opciones de entrega y recogida a domicilio. | Alquiler de autos, programas de lealtad, alquiler de vehículos comerciales, y servicios de recogida y entrega. | Alquiler de autos, programas de lealtad, servicios de alquiler a largo plazo, y opciones de entrega y recogida. | Alquiler de autos, opciones de alquiler de lujo, programas de fidelidad, y servicios de recogida y entrega en ubicaciones premium. |
+| **Precios y Costos** | Tarifas competitivas con opción de suscripción premium para descuentos adicionales en alquileres prolongados. | Tarifas basadas en la ubicación y el tipo de vehículo, con opciones de membresía para descuentos. | Tarifas competitivas con opciones de membresía y descuentos por alquileres frecuentes. | Tarifas premium con opciones de membresía para descuentos en vehículos de lujo y servicios adicionales. |
+| **Canales de Distribución** | - Aplicación móvil (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) |
+
+### Análisis FODA
+
+| **Análisis FODA** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------------|------------------|-----------|----------|----------|
+| **Fortalezas** | - Proceso rápido de alquiler | - Flota diversa | - Opción de suscripción premium | - Facilidad de uso de la aplicación | - Red global de ubicaciones | - Flota diversa | - Programas de fidelidad | - Servicio al cliente | - Extensa red de ubicaciones | - Programas de fidelidad | - Fuerte enfoque en el lujo | - Innovación tecnológica | - Flota de vehículos premium |
+| **Debilidades** | - Dependencia de la tecnología | - Competencia feroz | - Costos operativos elevados | - Fluctuación en la demanda | - Competencia en el mercado global | - Costos operativos | - Dependencia de aeropuertos y ubicaciones específicas | - Costos elevados de operación | - Competencia feroz | |
+| **Oportunidades** | - Expansión en nuevos mercados | - Colaboraciones estratégicas | - Innovación en la app | - Expansión en mercados emergentes | - Innovación en servicios digitales | - Expansión global | - Asociaciones estratégicas | - Innovación tecnológica | - Expansión en mercados emergentes | - Enfoque en sostenibilidad | - Innovación en servicios | - Expansión global | |
+| **Amenazas** | - Competencia de grandes players | - Cambios en las preferencias de los usuarios | - Problemas de regulación | - Competencia feroz | - Cambios en el mercado | - Regulaciones gubernamentales | - Competencia en el mercado global | - Cambios en las regulaciones | - Cambios en el mercado | - Cambios en el comportamiento del consumidor | - Competencia feroz | |
 
 En nuestro análisis de los segmentos objetivos, hemos identificado las siguientes necesidades principales que deben ser resueltos:
 
