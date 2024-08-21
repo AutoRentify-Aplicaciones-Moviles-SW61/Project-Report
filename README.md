@@ -268,6 +268,48 @@ LINK LEAN UX CANVAS:
 
 ## **Capítulo II: Needfinding**
 
+# Competitive Analysis Landscape
+
+## ¿Por qué llevar a cabo este análisis?
+Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.
+
+## Competidores
+
+| **Nombre** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------|------------------|-----------|----------|----------|
+| **Logo**   | ![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png) | ![Hertz Logo](./imgs/hertz_logo.png) | ![Avis Logo](./imgs/avis_logo.png) | ![Sixt Logo](./imgs/sixt_logo.png) |
+
+### Perfil
+
+| **Perfil** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------|------------------|-----------|----------|----------|
+| **Overview** | Aplicación diseñada para alquilar vehículos rápidamente, con una amplia gama de opciones y una experiencia de usuario optimizada para la comodidad. Ofrece suscripción premium con tarifas reducidas para alquileres prolongados y soporte 24/7. | Compañía global de alquiler de autos con una gran variedad de vehículos disponibles en ubicaciones clave alrededor del mundo. Ofrece programas de fidelidad y servicios de alquiler flexibles. | Multinacional de alquiler de autos que se enfoca en la calidad del servicio al cliente y la facilidad de acceso a vehículos en una red global de ubicaciones. Ofrece programas de fidelidad y opciones de alquiler a corto y largo plazo. | Proveedor de alquiler de vehículos con un enfoque en el servicio premium y una flota diversa que incluye desde autos económicos hasta de lujo. Enfocado en la innovación tecnológica y la expansión internacional. |
+| **Ventaja competitiva** | Rapidez en el proceso de alquiler, variedad de vehículos, opciones de suscripción premium, y facilidad en la gestión de reservas a través de la app. | Amplia red de ubicaciones, flota diversa, programas de fidelidad, y presencia global. | Servicio al cliente de alta calidad, opciones de alquiler flexibles, y una extensa red de ubicaciones. | Enfoque premium, flota diversa, opciones de alquiler de lujo, y una fuerte presencia en mercados internacionales. |
+
+### Perfil de Marketing
+
+| **Perfil de Marketing** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|-------------------------|------------------|-----------|----------|----------|
+| **Mercado objetivo** | Usuarios digitales que buscan alquilar vehículos rápidamente, turistas, viajeros de negocios, y usuarios frecuentes que prefieren la comodidad de un servicio premium. | Viajeros frecuentes, turistas, clientes corporativos, y usuarios que buscan un servicio confiable a nivel global. | Viajeros frecuentes, turistas, clientes corporativos, y usuarios que valoran la calidad del servicio. | Viajeros de lujo, turistas, clientes corporativos, y usuarios que buscan una experiencia de alquiler premium. |
+| **Estrategias de Marketing** | Presencia fuerte en plataformas digitales, campañas en redes sociales, promociones para suscriptores premium, y colaboraciones con influencers. | Publicidad en medios tradicionales y digitales, programas de lealtad, asociaciones con aerolíneas y hoteles, y promociones estacionales. | Publicidad en medios tradicionales y digitales, programas de lealtad, promociones en aeropuertos, y campañas en redes sociales. | Marketing enfocado en la innovación y el lujo, promociones en aeropuertos, y alianzas con marcas de lujo y eventos exclusivos. |
+
+### Perfil de Producto
+
+| **Perfil de Producto** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------------------|------------------|-----------|----------|----------|
+| **Productos y Servicios** | Aplicación de alquiler de vehículos, suscripción premium, soporte 24/7, y opciones de entrega y recogida a domicilio. | Alquiler de autos, programas de lealtad, alquiler de vehículos comerciales, y servicios de recogida y entrega. | Alquiler de autos, programas de lealtad, servicios de alquiler a largo plazo, y opciones de entrega y recogida. | Alquiler de autos, opciones de alquiler de lujo, programas de fidelidad, y servicios de recogida y entrega en ubicaciones premium. |
+| **Precios y Costos** | Tarifas competitivas con opción de suscripción premium para descuentos adicionales en alquileres prolongados. | Tarifas basadas en la ubicación y el tipo de vehículo, con opciones de membresía para descuentos. | Tarifas competitivas con opciones de membresía y descuentos por alquileres frecuentes. | Tarifas premium con opciones de membresía para descuentos en vehículos de lujo y servicios adicionales. |
+| **Canales de Distribución** | - Aplicación móvil (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) |
+
+### Análisis FODA
+
+| **Análisis FODA** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
+|------------------|------------------|-----------|----------|----------|
+| **Fortalezas** | - Proceso rápido de alquiler | - Flota diversa | - Opción de suscripción premium | - Facilidad de uso de la aplicación | - Red global de ubicaciones | - Flota diversa | - Programas de fidelidad | - Servicio al cliente | - Extensa red de ubicaciones | - Programas de fidelidad | - Fuerte enfoque en el lujo | - Innovación tecnológica | - Flota de vehículos premium |
+| **Debilidades** | - Dependencia de la tecnología | - Competencia feroz | - Costos operativos elevados | - Fluctuación en la demanda | - Competencia en el mercado global | - Costos operativos | - Dependencia de aeropuertos y ubicaciones específicas | - Costos elevados de operación | - Competencia feroz | |
+| **Oportunidades** | - Expansión en nuevos mercados | - Colaboraciones estratégicas | - Innovación en la app | - Expansión en mercados emergentes | - Innovación en servicios digitales | - Expansión global | - Asociaciones estratégicas | - Innovación tecnológica | - Expansión en mercados emergentes | - Enfoque en sostenibilidad | - Innovación en servicios | - Expansión global | |
+| **Amenazas** | - Competencia de grandes players | - Cambios en las preferencias de los usuarios | - Problemas de regulación | - Competencia feroz | - Cambios en el mercado | - Regulaciones gubernamentales | - Competencia en el mercado global | - Cambios en las regulaciones | - Cambios en el mercado | - Cambios en el comportamiento del consumidor | - Competencia feroz | |
+
 En nuestro análisis de los segmentos objetivos, hemos identificado las siguientes necesidades principales que deben ser resueltos:
 
 **Segmento 1: **
