@@ -1,7 +1,6 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <br><img src="images%2Fupc_logo_200x200_jao73r.png"></img><br>
-    <br>
+<br><img src="images/upcLogo.png"></img><br>  
     <strong>Ingeniería de Software - 202402</strong><br>
     <br>
     <strong>SI729 - Desarrollo de Aplicaciones Móviles - SW61</strong><br>  
@@ -46,7 +45,7 @@
 </div>
 <br>
 
-# Registro de Versiones del Informe
+## Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
@@ -55,7 +54,7 @@
 |TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
 |TF | 24/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión definitiva de Web Services<br>Versión definitiva de Video About-The-Product.<br>Versión definitiva de Video About-The-Team|
 
-**Student Outcome**
+## **Student Outcome**
 
 ## **Capítulo I: Presentación**
 
@@ -63,6 +62,8 @@
 
 
 #### **1.1.1. Descripción de la Startup**
+
+ ---
 
 AutoRentify es una startup dedicada a revolucionar la manera en que las personas alquilan vehículos. A través de nuestra aplicación móvil, ofrecemos una experiencia de alquiler ágil, segura y accesible, adaptada a las necesidades modernas. Nuestra plataforma conecta a usuarios con una amplia red de proveedores de autos, garantizando una amplia variedad de opciones y precios competitivos. AutoRentify se enfoca en la simplicidad y la eficiencia, eliminando las complicaciones tradicionales del proceso de alquiler y brindando a los usuarios control total desde la palma de su mano.
 
@@ -146,6 +147,8 @@ El alquiler de autos tradicional enfrenta varios desafíos que afectan tanto a l
 
 #### **1.2.2.1. Lean UX Problem Statements**
 
+ ---
+
 El proceso de alquiler de autos tradicionalmente implica múltiples pasos, incluyendo la búsqueda en varios sitios, la comparación de precios y la confirmación de disponibilidad, lo que puede resultar en un proceso engorroso y poco transparente para los usuarios.
 
 Las soluciones actuales a menudo carecen de una interfaz unificada y fácil de usar para comparar opciones, ver precios claros y realizar reservas de manera eficiente. Esto genera frustración en los usuarios y una experiencia inconsistente.
@@ -217,6 +220,8 @@ Recibir una valoración positiva en el 85% de las encuestas de satisfacción env
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
+ ---
+
 **Hipótesis 1:**
 
 Creemos que lograremos que el 25% de los usuarios objetivo en áreas urbanas y destinos turísticos adopten la aplicación dentro del primer año de lanzamiento.
@@ -272,13 +277,59 @@ Con un diseño de experiencia de usuario que priorice la facilidad de uso, la cl
 
 #### **1.2.2.4. Lean UX Canvas**
 
-![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.007.png)
+ ---
 
-LINK LEAN UX CANVAS: 
+![LeanUXCanvas.png](images/LeanUXCanvas.png)
+
+LINK LEAN UX CANVAS: https://miro.com/app/board/uXjVKnG08sE=/?share_link_id=250310705435
+
 ### **1.3. Segmentos objetivo**
 
-**Segmento objetivo #1: 
-**Segmento objetivo #2: 
+ ---
+
+**Segmento objetivo #1: Personas Interesadas en Alquilar Vehículos**
+
+**Aspectos demográficos:**
+
+- **Sexo:** Masculino y femenino.
+- **Edad:** 25-50 años.
+- **Estado civil:** Varía entre solteros, casados y personas en relaciones estables.
+- **Tamaño de la familia:** Desde individuos solos hasta familias pequeñas.
+
+**Aspectos geográficos:**
+
+- **Ubicación:** Principalmente en áreas urbanas y destinos turísticos donde el alquiler de vehículos es común.
+
+**Aspectos psicográficos:**
+
+- **Valores:** Valoran la conveniencia, la eficiencia en la planificación de sus viajes, y la transparencia en el acceso a servicios.
+- **Intereses:** Interesados en viajes, tecnología, movilidad urbana, y soluciones que faciliten la logística diaria.
+- **Comportamiento:** Buscan soluciones rápidas y confiables para sus necesidades de transporte. Prefieren aplicaciones móviles que ofrezcan claridad en precios y disponibilidad, y que permitan realizar reservas de forma sencilla. Tienden a comparar opciones antes de tomar una decisión y valoran la personalización del servicio.
+
+ ---
+
+**Segmento objetivo #2: Empresas de Alquiler de Autos**
+
+**Aspectos demográficos:**
+
+- **Sexo:** Masculino y femenino (en roles de gestión y operación).
+- **Edad:** 30-55 años.
+- **Estado civil:** Variado, abarcando desde solteros hasta personas con familias.
+- **Tamaño de la empresa:** Desde pequeñas empresas de alquiler hasta grandes corporaciones con flotas amplias.
+
+**Aspectos geográficos:**
+
+- **Ubicación:** Localizadas en áreas urbanas y zonas turísticas donde existe una alta demanda de alquiler de vehículos.
+
+**Aspectos psicográficos:**
+
+- **Valores:** Enfocados en la eficiencia operativa, maximización de la ocupación de vehículos, y optimización del servicio al cliente.
+- **Intereses:** Altamente interesados en plataformas que mejoren la gestión de reservas, la visibilidad del inventario en tiempo real, y que permitan alcanzar a un mayor número de clientes potenciales.
+- **Comportamiento:** Buscan herramientas que aumenten la visibilidad de su oferta en el mercado, mejoren la eficiencia operativa y proporcionen una experiencia de usuario sin fricciones. Valoran soluciones tecnológicas que les permitan gestionar su flota de manera óptima y que ofrezcan soporte al cliente para resolver problemas rápidamente. Prefieren plataformas que se integren fácilmente con sus sistemas actuales y que ofrezcan reportes detallados para la toma de decisiones.
+
+ --- 
+
+Estos segmentos objetivo permiten a AutoRentify enfocar sus esfuerzos de desarrollo, marketing y ventas en satisfacer las necesidades específicas de sus principales audiencias.
 
 ## **Capítulo II: Needfinding**
 
