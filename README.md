@@ -1,45 +1,58 @@
-﻿![Upc Logo](images%2Fupc_logo_200x200_jao73r.png)
+﻿<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <br><img src="images%2Fupc_logo_200x200_jao73r.png"></img><br>
+    <br>
+    <strong>Ingeniería de Software - 202401</strong><br>
+    <br>
+    <strong>SI729 - Desarrollo de Aplicaciones Open Source - SW54</strong><br>  
+    <br>
+    <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
+</p>
+<p align="center">
+    <strong>Startup: ReadWell </strong><br>
+    <strong>Producto:  BookFlow </strong>
+</p>
 
-**Universidad Peruana de Ciencias Aplicadas**
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Huamán Cataño, Miguel Ángel</td>
+            <td>U202120615</td>
+        </tr>
+        <tr>
+            <td>Morales Calderón, Hernan Emilio</td>
+            <td>U202216263</td>
+        </tr>
+        <tr>
+            <td>Párraga Gamarra, Paolo Gonzalo</td>
+            <td>U202219186</td>
+        </tr>
+        <tr>
+            <td>Rivadeneyra Ramos, Joaquin</td>
+            <td>U202211846</td>
+        </tr>
+        <tr>
+            <td>Zarate Caceres, Victor Ernesto</td>
+            <td>U202112907</td>
+        </tr>
+    </table>
+</div>
+<br>
 
-Ingeniería de software
+# Registro de Versiones del Informe
 
-Desarrollo de Aplicaciones Móviles - 6° Ciclo
-
-SW61
-
-**Informe del Trabajo Final**
-
-Mayta Guillermo, Jorge Luis
-
-#NOmbreStartup
-
-*“NombreProyecto”*
-
-
-
-
-|            **Integrantes**            |**Código**|
-|:-------------------------------------:| :-: |
-|    Christian Renato Espinoza Saenz    |U202213208|
-|Julio Esteban Elsner De La Torre Ugarte|u202111654|
-|    Joaquin David Rivadeneyra Ramos    |U202211846|
-|  Alvaro Felipe Pinto Fuentes Rivera   |U202213384|
-|    Serrano Ircañaupa, Nelson Elías    |<p>U202214733</p><p></p>|
-
-
-
-Agosto de 2024-02
-
-**Registro de Versiones del Informe**
-**
-
-
-| **Versión** |**Fecha**|**Autor**|                        **Descripción de modificación**                         |
-|:-----------:| :-: | :-: |:------------------------------------------------------------------------------:|
-|     TB1     |||                                           |
-|     TB1     |||                                      |
-
+| Versión |   Fecha    | Autor | Descripción de modificación | 
+|:-------:|:----------:|:-----:|:----------------------------| 
+|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
+|TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
+|TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
+|TF | 24/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión definitiva de Web Services<br>Versión definitiva de Video About-The-Product.<br>Versión definitiva de Video About-The-Team|
 
 **Student Outcome**
 
