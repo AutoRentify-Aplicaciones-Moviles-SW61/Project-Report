@@ -1,4 +1,4 @@
-﻿![Upc Logo](images%2Fupc_logo_200x200_jao73r.png)
+﻿![upcLogo.png](images/upcLogo.png)
 
 **Universidad Peruana de Ciencias Aplicadas**
 
@@ -14,7 +14,7 @@ Mayta Guillermo, Jorge Luis
 
 #NOmbreStartup
 
-*“NombreProyecto”*
+*“GottaGoFast”*
 
 
 
@@ -57,6 +57,7 @@ Facilitar el acceso a una experiencia de alquiler de autos rápida, confiable y 
 
 **Visión:**  
 Convertirnos en la plataforma líder en alquiler de autos, redefiniendo la industria con un enfoque en la conveniencia y la transparencia. Aspiramos a construir una comunidad global de usuarios satisfechos que confían en AutoRentify para todas sus necesidades de movilidad, promoviendo al mismo tiempo un modelo de negocio sostenible y tecnológicamente avanzado.
+
 #### **1.1.2. Perfiles de integrantes del equipo**
 
 
@@ -132,6 +133,7 @@ El alquiler de autos tradicional enfrenta varios desafíos que afectan tanto a l
 
 #### **1.2.2.1. Lean UX Problem Statements**
 
+---
 El proceso de alquiler de autos tradicionalmente implica múltiples pasos, incluyendo la búsqueda en varios sitios, la comparación de precios y la confirmación de disponibilidad, lo que puede resultar en un proceso engorroso y poco transparente para los usuarios.
 
 Las soluciones actuales a menudo carecen de una interfaz unificada y fácil de usar para comparar opciones, ver precios claros y realizar reservas de manera eficiente. Esto genera frustración en los usuarios y una experiencia inconsistente.
@@ -203,6 +205,8 @@ Recibir una valoración positiva en el 85% de las encuestas de satisfacción env
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
+---
+
 **Hipótesis 1:**
 
 Creemos que lograremos que el 25% de los usuarios objetivo en áreas urbanas y destinos turísticos adopten la aplicación dentro del primer año de lanzamiento.
@@ -258,13 +262,59 @@ Con un diseño de experiencia de usuario que priorice la facilidad de uso, la cl
 
 #### **1.2.2.4. Lean UX Canvas**
 
-![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.007.png)
+---
 
-LINK LEAN UX CANVAS: 
+![LeanUXCanvas.png](images/LeanUXCanvas.png)
+
+LINK LEAN UX CANVAS: https://miro.com/app/board/uXjVKnG08sE=/?share_link_id=250310705435
+
 ### **1.3. Segmentos objetivo**
 
-**Segmento objetivo #1: 
-**Segmento objetivo #2: 
+---
+
+**Segmento objetivo #1: Personas Interesadas en Alquilar Vehículos**
+
+**Aspectos demográficos:**
+
+- **Sexo:** Masculino y femenino.
+- **Edad:** 25-50 años.
+- **Estado civil:** Varía entre solteros, casados y personas en relaciones estables.
+- **Tamaño de la familia:** Desde individuos solos hasta familias pequeñas.
+
+**Aspectos geográficos:**
+
+- **Ubicación:** Principalmente en áreas urbanas y destinos turísticos donde el alquiler de vehículos es común.
+
+**Aspectos psicográficos:**
+
+- **Valores:** Valoran la conveniencia, la eficiencia en la planificación de sus viajes, y la transparencia en el acceso a servicios.
+- **Intereses:** Interesados en viajes, tecnología, movilidad urbana, y soluciones que faciliten la logística diaria.
+- **Comportamiento:** Buscan soluciones rápidas y confiables para sus necesidades de transporte. Prefieren aplicaciones móviles que ofrezcan claridad en precios y disponibilidad, y que permitan realizar reservas de forma sencilla. Tienden a comparar opciones antes de tomar una decisión y valoran la personalización del servicio.
+
+---
+
+**Segmento objetivo #2: Empresas de Alquiler de Autos**
+
+**Aspectos demográficos:**
+
+- **Sexo:** Masculino y femenino (en roles de gestión y operación).
+- **Edad:** 30-55 años.
+- **Estado civil:** Variado, abarcando desde solteros hasta personas con familias.
+- **Tamaño de la empresa:** Desde pequeñas empresas de alquiler hasta grandes corporaciones con flotas amplias.
+
+**Aspectos geográficos:**
+
+- **Ubicación:** Localizadas en áreas urbanas y zonas turísticas donde existe una alta demanda de alquiler de vehículos.
+
+**Aspectos psicográficos:**
+
+- **Valores:** Enfocados en la eficiencia operativa, maximización de la ocupación de vehículos, y optimización del servicio al cliente.
+- **Intereses:** Altamente interesados en plataformas que mejoren la gestión de reservas, la visibilidad del inventario en tiempo real, y que permitan alcanzar a un mayor número de clientes potenciales.
+- **Comportamiento:** Buscan herramientas que aumenten la visibilidad de su oferta en el mercado, mejoren la eficiencia operativa y proporcionen una experiencia de usuario sin fricciones. Valoran soluciones tecnológicas que les permitan gestionar su flota de manera óptima y que ofrezcan soporte al cliente para resolver problemas rápidamente. Prefieren plataformas que se integren fácilmente con sus sistemas actuales y que ofrezcan reportes detallados para la toma de decisiones.
+
+--- 
+
+Estos segmentos objetivo permiten a AutoRentify enfocar sus esfuerzos de desarrollo, marketing y ventas en satisfacer las necesidades específicas de sus principales audiencias.
 
 ## **Capítulo II: Needfinding**
 
