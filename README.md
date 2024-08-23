@@ -460,7 +460,7 @@ Estos segmentos objetivo permiten a AutoRentify enfocar sus esfuerzos de desarro
 # Competitive Analysis Landscape
 
 ## ¿Por qué llevar a cabo este análisis?
-Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.
+Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado. Entender la dinámica competitiva es esencial para identificar las fortalezas y debilidades de nuestra empresa en relación con otras marcas. Al realizar este análisis, podemos descubrir oportunidades para mejorar nuestros productos y servicios, así como para diferenciar nuestra oferta en un mercado saturado. Además, permite anticipar movimientos estratégicos de los competidores, lo que es vital para tomar decisiones informadas y mantener una ventaja competitiva. También es útil para identificar tendencias del mercado y adaptarse a las necesidades cambiantes de los consumidores, asegurando que nuestra empresa no solo sobreviva, sino que prospere en un entorno competitivo. Por último, el análisis competitivo nos ayuda a desarrollar estrategias de marketing más efectivas y a optimizar los recursos para maximizar el retorno de la inversión.
 
 ## 2.1. Competidores
 
@@ -478,9 +478,7 @@ Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
     </li>
 </ul>
 
-## Competidores
-
-|### 2.1.1. Análisis competitivo
+## 2.1.1. Análisis competitivo
 
 <table>
 <tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
@@ -502,14 +500,333 @@ Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
 <tr><td colspan="3" valign="top"><b>Amenazas</b></td><td colspan="3" valign="top"><p>- Competencia de otras plataformas de alquiler</p><p>- Cambios en la tecnología</p><p>- Regulaciones locales</p></td><td colspan="3" valign="top"><p>- Cambios en las regulaciones</p><p>- Competencia de empresas emergentes</p><p>- Disrupción tecnológica</p></td><td colspan="3" valign="top"><p>- Competencia de nuevas plataformas</p><p>- Cambios en la regulación</p></td><td valign="top"><p>- Competencia de nuevas plataformas de alquiler</p><p>- Cambios en la regulación</p></td></tr>
 </table>
 
-En nuestro análisis de los segmentos objetivos, hemos identificado las siguientes necesidades principales que deben ser resueltos:
+## 2.1.2. Estrategias y tácticas frente a competidores
 
-**Segmento 1: **
+Hemos empleado un análisis FODA para identificar las posibilidades y desafíos en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Esta metodología nos ha permitido concebir estrategias y tácticas que se ajusten de manera coherente a nuestro entorno y a los recursos disponibles.
 
+**Estrategia de distinción:**
 
-**Segmento 2: **
+Para destacar en el mercado de alquiler de vehículos, hemos decidido implementar un servicio premium que se centre en la conveniencia y la personalización. Esto incluye la opción de entrega del vehículo directamente en la ubicación del cliente, ya sea en su hogar, oficina, o cualquier lugar de su elección. Además, ofreceremos un sistema de reservas ultrarrápido a través de nuestra aplicación, donde los usuarios pueden realizar reservas en menos de un minuto. Como parte de nuestra oferta diferenciada, Gotta Go Fast permitirá a los usuarios elegir entre una flota de vehículos exclusivos y de alta gama para experiencias de conducción excepcionales. También planeamos implementar un programa de fidelización que recompense a los usuarios frecuentes con descuentos y ventajas exclusivas, como upgrades de vehículos y acceso prioritario en temporadas altas.
 
+**Estrategia de liderazgo en costos:**
 
+Nos enfocaremos en optimizar nuestros costos operativos para poder ofrecer tarifas competitivas que atraigan a una amplia gama de clientes. Esto implicará la adopción de tecnologías de gestión de flotas más eficientes, la negociación de acuerdos favorables con proveedores de vehículos y la reducción de gastos mediante la automatización de procesos administrativos. Al reducir costos, Gotta Go Fast puede ofrecer precios más accesibles sin sacrificar la calidad del servicio, lo que nos permitirá atraer a clientes sensibles al precio, especialmente en segmentos de mercado como los turistas y los conductores ocasionales que buscan un equilibrio entre costo y conveniencia.
+
+**Estrategia de mercadotecnia:**
+
+Implementaremos una campaña de marketing digital enfocada en aumentar la visibilidad de nuestra aplicación entre los usuarios que buscan soluciones rápidas y convenientes para el alquiler de vehículos. Nuestras estrategias incluirán publicidad dirigida en plataformas como Google Ads, Instagram, y Facebook, donde nos enfocaremos en captar la atención de usuarios interesados en el turismo, los deportes automovilísticos, y la movilidad urbana. Además, planeamos colaborar con influencers en el ámbito del viaje y la automoción para promocionar nuestras ofertas especiales y destacar la facilidad de uso de nuestra aplicación. También lanzaremos promociones, como descuentos en la primera reserva y beneficios adicionales para quienes opten por nuestro plan de suscripción premium, para incentivar a nuevos usuarios a probar Gotta Go Fast.
+
+**Tácticas:**
+
+Nuestras tácticas incluyen la implementación de estudios de mercado continuos para identificar las preferencias y necesidades no satisfechas de los usuarios en el sector de alquiler de vehículos. Esta investigación nos permitirá ajustar nuestro servicio para satisfacer de manera más efectiva las demandas del mercado, asegurando que Gotta Go Fast se mantenga competitivo y relevante. Adicionalmente, planeamos realizar pruebas A/B para optimizar nuestras campañas publicitarias y ajustar nuestras ofertas en función de la respuesta del mercado. Esto, junto con un enfoque en la experiencia del cliente y la facilidad de uso de la aplicación, nos permitirá diferenciar a Gotta Go Fast de otros competidores y brindar un servicio que exceda las expectativas de nuestros usuarios.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+### Segmento 1: Personas Locales Sin Vehículos
+
+1. **¿Podrías contarnos un poco sobre tu estilo de vida en la ciudad?**
+2. **¿Cómo sueles desplazarte a tus actividades diarias, como trabajo, estudios o ocio?**
+3. **¿Has considerado alguna vez comprar un coche? ¿Por qué no lo has hecho hasta ahora?**
+4. **¿Qué servicios de transporte utilizas con mayor frecuencia (transporte público, taxis, aplicaciones de movilidad)?**
+5. **¿Con qué frecuencia alquilas vehículos?**
+6. **¿Qué tipo de vehículo prefieres alquilar según tus necesidades (pequeño, SUV, deportivo, etc.)?**
+7. **¿Qué te motiva a alquilar un vehículo en lugar de utilizar otro medio de transporte?**
+8. **¿Prefieres alquilar vehículos por horas, días o semanas? ¿Por qué?**
+9. **¿Cómo sueles reservar vehículos actualmente? ¿A través de apps, sitios web o en persona?**
+10. **¿Qué aspecto consideras más importante al elegir un servicio de alquiler de coches (precio, variedad de vehículos, conveniencia, etc.)?**
+11. **¿Qué tan importante es para ti la posibilidad de recibir el vehículo a domicilio?**
+12. **¿Has tenido alguna mala experiencia al alquilar vehículos? Si es así, ¿podrías compartirla?**
+13. **¿Qué mejoras o características adicionales te gustaría ver en los servicios de alquiler de vehículos?**
+14. **¿Cuánto valoras la posibilidad de gestionar todo el proceso de alquiler desde una sola aplicación móvil?**
+15. **¿Te resultaría útil contar con una opción de suscripción para obtener descuentos en alquileres frecuentes?**
+16. **¿Qué opinas sobre la opción de ver reseñas y valoraciones de otros usuarios antes de alquilar un coche?**
+17. **¿Qué nivel de asistencia al cliente esperas en una plataforma de alquiler de vehículos (chat en vivo, llamadas, asistencia en la app)?**
+18. **¿Te gustaría recibir notificaciones sobre promociones o tarifas reducidas en alquileres?**
+19. **¿Qué tan probable sería que recomendaras un servicio como Gotta Go Fast a tus conocidos?**
+20. **¿Qué función crees que mejoraría más tu experiencia como usuario local sin coche en un servicio de alquiler?**
+
+### Segmento 2: Turistas
+
+1. **¿De dónde vienes y qué te trae a esta ciudad?**
+2. **¿Cuánto tiempo planeas quedarte aquí durante tu visita?**
+3. **¿Sueles alquilar vehículos cuando viajas? ¿Por qué sí o por qué no?**
+4. **¿Qué tipo de vehículo prefieres alquilar cuando viajas (económico, SUV, coche de lujo, etc.)?**
+5. **¿Cuál es tu principal prioridad al alquilar un coche durante un viaje (comodidad, precio, facilidad de reserva)?**
+6. **¿Cuáles son los principales factores que te harían elegir una opción de alquiler de vehículos (ubicación de recogida, precio, tipo de vehículo)?**
+7. **¿Sueles buscar vehículos que se adapten a tu itinerario turístico o prefieres flexibilidad?**
+8. **¿Te interesa la posibilidad de reservar y pagar el alquiler del coche con antelación antes de llegar a tu destino?**
+9. **¿Has utilizado servicios de alquiler de coches en otras ciudades o países? ¿Cómo fue tu experiencia?**
+10. **¿Qué tan importante es para ti la opción de recibir el coche en el aeropuerto o en tu hotel?**
+11. **¿Prefieres gestionar el alquiler de vehículos desde una aplicación móvil o en persona?**
+12. **¿Cuál es tu mayor preocupación al alquilar un coche en una ciudad nueva (seguridad, precio, políticas de la compañía)?**
+13. **¿Te gustaría tener acceso a recomendaciones locales sobre los mejores lugares para recoger y devolver el coche?**
+14. **¿Cuánto valoras la posibilidad de leer reseñas de otros turistas sobre sus experiencias de alquiler?**
+15. **¿Te gustaría contar con un servicio de asistencia al cliente disponible 24/7 en caso de necesitar ayuda con tu alquiler?**
+16. **¿Cuánto influirían las tarifas reducidas en tu decisión de alquilar un vehículo a través de la app?**
+17. **¿Qué importancia le das a la posibilidad de personalizar el servicio, como elegir el lugar exacto de recogida y devolución del coche?**
+18. **¿Estarías interesado en promociones especiales para turistas que alquilan por varios días?**
+19. **¿Qué funciones te resultarían más útiles para facilitar el proceso de alquiler durante tu viaje?**
+20. **¿Recomendarías un servicio como Gotta Go Fast a otros turistas después de utilizarlo?**
+
+### 2.2.2. Registro de entrevistas
+### Lectores:
+
+Entrevistado #1: 
+![Estrevista1](./imgs/entrevistaHernan.png)
+Joseph Huammani
+
+●	Sexo: Masculino
+
+●	Edad: 23 años
+
+●	Distrito en el que vive: Surquillo
+
+●	Nivel socioeconómico: Clase B
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=44kOELBy0ZU)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:20
+
+●	Entrevistador: Morales Calderón, Hernan Emilio
+
+Resumen:
+<p align="justify">
+El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
+</p>
+
+Entrevistado #2: 
+![Estrevista1](./imgs/entrevistaPaolo.png)
+Anthony Tarrillo
+
+●	Sexo: Masculino
+
+●	Edad: 20 años
+
+●	Distrito en el que vive: San Martín de Porres
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1DZM0FRAuKecq_ddy_g6qRVobYHKop5wo/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 6:09
+
+●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
+
+Resumen:
+<p align="justify">
+El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
+</p>
+
+Entrevistado N°3: Piero Delgado
+
+  ![Entrevista](./imgs/entrevista1.jpg)
+
+●	Nombre: Piero Delgado
+
+●	Edad: 20
+
+●	Sexo: Masculino
+
+●	Residencia: Surco
+
+●	Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1JR1mC21Be3IDkKMS_f5xYmoVWu9Z1rKg/view?usp=sharing)
+
+●	Momento en el que inicia: 0:02
+
+●	Duración: 6:10
+
+●	Entrevistador: Rivadeneyra Ramos, Joaquin
+
+Resumen:
+<p align="justify">
+Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incluyen ficción contemporánea, ciencia ficción y literatura histórica. Destaca el desafío de encontrar tiempo para leer, buscando equilibrio entre sus responsabilidades laborales y personales. Piero se motiva a terminar un libro cuando la trama es intrigante y los personajes son complejos. En cuanto a aplicaciones de lectura, valora la sincronización entre dispositivos, las recomendaciones personalizadas y la posibilidad de interactuar con otros lectores. Además, destaca la importancia de la privacidad de datos al usar estas aplicaciones y sugiere que estrategias como establecer metas de lectura ayudan a mantener un hábito constante. Piero espera obtener descuentos en libros y acceso anticipado a nuevos lanzamientos como recompensas por su fidelidad, y desea que la aplicación le ayude a descubrir nuevos títulos a través de recomendaciones personalizadas y muestras gratuitas.
+</p>
+Entrevistado #4:
+
+![entrevista-lector4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4b0e428b-bd01-44ab-8693-ffda975fecd9)
+
+Nombre: Hector Jimenez Mamani
+
+●	Sexo: Masculino
+
+●	Edad: 16 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1bGZPZzwplLhRTelMO3KdOLUCbJOvTXb1/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:26
+
+Resumen:
+<p align="justify">
+Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
+</p>
+
+### Autores:
+Entrevistada #1: Aleshka Fernandez
+
+<ul>
+    <li>
+        Sexo: Femenino
+    </li>
+    <li>
+        Edad: 24 años
+    </li>
+    <li>
+        Distrito en el que vive: San Borja
+    </li>
+    <li>
+        Nivel socioeconómico: Clase B
+    </li>
+</ul>
+Entrevista:
+<ul>
+    <li>
+        Link: <a href="https://www.youtube.com/watch?v=V8NYPikl5B8">Click para ver entrevista</a>
+    </li>
+    <li>
+        Momento en el que inicia: 0:00
+    </li>
+    <li>
+        Duración: 10:45
+    </li>
+      <li>
+        Entrevistador: La Torre Valle, Franz Jair 
+    </li>
+</ul>
+<img src="imgs/EntrevistaAleshka.png" alt="Entrevista Autor 1">
+
+Resumen:
+<p align="justify">
+    Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
+</p>
+
+Entrevistado #2:
+
+<img src="imgs/entrevista2.png" alt="Entrevista - Autor 2">
+        <li>Entrevista 2: Oscar Champi</li>
+         <ul>
+            <li>Sexo: Masculino</li>
+            <li>Edad: 22 años</li>
+            <li>Distrito en el que vive: Puente Piedra</li>
+            <li>Nivel socioeconómico: Clase B</li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: https://drive.google.com/file/d/13qrrITuOfy22VegfnJmAIa2izpRvj6IX/view?usp=sharing</li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: 8:24</li>
+            <li>Entrevistador: Zárate Cáceres, Ernesto </li>
+        </ul>
+Resumen:
+<p align="justify">
+        Se entrevisto a Omar Champi Valencia, quien menciona tener un interés por la lectura. Él considera que leer le es fundamental para su desarrollo como autor. Piensa que le permite mejorar el lexico a su disposicion y le ayuda mucho 
+        aprender al analizar tecnicas y estilos de autores que admira. Menciona que la lectura le ayuda a su inspiracion y a encontrar nuevas idea para escribir en ciencia ficción, un género que le agrada por la libertad que ofrece al creer
+        nuevos personajes o mundos. Tambien menciona que le gustan los grupos de escritura, pues le permiten mejorar con apoyo mutuo. A su vez, recalca el uso de recompensas a su propio progreso.
+        Al momento de escribir, suele utilizar software especializado como Scribdr o Ulises, que le ayudan a organizarse y seguir su progreso. A lo largo de su carrera, ha enfrentado ciertos bloqueos y dudas en su mente, como rechazo por parte
+        de las demás personas. Por otro lado, recomienda a los novatos leer mucho, para que aprendan de sus ídolo, a quiens deben prestar atención en sus estilos y tecnicas. Menciona que es importante escribir con regularidad, para ganar practica
+        al experimentar y que no deben rendirse. Finalmente, menciona estar de acuerdo con la creación de una aplicación que fomente la lectura. De esta espera que le ayude a organizar sus ideas, promover su trabajo, conocer nuevos autores y generos 
+        y poder conectar con lectores para recibir retroalimentacion. <br>
+</p>
+
+Entrevistado #3: 
+
+Gabriel Duran
+![Entrevista3](./imgs/entrevistaMiguel.png)
+
+●	Sexo: Masculino
+
+●	Edad: 27 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1olBsJ-0aJsyimzoHnPQgJQht124PKbN6/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 12:25
+
+●	Enrevistador: Huamán Cataño, Miguel Ángel
+
+Resumen:
+<p align="justify">
+Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
+</p>
+Entrevistado #4: 
+
+Daniel Perez Mendoza
+![Entrevista3](./imgs/entrevista_Daniel.PNG)
+
+●	Sexo: Masculino
+
+●	Edad: 50 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/EdqcvSlWi6RFpbOr0GisH6wBb1Gzc9PT19T7O1gyKwwF2w?e=LWStI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 7:48
+
+●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
+
+Resumen:
+<p align="justify">
+Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
+</p>
+
+### 2.2.3. Análisis de entrevistas
+Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
+
+### Segmento Objetivo #1: Lectores
+
+<p align="justify">
+    Los lectores expresaron un fuerte deseo de formar parte de una comunidad literaria donde puedan interactuar con otros lectores, discutir libros, compartir experiencias de lectura y descubrir nuevas obras. Además, mostraron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros. La personalización de perfiles y recomendaciones basadas en gustos individuales, así como la posibilidad de compartir reseñas y recomendaciones con la comunidad, fueron aspectos destacados. En conclusión, los usuarios buscan una plataforma que fomente la interacción entre lectores, proporcione acceso a eventos con autores y ofrezca herramientas de personalización para mejorar su experiencia de lectura.
+</p>
+
+### Segmento Objetivo #2:  Autores
+
+<p align="justify">
+    Los autores buscan una plataforma que les permita interactuar con los lectores, promocionar sus libros y participar en eventos virtuales. Valorizan el feedback directo de los lectores y desean visibilidad, especialmente para autores emergentes, así como herramientas para el descubrimiento de sus obras. La posibilidad de participar en clubes de lectura virtuales y la seguridad de su información, junto con análisis de datos sobre el rendimiento de sus libros, también son aspectos importantes para ellos.
+</p>
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+Lectores:
+
+![Lectores](./imgs/UserPersonaLector.png)
+
+Autores:
+
+![Lectores](./imgs/UserPersonaAutor.png)
 
 ## **Capítulo III: Architecture**
 
