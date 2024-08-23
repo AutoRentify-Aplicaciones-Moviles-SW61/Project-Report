@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
 <br><img src="images/upcLogo.png"></img><br>  
     <strong>Ingeniería de Software - 202402</strong><br>
@@ -462,42 +462,45 @@ Estos segmentos objetivo permiten a AutoRentify enfocar sus esfuerzos de desarro
 ## ¿Por qué llevar a cabo este análisis?
 Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.
 
+## 2.1. Competidores
+
+Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
+
+<ul>
+    <li>
+        <b>Hertz: </b>Una de las compañías de alquiler de vehículos más conocidas a nivel mundial, Hertz ofrece una amplia gama de coches para alquilar, con opciones flexibles de recogida y devolución en múltiples ubicaciones. La empresa es reconocida por su extensa red de sucursales y programas de fidelización para clientes frecuentes.
+    </li>
+    <li>
+        <b>Avis: </b>Empresa líder en alquiler de coches, Avis se especializa en ofrecer una experiencia de alquiler rápida y conveniente, con opciones para alquileres a corto y largo plazo. Avis también tiene un programa de suscripción que permite a los usuarios acceder a vehículos con tarifas reducidas durante periodos más largos.
+    </li>
+    <li>
+        <b>Enterprise: </b>Con una red global y una reputación sólida en el mercado de alquiler de vehículos, Enterprise ofrece una amplia selección de coches, desde económicos hasta de lujo. Además de sus servicios tradicionales, Enterprise también cuenta con opciones de alquiler a domicilio y planes de suscripción para alquileres prolongados.
+    </li>
+</ul>
+
 ## Competidores
 
-| **Nombre** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
-|------------|------------------|-----------|----------|----------|
-| **Logo**   | ![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png) | ![Hertz Logo](./imgs/hertz_logo.png) | ![Avis Logo](./imgs/avis_logo.png) | ![Sixt Logo](./imgs/sixt_logo.png) |
+|### 2.1.1. Análisis competitivo
 
-### Perfil
-
-| **Perfil** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
-|------------|------------------|-----------|----------|----------|
-| **Overview** | Aplicación diseñada para alquilar vehículos rápidamente, con una amplia gama de opciones y una experiencia de usuario optimizada para la comodidad. Ofrece suscripción premium con tarifas reducidas para alquileres prolongados y soporte 24/7. | Compañía global de alquiler de autos con una gran variedad de vehículos disponibles en ubicaciones clave alrededor del mundo. Ofrece programas de fidelidad y servicios de alquiler flexibles. | Multinacional de alquiler de autos que se enfoca en la calidad del servicio al cliente y la facilidad de acceso a vehículos en una red global de ubicaciones. Ofrece programas de fidelidad y opciones de alquiler a corto y largo plazo. | Proveedor de alquiler de vehículos con un enfoque en el servicio premium y una flota diversa que incluye desde autos económicos hasta de lujo. Enfocado en la innovación tecnológica y la expansión internacional. |
-| **Ventaja competitiva** | Rapidez en el proceso de alquiler, variedad de vehículos, opciones de suscripción premium, y facilidad en la gestión de reservas a través de la app. | Amplia red de ubicaciones, flota diversa, programas de fidelidad, y presencia global. | Servicio al cliente de alta calidad, opciones de alquiler flexibles, y una extensa red de ubicaciones. | Enfoque premium, flota diversa, opciones de alquiler de lujo, y una fuerte presencia en mercados internacionales. |
-
-### Perfil de Marketing
-
-| **Perfil de Marketing** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
-|-------------------------|------------------|-----------|----------|----------|
-| **Mercado objetivo** | Usuarios digitales que buscan alquilar vehículos rápidamente, turistas, viajeros de negocios, y usuarios frecuentes que prefieren la comodidad de un servicio premium. | Viajeros frecuentes, turistas, clientes corporativos, y usuarios que buscan un servicio confiable a nivel global. | Viajeros frecuentes, turistas, clientes corporativos, y usuarios que valoran la calidad del servicio. | Viajeros de lujo, turistas, clientes corporativos, y usuarios que buscan una experiencia de alquiler premium. |
-| **Estrategias de Marketing** | Presencia fuerte en plataformas digitales, campañas en redes sociales, promociones para suscriptores premium, y colaboraciones con influencers. | Publicidad en medios tradicionales y digitales, programas de lealtad, asociaciones con aerolíneas y hoteles, y promociones estacionales. | Publicidad en medios tradicionales y digitales, programas de lealtad, promociones en aeropuertos, y campañas en redes sociales. | Marketing enfocado en la innovación y el lujo, promociones en aeropuertos, y alianzas con marcas de lujo y eventos exclusivos. |
-
-### Perfil de Producto
-
-| **Perfil de Producto** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
-|------------------------|------------------|-----------|----------|----------|
-| **Productos y Servicios** | Aplicación de alquiler de vehículos, suscripción premium, soporte 24/7, y opciones de entrega y recogida a domicilio. | Alquiler de autos, programas de lealtad, alquiler de vehículos comerciales, y servicios de recogida y entrega. | Alquiler de autos, programas de lealtad, servicios de alquiler a largo plazo, y opciones de entrega y recogida. | Alquiler de autos, opciones de alquiler de lujo, programas de fidelidad, y servicios de recogida y entrega en ubicaciones premium. |
-| **Precios y Costos** | Tarifas competitivas con opción de suscripción premium para descuentos adicionales en alquileres prolongados. | Tarifas basadas en la ubicación y el tipo de vehículo, con opciones de membresía para descuentos. | Tarifas competitivas con opciones de membresía y descuentos por alquileres frecuentes. | Tarifas premium con opciones de membresía para descuentos en vehículos de lujo y servicios adicionales. |
-| **Canales de Distribución** | - Aplicación móvil (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) | - Página web | - Aplicaciones móviles (iOS y Android) |
-
-### Análisis FODA
-
-| **Análisis FODA** | **Gotta Go Fast** | **Hertz** | **Avis** | **Sixt** |
-|------------------|------------------|-----------|----------|----------|
-| **Fortalezas** | - Proceso rápido de alquiler | - Flota diversa | - Opción de suscripción premium | - Facilidad de uso de la aplicación | - Red global de ubicaciones | - Flota diversa | - Programas de fidelidad | - Servicio al cliente | - Extensa red de ubicaciones | - Programas de fidelidad | - Fuerte enfoque en el lujo | - Innovación tecnológica | - Flota de vehículos premium |
-| **Debilidades** | - Dependencia de la tecnología | - Competencia feroz | - Costos operativos elevados | - Fluctuación en la demanda | - Competencia en el mercado global | - Costos operativos | - Dependencia de aeropuertos y ubicaciones específicas | - Costos elevados de operación | - Competencia feroz | |
-| **Oportunidades** | - Expansión en nuevos mercados | - Colaboraciones estratégicas | - Innovación en la app | - Expansión en mercados emergentes | - Innovación en servicios digitales | - Expansión global | - Asociaciones estratégicas | - Innovación tecnológica | - Expansión en mercados emergentes | - Enfoque en sostenibilidad | - Innovación en servicios | - Expansión global | |
-| **Amenazas** | - Competencia de grandes players | - Cambios en las preferencias de los usuarios | - Problemas de regulación | - Competencia feroz | - Cambios en el mercado | - Regulaciones gubernamentales | - Competencia en el mercado global | - Cambios en las regulaciones | - Cambios en el mercado | - Cambios en el comportamiento del consumidor | - Competencia feroz | |
+<table>
+<tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
+<tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="7" valign="top">Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado de alquiler de vehículos.</td></tr>
+<tr><td colspan="6" valign="top"><b>Nombre</b></td><td colspan="3" valign="top"><b>Gotta Go Fast</b></td><td colspan="3" valign="top"><b>Hertz</b></td><td colspan="3" valign="top"><b>Avis</b></td><td valign="top"><b>Enterprise</b></td></tr>
+<tr><td colspan="6" valign="top"><b>Logo</b></td><td colspan="3" valign="top"><img src="./imgs/gottagofast.png"></td><td colspan="3" valign="top"><img src="./imgs/hertz.png"></td><td colspan="3" valign="top"><img src="./imgs/avis.png"></td><td valign="top"><img src="./imgs/enterprise.png"></td></tr>
+<tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para simplificar el alquiler de vehículos, ofreciendo una amplia gama de coches y una interfaz intuitiva para realizar reservas rápidas. También cuenta con un plan de suscripción para usuarios regulares.</td><td colspan="3" rowspan="2" valign="top">Una de las compañías líderes a nivel mundial en alquiler de vehículos, conocida por su amplia red de sucursales y variedad de coches, con un enfoque en la conveniencia y la flexibilidad del cliente.</td><td colspan="3" rowspan="2" valign="top">Empresa especializada en el alquiler rápido y conveniente de coches, con opciones de alquiler a corto y largo plazo. Ofrece programas de fidelización y servicios adicionales.</td><td rowspan="2" valign="top">Una de las empresas más grandes en el mercado global de alquiler de vehículos, con una extensa selección de coches y servicios adicionales como alquiler a domicilio. Se enfoca en ofrecer opciones flexibles y convenientes para todos los clientes.</td></tr>
+<tr></tr>
+<tr><td colspan="3" rowspan="2" valign="top"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td><td colspan="3" rowspan="2" valign="top">Rapidez en el proceso de alquiler, una amplia selección de vehículos, opciones de entrega a domicilio, y precios competitivos con un plan de suscripción premium.</td><td colspan="3" rowspan="2" valign="top">Amplia red de ubicaciones, variedad de vehículos, y programas de fidelización para clientes frecuentes.</td><td colspan="3" rowspan="2" valign="top">Proceso de alquiler eficiente, acceso a una gama diversa de coches, y un sólido programa de fidelización.</td><td rowspan="2" valign="top">Extensa red global, opciones de alquiler flexibles, y servicios adicionales como el alquiler a domicilio y planes de suscripción.</td></tr>
+<tr></tr>
+<tr><td colspan="3" rowspan="2" valign="top"><b>Perfil de Marketing</b></td><td colspan="3" valign="top"><b>Mercado objetivo</b></td><td colspan="3" valign="top">Viajeros frecuentes, turistas, conductores ocasionales, y suscriptores de servicios de transporte.</td><td colspan="3" valign="top">Viajeros de negocios, turistas, y clientes corporativos.</td><td colspan="3" valign="top">Turistas, viajeros de negocios, y usuarios regulares de servicios de alquiler de vehículos.</td><td valign="top">Turistas, familias, viajeros de negocios, y clientes corporativos.</td></tr>
+<tr><td colspan="3" valign="top"><b>Estrategias de Marketing</b></td><td colspan="3" valign="top"><p>Marketing digital, promociones para suscriptores, alianzas con hoteles y aerolíneas, y presencia en redes sociales.</p></td><td colspan="3" valign="top"><p>Publicidad en aeropuertos, promociones para clientes frecuentes, y colaboraciones con empresas de viajes.</p></td><td colspan="3" valign="top"><p>Promociones en línea, programas de lealtad, y campañas de marketing digital.</p></td><td valign="top"><p>Publicidad global, programas de fidelización, y promociones en línea.</p></td></tr>
+<tr><td colspan="3" rowspan="3" valign="top"><b>Perfil de producto</b></td><td colspan="3" valign="top"><b>Productos y Servicios</b></td><td colspan="3" valign="top">Alquiler de vehículos, suscripción premium, entrega a domicilio, y soporte 24/7.</td><td colspan="3" valign="top">Alquiler de vehículos, programas de fidelización, y opciones de alquiler a largo plazo.</td><td colspan="3" valign="top">Alquiler de coches, opciones de seguro, y programas de fidelización.</td><td valign="top">Alquiler de vehículos, alquiler a domicilio, y suscripción premium.</td></tr>
+<tr><td colspan="3" valign="top"><b>Precios y Costos</b></td><td colspan="3" valign="top">Ofrece tarifas competitivas con descuentos para suscriptores. El plan premium tiene un costo mensual de $29.99 USD.</td><td colspan="3" valign="top">Tarifas de alquiler varían según el vehículo y la ubicación, con programas de fidelización que ofrecen descuentos.</td><td colspan="3" valign="top">Tarifas competitivas, con descuentos disponibles a través de programas de lealtad y promociones estacionales.</td><td valign="top">Varía según el tipo de vehículo y duración del alquiler, con descuentos para suscriptores y usuarios frecuentes.</td></tr>
+<tr><td colspan="3" valign="top"><b>Canales de distribución</b></td><td colspan="3" valign="top"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td><td colspan="3" valign="top"><p>- Sucursales físicas</p><p>- Página web</p><p>- Aplicaciones móviles</p></td><td colspan="3" valign="top"><p>- Sucursales físicas</p><p>- Página web</p><p>- Aplicaciones móviles</p></td><td valign="top"><p>- Sucursales físicas</p><p>- Página web</p><p>- Aplicaciones móviles</p></td></tr>
+<tr><td colspan="3" rowspan="4" valign="top"><b>Análisis FODA</b></td><td colspan="3" valign="top"><b>Fortalezas</b></td><td colspan="3" valign="top"><p>- Rapidez y conveniencia</p><p>- Amplia selección de vehículos</p><p>- Plan de suscripción premium</p></td><td colspan="3" valign="top"><p>- Red global de ubicaciones</p><p>- Amplia gama de vehículos</p><p>- Reputación consolidada</p></td><td colspan="3" valign="top"><p>- Procesos de alquiler eficientes</p><p>- Amplia red de ubicaciones</p><p>- Programas de fidelización sólidos</p></td><td valign="top"><p>- Red global</p><p>- Flexibilidad de opciones</p><p>- Servicios adicionales</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Debilidades</b></td><td colspan="3" valign="top"><p>- Competencia feroz</p><p>- Dependencia de la tecnología</p></td><td colspan="3" valign="top"><p>- Precios relativamente altos</p><p>- Procesos de alquiler a veces lentos</p></td><td colspan="3" valign="top"><p>- Tarifas más altas</p><p>- Competencia intensa</p></td><td valign="top"><p>- Tarifas relativamente altas</p><p>- Competencia</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Oportunidades</b></td><td colspan="3" valign="top"><p>- Expansión internacional</p><p>- Alianzas estratégicas</p><p>- Innovación tecnológica</p></td><td colspan="3" valign="top"><p>- Crecimiento en mercados emergentes</p><p>- Innovación en servicios</p><p>- Expansión de la red</p></td><td colspan="3" valign="top"><p>- Expansión en mercados emergentes</p><p>- Innovación en procesos de alquiler</p></td><td valign="top"><p>- Expansión en nuevos mercados</p><p>- Colaboraciones estratégicas</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Amenazas</b></td><td colspan="3" valign="top"><p>- Competencia de otras plataformas de alquiler</p><p>- Cambios en la tecnología</p><p>- Regulaciones locales</p></td><td colspan="3" valign="top"><p>- Cambios en las regulaciones</p><p>- Competencia de empresas emergentes</p><p>- Disrupción tecnológica</p></td><td colspan="3" valign="top"><p>- Competencia de nuevas plataformas</p><p>- Cambios en la regulación</p></td><td valign="top"><p>- Competencia de nuevas plataformas de alquiler</p><p>- Cambios en la regulación</p></td></tr>
+</table>
 
 En nuestro análisis de los segmentos objetivos, hemos identificado las siguientes necesidades principales que deben ser resueltos:
 
