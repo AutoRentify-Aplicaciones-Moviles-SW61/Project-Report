@@ -816,8 +816,6 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
     Los autores buscan una plataforma que les permita interactuar con los lectores, promocionar sus libros y participar en eventos virtuales. Valorizan el feedback directo de los lectores y desean visibilidad, especialmente para autores emergentes, así como herramientas para el descubrimiento de sus obras. La posibilidad de participar en clubes de lectura virtuales y la seguridad de su información, junto con análisis de datos sobre el rendimiento de sus libros, también son aspectos importantes para ellos.
 </p>
 
-## 2.3. Needfinding
-
 ### 2.3.1. User Personas
 
 Lectores:
@@ -827,6 +825,36 @@ Lectores:
 Autores:
 
 ![Lectores](./imgs/UserPersonaAutor.png)
+
+### 2.3.2. User Task Matrix
+
+# Segmento 1: Personas Locales Sin Vehículos
+
+| Actividad                            | Descripción                                         | Frecuencia | Importancia |
+|--------------------------------------|-----------------------------------------------------|------------|-------------|
+| Buscar opciones de transporte        | Investigar diferentes medios de transporte disponibles. | Alta       | Alta        |
+| Comparar precios de alquiler de vehículos | Evaluar costos entre distintas opciones de alquiler. | Alta       | Alta        |
+| Reservar un vehículo                 | Hacer una reserva para un vehículo según las necesidades. | Alta       | Alta        |
+| Recoger el vehículo                  | Ir a recoger el vehículo reservado.                | Baja       | Alta        |
+| Devolver el vehículo                 | Entregar el vehículo al finalizar el alquiler.     | Baja       | Alta        |
+| Gestionar reservas y pagos            | Administrar reservas y pagos a través de una aplicación o web. | Alta       | Alta        |
+| Leer reseñas y valoraciones          | Consultar opiniones de otros usuarios sobre el servicio. | Media      | Alta        |
+| Solicitar asistencia al cliente      | Contactar soporte para resolver problemas o dudas. | Baja       | Media       |
+| Aprovechar ofertas y promociones     | Buscar y usar descuentos disponibles en el servicio de alquiler. | Media      | Media       |
+
+# Segmento 2: Turistas
+
+| Actividad                                    | Descripción                                                       | Frecuencia | Importancia |
+|----------------------------------------------|-------------------------------------------------------------------|------------|-------------|
+| Buscar opciones de alquiler de vehículos     | Investigar y explorar las opciones disponibles para alquilar un coche. | Alta       | Alta        |
+| Comparar precios y condiciones de alquiler  | Evaluar y comparar los costos y términos de alquiler entre distintas empresas. | Alta       | Alta        |
+| Reservar un vehículo antes de llegar        | Hacer una reserva anticipada del vehículo para asegurar disponibilidad. | Alta       | Alta        |
+| Recoger el vehículo en el aeropuerto o hotel | Ir a recoger el vehículo en el lugar acordado, como el aeropuerto o el hotel. | Alta       | Alta        |
+| Devolver el vehículo al final del viaje     | Entregar el vehículo en el lugar de devolución acordado al final del alquiler. | Alta       | Alta        |
+| Gestionar reservas y pagos a través de una app | Administrar reservas y pagos mediante una aplicación móvil. | Alta       | Alta        |
+| Leer reseñas y valoraciones de otros turistas | Consultar opiniones y valoraciones de otros turistas sobre el servicio. | Media      | Media        |
+| Solicitar asistencia para recomendaciones locales | Pedir recomendaciones sobre lugares de interés locales o problemas con el vehículo. | Baja     | Media       |
+| Aprovechar promociones especiales para turistas | Buscar y utilizar ofertas y descuentos disponibles para turistas. | Media    | Media       |
 
 ## **Capítulo III: Architecture**
 
