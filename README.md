@@ -180,6 +180,37 @@
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
 
+
+## **Objetivos Smart**
+
+<table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Plan</th>
+        </tr>
+        <tr>
+            <td>Christian Renato Espinoza Saenz</td>
+            <td>Uno de mis objetivos es mejorar la usabilidad de la aplicación móvil haciendo que la interfaz de usuario sea más cómoda para el usuario basandome en principios fundamentales de UX que he aprendido. Planeo realizar estas mejoras dedicando al menos 6 horas semanales a nuestro proyecto.</td>
+        </tr>
+        <tr>
+            <td>Julio Esteban Elsner De La Torre Ugarte</td>
+            <td>Para el desarrollo del backend me propongo implementar correctamente las funcionalidades básicas de la arquitectura RESTful para la aplicación "Gotta Go Fast". Para ello aplicaré lo aprendido en los cursos anterior para nuestro proyecto dedicandole 8 horas semanales.</td>
+        </tr>
+        <tr>
+            <td>Joaquin David Rivadeneyra Ramos</td>
+            <td>Me considero bueno con en analisis de datos, por lo que mi objetivo es revisar detenidamente las entrevistas, utilizaré las respuestas para identificar patrones comunes en los usuarios y así llevar cuenta de las necesidades y percepción de nuestros segmentos objetivos. Para ello planeo necesitar al menos unas 7 horas semanales.</td>
+        </tr>
+        <tr>
+            <td>Alvaro Felipe Pinto Fuentes Rivera</td>
+            <td>Como mi punto fuerte es la busqueda de información planeo hacer dedicarme al menos 6 horas semanales a realizar una investigación profunda para hallar funciones necesarias o altamente solicitadas, además de explorar a la competencia para apoyar en el desarrollo de herramientas y aspectos que nos hagan diferenciar de los demás. </td>
+        </tr>
+        <tr>
+            <td>Serrano Ircañaupa, Nelson Elías</td>
+            <td>Yo me enfocaré en optimizar el código de la aplicación para mejorar su rendimiento. Mi objetivo es revisar las secciones clave del código para eliminar posibles redundancias. También, implementaré técnicas que aprendí en complejidad algoritmica. Dedicaré 6 horas semanales a esta tarea.</td>
+        </tr>
+    </table>
+
+
 ## **Capítulo I: Presentación**
 
 ### **1.1. Startup Profile**
