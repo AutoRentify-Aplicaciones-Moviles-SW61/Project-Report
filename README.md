@@ -801,6 +801,33 @@ Resumen:
 Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
 </p>
 
+Entrevistado N°5: Ian Sanchez
+
+  ![Entrevista](./imgs/ian-sanchez.png)
+
+●	Nombre: Ian Sanchez
+
+●	Edad: 21
+
+●	Sexo: Masculino
+
+●	Residencia: Venezuela
+
+●	Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1CTHywJLc25pq3jJwSrn3CqUlsw1fwwDR/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 8:53
+
+●	Entrevistador: Elsner De La Torre Ugarte, Julio 
+
+Resumen:
+<p align="justify">
+Ian Sanchez de 21 años, un turista que llegó desde Venezuela, comparte su experiencia de viaje y sus preferencias al alquilar un coche. Planea quedarse en la ciudad durante una semana y suele alquilar vehículos cuando viaja para mayor comodidad. Ian prefiere alquilar coches económicos y prioriza el precio y la facilidad de reserva. Le gusta tener flexibilidad en su itinerario, pero también valora la opción de reservar y pagar con antelación. Ha utilizado servicios de alquiler en otros países y considera crucial recibir el coche en el aeropuerto. Prefiere gestionar el alquiler desde una aplicación móvil, donde la seguridad y las políticas de la compañía son sus mayores preocupaciones. Además, aprecia poder leer reseñas de otros turistas, tener asistencia 24/7, y acceder a tarifas reducidas, lo cual influiría en su decisión. La personalización del servicio y promociones especiales también son importantes para él, y tras una buena experiencia, recomendaría Gotta Go Fast a otros turistas.
+</p>
+
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
