@@ -538,6 +538,16 @@ En nuestro análisis de los segmentos objetivos, hemos identificado las siguient
 **Segmento 2: **
 
 
+### **2.3.4 Empathy Mapping**
+
+**Segmento objetivo de turistas:**
+
+![Empathy map_TURISTA.png](images/Empathy%20map_TURISTA.png)
+
+**Segmento objetivo de residentes:**
+
+![Empathy map_NORMAL.png](images/Empathy%20map_NORMAL.png)
+
 
 ## **Capítulo III: Architecture**
 
@@ -566,6 +576,9 @@ En nuestro análisis de los segmentos objetivos, hemos identificado las siguient
 
 - Polanco Graciano, C. A., & Dino Aracena, L. A. (2022). Asistencia digital para rentas de vehículos en República Dominicana: apoyo mediante aplicación móvil (RentaMarketRD) (Doctoral dissertation, Santo Domingo: Universidad Iberoamericana (UNIBE)).
 https://repositorio.unibe.edu.do/jspui/handle/123456789/1352
+
+- 
+
 
 - 
 
