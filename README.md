@@ -570,17 +570,16 @@ En nuestro análisis de los segmentos objetivos, hemos identificado las siguient
 
 ## **Bibliografía**
 
-- 
-
 - Caguana-Tonato, Y., Luna-Carrillo, N., Atiaja-Freire, M., & Carrill-Rosero, D. (2022). Servicio de transporte turístico y las expectativas del viajero. CIENCIAMATRIA, 8(4), 1116-1127. https://doi.org/10.35381/cm.v8i4.915
+
+- Mantilla Falcón, L. M., Mantilla Falcón, M. S., Polit Chuez, G. M., & Castillo Martínez, D. C. (2022). Estrategias comerciales, personal selling y fidelización de clientes en una pyme de renta de autos. Uniandes Episteme, 9(3), 366–381.
+https://revista.uniandes.edu.ec/ojs/index.php/EPISTEME/article/view/2525
 
 - Polanco Graciano, C. A., & Dino Aracena, L. A. (2022). Asistencia digital para rentas de vehículos en República Dominicana: apoyo mediante aplicación móvil (RentaMarketRD) (Doctoral dissertation, Santo Domingo: Universidad Iberoamericana (UNIBE)).
 https://repositorio.unibe.edu.do/jspui/handle/123456789/1352
 
-- 
-
-
-- 
+- Polanco Graciano, C. A., & Dino Aracena, L. A. (2022). Asistencia digital para rentas de vehículos en República Dominicana: apoyo mediante aplicación móvil (RentaMarketRD) (Doctoral dissertation, Santo Domingo: Universidad Iberoamericana (UNIBE)).
+https://repositorio.pascualbravo.edu.co/handle/pascualbravo/2371
 
 ## **Anexos**
 
