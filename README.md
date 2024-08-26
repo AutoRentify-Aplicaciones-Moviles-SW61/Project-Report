@@ -907,7 +907,14 @@ Autores:
 
 #### Segmento Personas Locales Sin Vehículos
 
+
+[![Impact Map](https://i.postimg.cc/ZYLmTQLQ/Impact-map-1-segmento.png)](https://i.postimg.cc/ZYLmTQLQ/Impact-map-1-segmento.png)
+
+
 #### Segmento Turistas
+
+[![Impact Map](https://i.postimg.cc/zBJdpxRL/Impact-map-1-12-segmento.png)](https://i.postimg.cc/zBJdpxRL/Impact-map-1-12-segmento.png)
+
 
 ## **Capítulo IV: Backend Product Implementation & Validation**
 
