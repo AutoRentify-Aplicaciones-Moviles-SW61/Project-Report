@@ -484,7 +484,7 @@ Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
 <tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
 <tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="7" valign="top">Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado de alquiler de vehículos.</td></tr>
 <tr><td colspan="6" valign="top"><b>Nombre</b></td><td colspan="3" valign="top"><b>Gotta Go Fast</b></td><td colspan="3" valign="top"><b>Hertz</b></td><td colspan="3" valign="top"><b>Avis</b></td><td valign="top"><b>Enterprise</b></td></tr>
-<tr><td colspan="6" valign="top"><b>Logo</b></td><td colspan="3" valign="top"><img src="./imgs/gottagofast.png"></td><td colspan="3" valign="top"><img src="./imgs/hertz.png"></td><td colspan="3" valign="top"><img src="./imgs/avis.png"></td><td valign="top"><img src="./imgs/enterprise.png"></td></tr>
+<tr><td colspan="6" valign="top"><b>Logo</b></td><td colspan="3" valign="top"><img src="./imgs/gottalogo.jpg"></td><td colspan="3" valign="top"><img src="./imgs/hertz.png"></td><td colspan="3" valign="top"><img src="./imgs/avis.png"></td><td valign="top"><img src="./imgs/enter.png"></td></tr>
 <tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para simplificar el alquiler de vehículos, ofreciendo una amplia gama de coches y una interfaz intuitiva para realizar reservas rápidas. También cuenta con un plan de suscripción para usuarios regulares.</td><td colspan="3" rowspan="2" valign="top">Una de las compañías líderes a nivel mundial en alquiler de vehículos, conocida por su amplia red de sucursales y variedad de coches, con un enfoque en la conveniencia y la flexibilidad del cliente.</td><td colspan="3" rowspan="2" valign="top">Empresa especializada en el alquiler rápido y conveniente de coches, con opciones de alquiler a corto y largo plazo. Ofrece programas de fidelización y servicios adicionales.</td><td rowspan="2" valign="top">Una de las empresas más grandes en el mercado global de alquiler de vehículos, con una extensa selección de coches y servicios adicionales como alquiler a domicilio. Se enfoca en ofrecer opciones flexibles y convenientes para todos los clientes.</td></tr>
 <tr></tr>
 <tr><td colspan="3" rowspan="2" valign="top"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td><td colspan="3" rowspan="2" valign="top">Rapidez en el proceso de alquiler, una amplia selección de vehículos, opciones de entrega a domicilio, y precios competitivos con un plan de suscripción premium.</td><td colspan="3" rowspan="2" valign="top">Amplia red de ubicaciones, variedad de vehículos, y programas de fidelización para clientes frecuentes.</td><td colspan="3" rowspan="2" valign="top">Proceso de alquiler eficiente, acceso a una gama diversa de coches, y un sólido programa de fidelización.</td><td rowspan="2" valign="top">Extensa red global, opciones de alquiler flexibles, y servicios adicionales como el alquiler a domicilio y planes de suscripción.</td></tr>
@@ -524,7 +524,7 @@ Nuestras tácticas incluyen la implementación de estudios de mercado continuos 
 
 ### 2.2.1. Diseño de entrevistas
 
-### Segmento 1: Personas Locales Sin Vehículos
+### Segmento 1: Personas Locales y turistas Sin Vehículos
 
 1. **¿Podrías contarnos un poco sobre tu estilo de vida en la ciudad?**
 2. **¿Cómo sueles desplazarte a tus actividades diarias, como trabajo, estudios o ocio?**
@@ -547,52 +547,54 @@ Nuestras tácticas incluyen la implementación de estudios de mercado continuos 
 19. **¿Qué tan probable sería que recomendaras un servicio como Gotta Go Fast a tus conocidos?**
 20. **¿Qué función crees que mejoraría más tu experiencia como usuario local sin coche en un servicio de alquiler?**
 
-### Segmento 2: Turistas
+### Segmento 2:  Empresas que ponen en alquiler sus vehículos
 
-1. **¿De dónde vienes y qué te trae a esta ciudad?**
-2. **¿Cuánto tiempo planeas quedarte aquí durante tu visita?**
-3. **¿Sueles alquilar vehículos cuando viajas? ¿Por qué sí o por qué no?**
-4. **¿Qué tipo de vehículo prefieres alquilar cuando viajas (económico, SUV, coche de lujo, etc.)?**
-5. **¿Cuál es tu principal prioridad al alquilar un coche durante un viaje (comodidad, precio, facilidad de reserva)?**
-6. **¿Cuáles son los principales factores que te harían elegir una opción de alquiler de vehículos (ubicación de recogida, precio, tipo de vehículo)?**
-7. **¿Sueles buscar vehículos que se adapten a tu itinerario turístico o prefieres flexibilidad?**
-8. **¿Te interesa la posibilidad de reservar y pagar el alquiler del coche con antelación antes de llegar a tu destino?**
-9. **¿Has utilizado servicios de alquiler de coches en otras ciudades o países? ¿Cómo fue tu experiencia?**
-10. **¿Qué tan importante es para ti la opción de recibir el coche en el aeropuerto o en tu hotel?**
-11. **¿Prefieres gestionar el alquiler de vehículos desde una aplicación móvil o en persona?**
-12. **¿Cuál es tu mayor preocupación al alquilar un coche en una ciudad nueva (seguridad, precio, políticas de la compañía)?**
-13. **¿Te gustaría tener acceso a recomendaciones locales sobre los mejores lugares para recoger y devolver el coche?**
-14. **¿Cuánto valoras la posibilidad de leer reseñas de otros turistas sobre sus experiencias de alquiler?**
-15. **¿Te gustaría contar con un servicio de asistencia al cliente disponible 24/7 en caso de necesitar ayuda con tu alquiler?**
-16. **¿Cuánto influirían las tarifas reducidas en tu decisión de alquilar un vehículo a través de la app?**
-17. **¿Qué importancia le das a la posibilidad de personalizar el servicio, como elegir el lugar exacto de recogida y devolución del coche?**
-18. **¿Estarías interesado en promociones especiales para turistas que alquilan por varios días?**
-19. **¿Qué funciones te resultarían más útiles para facilitar el proceso de alquiler durante tu viaje?**
-20. **¿Recomendarías un servicio como Gotta Go Fast a otros turistas después de utilizarlo?**
+1. **¿Cuáles son los principales desafíos que enfrenta al administrar su flota de vehículos?**
+2. **¿Qué criterios utiliza para determinar la rentabilidad de un vehículo en alquiler?**
+3. **¿Qué tipo de vehículos son los más solicitados por sus clientes?**
+4. **¿Cómo maneja el mantenimiento y las reparaciones de los vehículos en su flota?**
+5. **¿Qué tecnologías utiliza actualmente para gestionar sus operaciones de alquiler de vehículos?**
+6. **¿Cuáles son sus principales canales de adquisición de clientes?**
+7. **¿Cómo se asegura de que sus vehículos estén en las mejores condiciones para los clientes?**
+8. **¿Qué tan importante es para usted la seguridad y la eficiencia de los vehículos?**
+9. **¿Cómo maneja la rotación de vehículos en su flota?**
+10. **¿Cuál es su proceso para fijar precios de alquiler?**
+11. **¿Cuáles son las principales quejas que recibe de sus clientes?**
+12. **¿Qué medidas toma para mejorar la satisfacción del cliente?**
+13. **¿Qué estrategias utiliza para diferenciarse de la competencia en el mercado de alquiler de vehículos?**
+14. **¿Cómo se adapta a las fluctuaciones en la demanda de alquileres de vehículos?**
+15. **¿Qué aspectos considera al elegir una plataforma para alquilar sus vehículos?**
+16. **¿Cuál es su proceso para evaluar el rendimiento de su flota de alquiler?**
+17. **¿Cómo maneja los riesgos asociados con el alquiler de vehículos, como accidentes o daños?**
+18. **¿Qué tan importante es la gestión de la reputación en su negocio?**
+19. **¿Qué programas o incentivos ofrece a los clientes habituales?**
+20. **¿Qué desafíos enfrenta al expandir su negocio de alquiler de vehículos a nuevas ubicaciones?**
+
 
 ### 2.2.2. Registro de entrevistas
-### Lectores:
+
+### Personas Locales y turistas Sin Vehículos:
 
 Entrevistado #1: 
-![Estrevista1](./imgs/entrevistaHernan.png)
-Joseph Huammani
+![Estrevista1](./imgs/vz.jpg)
+Andres Valle Zuta
 
 ●	Sexo: Masculino
 
-●	Edad: 23 años
+●	Edad: 21 años
 
-●	Distrito en el que vive: Surquillo
+●	Distrito en el que vive: Surco
 
 ●	Nivel socioeconómico: Clase B
 Entrevista:
 
-●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=44kOELBy0ZU)
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1Z5x02-7qjcuB_dzeJoMgaNv1tYk5D18m/view?usp=sharing)
 
 ●	Momento en el que inicia: 0:00
 
-●	Duración: 4:20
+●	Duración: 6:03
 
-●	Entrevistador: Morales Calderón, Hernan Emilio
+●	Entrevistador: Rivadeneyra Ramos, Joaquin David
 
 Resumen:
 <p align="justify">
@@ -679,7 +681,7 @@ Resumen:
 Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
 </p>
 
-### Autores:
+### Empresas que ponen en alquiler sus vehículos:
 Entrevistada #1: Aleshka Fernandez
 
 <ul>
@@ -804,13 +806,13 @@ Daniel, escritor residente en Lima, con algo de experiencia publicando libros, h
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
-### Segmento Objetivo #1: Lectores
+### Segmento Objetivo #1: Personas Locales y turistas Sin Vehículos
 
 <p align="justify">
     Los lectores expresaron un fuerte deseo de formar parte de una comunidad literaria donde puedan interactuar con otros lectores, discutir libros, compartir experiencias de lectura y descubrir nuevas obras. Además, mostraron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros. La personalización de perfiles y recomendaciones basadas en gustos individuales, así como la posibilidad de compartir reseñas y recomendaciones con la comunidad, fueron aspectos destacados. En conclusión, los usuarios buscan una plataforma que fomente la interacción entre lectores, proporcione acceso a eventos con autores y ofrezca herramientas de personalización para mejorar su experiencia de lectura.
 </p>
 
-### Segmento Objetivo #2:  Autores
+### Segmento Objetivo #2:  Empresas que ponen en alquiler sus vehículos
 
 <p align="justify">
     Los autores buscan una plataforma que les permita interactuar con los lectores, promocionar sus libros y participar en eventos virtuales. Valorizan el feedback directo de los lectores y desean visibilidad, especialmente para autores emergentes, así como herramientas para el descubrimiento de sus obras. La posibilidad de participar en clubes de lectura virtuales y la seguridad de su información, junto con análisis de datos sobre el rendimiento de sus libros, también son aspectos importantes para ellos.
@@ -820,15 +822,15 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 Lectores:
 
-![Lectores](./imgs/UserPersonaLector.png)
+![Personas Locales y turistas Sin Vehículos](./imgs/turista.jpg)
 
 Autores:
 
-![Lectores](./imgs/UserPersonaAutor.png)
+![Empresas que ponen en alquiler sus vehículos](./imgs/UserPersonaAutor.png)
 
 ### 2.3.2. User Task Matrix
 
-# Segmento 1: Personas Locales Sin Vehículos
+# Segmento 1: Personas Locales y turistas Sin Vehículos
 
 | Actividad                            | Descripción                                         | Frecuencia | Importancia |
 |--------------------------------------|-----------------------------------------------------|------------|-------------|
@@ -842,19 +844,24 @@ Autores:
 | Solicitar asistencia al cliente      | Contactar soporte para resolver problemas o dudas. | Baja       | Media       |
 | Aprovechar ofertas y promociones     | Buscar y usar descuentos disponibles en el servicio de alquiler. | Media      | Media       |
 
-# Segmento 2: Turistas
+# Segmento 2: Empresas que ponen en alquiler sus vehículos
 
-| Actividad                                    | Descripción                                                       | Frecuencia | Importancia |
-|----------------------------------------------|-------------------------------------------------------------------|------------|-------------|
-| Buscar opciones de alquiler de vehículos     | Investigar y explorar las opciones disponibles para alquilar un coche. | Alta       | Alta        |
-| Comparar precios y condiciones de alquiler  | Evaluar y comparar los costos y términos de alquiler entre distintas empresas. | Alta       | Alta        |
-| Reservar un vehículo antes de llegar        | Hacer una reserva anticipada del vehículo para asegurar disponibilidad. | Alta       | Alta        |
-| Recoger el vehículo en el aeropuerto o hotel | Ir a recoger el vehículo en el lugar acordado, como el aeropuerto o el hotel. | Alta       | Alta        |
-| Devolver el vehículo al final del viaje     | Entregar el vehículo en el lugar de devolución acordado al final del alquiler. | Alta       | Alta        |
-| Gestionar reservas y pagos a través de una app | Administrar reservas y pagos mediante una aplicación móvil. | Alta       | Alta        |
-| Leer reseñas y valoraciones de otros turistas | Consultar opiniones y valoraciones de otros turistas sobre el servicio. | Media      | Media        |
-| Solicitar asistencia para recomendaciones locales | Pedir recomendaciones sobre lugares de interés locales o problemas con el vehículo. | Baja     | Media       |
-| Aprovechar promociones especiales para turistas | Buscar y utilizar ofertas y descuentos disponibles para turistas. | Media    | Media       |
+| Actividad                              | Descripción                                                                                                  | Frecuencia | Importancia |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------|-----------------|
+| Administrar la flota de vehículos         | Supervisar y mantener la flota en óptimas condiciones, incluyendo el mantenimiento y las reparaciones necesarias. | Alta           | Alta            |
+| Evaluar la rentabilidad de vehículos      | Analizar los ingresos y costos asociados a cada vehículo para determinar su rentabilidad.                         | Alta           | Alta            |
+| Gestionar reservas y disponibilidad        | Supervisar y gestionar la disponibilidad de los vehículos para maximizar la ocupación.                            | Alta           | Alta            |
+| Implementar tecnologías de gestión         | Utilizar software y herramientas tecnológicas para optimizar la gestión de la flota y las operaciones de alquiler. | Media          | Alta            |
+| Adquirir nuevos clientes                   | Desarrollar estrategias de marketing y ventas para atraer nuevos clientes y expandir la base de clientes.         | Alta           | Alta            |
+| Fijar precios de alquiler                 | Establecer tarifas competitivas para los vehículos en alquiler, basadas en la demanda y el mercado.               | Alta           | Alta            |
+| Manejar la rotación de la flota            | Decidir cuándo vender o renovar los vehículos en la flota para mantener la eficiencia y satisfacción del cliente.  | Media          | Alta            |
+| Asegurar la calidad del servicio           | Garantizar que los vehículos estén en perfectas condiciones para los clientes y que el servicio sea excelente.     | Alta           | Alta            |
+| Atender quejas y resolver problemas        | Gestionar las quejas de los clientes y resolver cualquier problema relacionado con el alquiler de vehículos.       | Media          | Alta            |
+| Evaluar la competencia y diferenciarse    | Analizar la competencia y desarrollar estrategias para diferenciarse en el mercado.                               | Media          | Alta            |
+| Adaptarse a fluctuaciones de demanda       | Ajustar la oferta de vehículos y las estrategias de marketing según la demanda estacional y las tendencias del mercado. | Media          | Media           |
+|Expansión a nuevas ubicaciones             | Planificar y ejecutar la expansión del negocio de alquiler de vehículos a nuevas ciudades o regiones.             | Baja           | Media           |
+| Gestionar la seguridad y eficiencia        | Asegurar que todos los vehículos cumplan con los estándares de seguridad y eficiencia para reducir riesgos.       | Alta           | Alta            |
+| Optimizar la gestión de pagos y reservas   | Facilitar la administración de pagos y reservas a través de plataformas tecnológicas.                             | Alta           | Alta            |
 
 ## **Capítulo III: Architecture**
 
