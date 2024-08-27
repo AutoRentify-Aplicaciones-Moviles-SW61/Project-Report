@@ -576,7 +576,7 @@ Nuestras tácticas incluyen la implementación de estudios de mercado continuos 
 ### Personas Locales y turistas Sin Vehículos:
 
 Entrevistado #1: 
-![Estrevista1](./images/vz.jpg)
+![Entrevista1](./images/vz.jpg)
 Andres Valle Zuta
 
 ●	Sexo: Masculino
@@ -598,7 +598,7 @@ Entrevista:
 
 Resumen:
 <p align="justify">
-El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
+Andrés Valle Zuta lleva un estilo de vida urbano en la ciudad, utilizando principalmente transporte público y aplicaciones de movilidad, sin interés en comprar un coche debido a los costos y la conveniencia del transporte alternativo. Alquila vehículos ocasionalmente, prefiriendo pequeños o SUV por días, y valora la facilidad de reservar a través de apps, destacando la importancia del precio, la variedad de vehículos y la opción de entrega a domicilio. Aunque ha experimentado retrasos en la entrega de vehículos, considera crucial la posibilidad de gestionar todo desde una aplicación, ver reseñas, acceder a soporte al cliente y recibir notificaciones de promociones, lo que aumentaría la probabilidad de que recomiende el servicio.
 </p>
 
 Entrevistado #2: 
@@ -820,13 +820,13 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 ### 2.3.1. User Personas
 
-Lectores:
+Personas Locales y turistas Sin Vehículos::
 
 ![Personas Locales y turistas Sin Vehículos](./images/turista.jpg)
 
-Autores:
+Empresas que ponen en alquiler sus vehículos:
 
-![Empresas que ponen en alquiler sus vehículos](./imgs/UserPersonaAutor.png)
+![Empresas que ponen en alquiler sus vehículos](./images/carlos.jpg)
 
 ### 2.3.2. User Task Matrix
 
