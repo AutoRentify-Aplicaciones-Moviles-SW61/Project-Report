@@ -484,7 +484,7 @@ Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
 <tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
 <tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="7" valign="top">Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado de alquiler de vehículos.</td></tr>
 <tr><td colspan="6" valign="top"><b>Nombre</b></td><td colspan="3" valign="top"><b>Gotta Go Fast</b></td><td colspan="3" valign="top"><b>Hertz</b></td><td colspan="3" valign="top"><b>Avis</b></td><td valign="top"><b>Enterprise</b></td></tr>
-<tr><td colspan="6" valign="top"><b>Logo</b></td><td colspan="3" valign="top"><img src="./imgs/gottalogo.jpg"></td><td colspan="3" valign="top"><img src="./imgs/hertz.png"></td><td colspan="3" valign="top"><img src="./imgs/avis.png"></td><td valign="top"><img src="./imgs/enter.png"></td></tr>
+<tr><td colspan="6" valign="top"><b>Logo</b></td><td colspan="3" valign="top"><img src="./images/gottalogo.jpg"></td><td colspan="3" valign="top"><img src="./images/hertz.png"></td><td colspan="3" valign="top"><img src="./images/avis.png"></td><td valign="top"><img src="./images/enter.png"></td></tr>
 <tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para simplificar el alquiler de vehículos, ofreciendo una amplia gama de coches y una interfaz intuitiva para realizar reservas rápidas. También cuenta con un plan de suscripción para usuarios regulares.</td><td colspan="3" rowspan="2" valign="top">Una de las compañías líderes a nivel mundial en alquiler de vehículos, conocida por su amplia red de sucursales y variedad de coches, con un enfoque en la conveniencia y la flexibilidad del cliente.</td><td colspan="3" rowspan="2" valign="top">Empresa especializada en el alquiler rápido y conveniente de coches, con opciones de alquiler a corto y largo plazo. Ofrece programas de fidelización y servicios adicionales.</td><td rowspan="2" valign="top">Una de las empresas más grandes en el mercado global de alquiler de vehículos, con una extensa selección de coches y servicios adicionales como alquiler a domicilio. Se enfoca en ofrecer opciones flexibles y convenientes para todos los clientes.</td></tr>
 <tr></tr>
 <tr><td colspan="3" rowspan="2" valign="top"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td><td colspan="3" rowspan="2" valign="top">Rapidez en el proceso de alquiler, una amplia selección de vehículos, opciones de entrega a domicilio, y precios competitivos con un plan de suscripción premium.</td><td colspan="3" rowspan="2" valign="top">Amplia red de ubicaciones, variedad de vehículos, y programas de fidelización para clientes frecuentes.</td><td colspan="3" rowspan="2" valign="top">Proceso de alquiler eficiente, acceso a una gama diversa de coches, y un sólido programa de fidelización.</td><td rowspan="2" valign="top">Extensa red global, opciones de alquiler flexibles, y servicios adicionales como el alquiler a domicilio y planes de suscripción.</td></tr>
@@ -576,7 +576,7 @@ Nuestras tácticas incluyen la implementación de estudios de mercado continuos 
 ### Personas Locales y turistas Sin Vehículos:
 
 Entrevistado #1: 
-![Estrevista1](./imgs/vz.jpg)
+![Estrevista1](./images/vz.jpg)
 Andres Valle Zuta
 
 ●	Sexo: Masculino
@@ -822,7 +822,7 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 Lectores:
 
-![Personas Locales y turistas Sin Vehículos](./imgs/turista.jpg)
+![Personas Locales y turistas Sin Vehículos](./images/turista.jpg)
 
 Autores:
 
