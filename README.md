@@ -1031,12 +1031,13 @@ A continuación, se muestra nuestro Product Backlog elaborado:
 
 
 ## **Conclusiones**
-
 ### Conclusiones y Recomendaciones
 
-La administración de flotas de vehículos en la industria de alquiler enfrenta desafíos como el mantenimiento, la gestión de reparaciones, y la optimización de la rotación para maximizar la rentabilidad. La eficiencia en estos aspectos es crucial, considerando que la rentabilidad depende de factores como la tasa de utilización, los costos de mantenimiento, y la depreciación de cada vehículo.
+La administración de flotas de vehículos en la industria de alquiler presenta desafíos importantes como el mantenimiento, la gestión de reparaciones y la optimización de la rotación para maximizar la rentabilidad. Estos factores son esenciales, ya que la rentabilidad depende de la tasa de utilización, los costos de mantenimiento y la depreciación de los vehículos. Una gestión eficiente en estos aspectos es clave para el éxito del negocio.
 
-Dado el contexto de un proceso de alquiler de autos tradicionalmente complejo y poco transparente, la aplicación móvil "Gotta Go Fast" se presenta como una solución innovadora. Esta herramienta permitirá gestionar de manera eficiente la renta de vehículos, optimizando la experiencia del usuario al facilitar la reserva, mejorar la transparencia en los precios y asegurar la disponibilidad en tiempo real.
+La aplicación móvil "Gotta Go Fast" se perfila como una solución innovadora para superar las deficiencias del proceso tradicional de alquiler de autos, que suele ser complejo y poco transparente. Esta herramienta promete mejorar la experiencia del usuario al simplificar el proceso de reserva, garantizar la transparencia en los precios y asegurar la disponibilidad en tiempo real, transformando la manera en que se gestiona la renta de vehículos.
+
+Se recomienda implementar funciones adicionales en "Gotta Go Fast" como un sistema de mantenimiento predictivo para anticipar reparaciones, personalización del servicio al cliente para aumentar la lealtad y algoritmos de optimización de rotación para maximizar la rentabilidad. Además, expandir la cobertura geográfica podría captar mercados desatendidos, ampliando el alcance y el impacto de la aplicación.
 
 ### Video App Validation
 ### Video About the product
