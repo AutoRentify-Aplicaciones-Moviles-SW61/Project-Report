@@ -769,7 +769,7 @@ Entrevista:
 
 ●	Duración: 9:04
 
-●	Enrevistador: Elsner De La Torre Ugarte, Julio Esteban
+●	Entrevistador: Elsner De La Torre Ugarte, Julio Esteban
 
 Resumen:
 <p align="justify">
@@ -799,7 +799,7 @@ Entrevista:
 
 ●	Duración: 4:58 
 
-●	Enrevistador: Serrano Ircañaupa, Nelson Elías
+●	Entrevistador: Serrano Ircañaupa, Nelson Elías
 
 Resumen:
 <p align="justify">
@@ -813,13 +813,13 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 ### Segmento Objetivo #1: Personas interesadas en alquilar vehículos
 
 <p align="justify">
-    Los lectores expresaron un fuerte deseo de formar parte de una comunidad literaria donde puedan interactuar con otros lectores, discutir libros, compartir experiencias de lectura y descubrir nuevas obras. Además, mostraron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros. La personalización de perfiles y recomendaciones basadas en gustos individuales, así como la posibilidad de compartir reseñas y recomendaciones con la comunidad, fueron aspectos destacados. En conclusión, los usuarios buscan una plataforma que fomente la interacción entre lectores, proporcione acceso a eventos con autores y ofrezca herramientas de personalización para mejorar su experiencia de lectura.
+    Durante las entrevistas, se identificó que las personas interesadas en alquilar vehículos buscan principalmente comodidad y facilidad en el proceso de alquiler. Expresaron un fuerte deseo de contar con una aplicación móvil que les permita gestionar todo el proceso de alquiler de manera rápida y eficiente, desde la búsqueda del vehículo hasta su devolución. Además, valoran la posibilidad de comparar precios y leer reseñas de otros usuarios para tomar decisiones informadas. La personalización de las opciones de alquiler, como la elección del tipo de vehículo según sus necesidades y la flexibilidad en el tiempo de alquiler (horas, días, semanas), es crucial para estos usuarios. En resumen, los clientes buscan una plataforma que facilite el proceso de alquiler, ofrezca opciones personalizadas y permita una gestión integral a través de una aplicación móvil..
 </p>
 
 ### Segmento Objetivo #2:  Empresas que ponen en alquiler sus vehículos
 
 <p align="justify">
-    Los autores buscan una plataforma que les permita interactuar con los lectores, promocionar sus libros y participar en eventos virtuales. Valorizan el feedback directo de los lectores y desean visibilidad, especialmente para autores emergentes, así como herramientas para el descubrimiento de sus obras. La posibilidad de participar en clubes de lectura virtuales y la seguridad de su información, junto con análisis de datos sobre el rendimiento de sus libros, también son aspectos importantes para ellos.
+    Las entrevistas con los dueños de empresas que ponen en alquiler sus vehículos revelaron que estos buscan una plataforma que optimice la gestión de su flota y aumente la visibilidad de sus servicios. Valoran especialmente la capacidad de recibir retroalimentación directa de los clientes y de utilizar herramientas de análisis para mejorar sus operaciones. También consideran crucial la seguridad en la transacción y la flexibilidad para ajustar las ofertas y promociones en función de la demanda del mercado. La posibilidad de integrar la plataforma con sus sistemas actuales y de acceder a datos en tiempo real sobre el rendimiento de sus vehículos es vital para ellos. En conclusión, los dueños de empresas buscan una solución que les permita mejorar la eficiencia operativa, incrementar la satisfacción del cliente y obtener insights valiosos para optimizar su negocio..
 </p>
 
 ### 2.3.1. User Personas
