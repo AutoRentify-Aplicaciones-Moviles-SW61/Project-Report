@@ -601,60 +601,7 @@ Resumen:
 Andrés Valle Zuta lleva un estilo de vida urbano en la ciudad, utilizando principalmente transporte público y aplicaciones de movilidad, sin interés en comprar un coche debido a los costos y la conveniencia del transporte alternativo. Alquila vehículos ocasionalmente, prefiriendo pequeños o SUV por días, y valora la facilidad de reservar a través de apps, destacando la importancia del precio, la variedad de vehículos y la opción de entrega a domicilio. Aunque ha experimentado retrasos en la entrega de vehículos, considera crucial la posibilidad de gestionar todo desde una aplicación, ver reseñas, acceder a soporte al cliente y recibir notificaciones de promociones, lo que aumentaría la probabilidad de que recomiende el servicio.
 </p>
 
-Entrevistado #2: 
-![Estrevista1](./imgs/entrevistaPaolo.png)
-Anthony Tarrillo
-
-●	Sexo: Masculino
-
-●	Edad: 20 años
-
-●	Distrito en el que vive: San Martín de Porres
-
-●	Nivel socioeconómico: Clase B
-
-Entrevista:
-
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1DZM0FRAuKecq_ddy_g6qRVobYHKop5wo/view?usp=sharing)
-
-●	Momento en el que inicia: 0:00
-
-●	Duración: 6:09
-
-●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
-
-Resumen:
-<p align="justify">
-El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
-</p>
-
-Entrevistado N°3: Piero Delgado
-
-  ![Entrevista](./imgs/entrevista1.jpg)
-
-●	Nombre: Piero Delgado
-
-●	Edad: 20
-
-●	Sexo: Masculino
-
-●	Residencia: Surco
-
-●	Entrevista:
-
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1JR1mC21Be3IDkKMS_f5xYmoVWu9Z1rKg/view?usp=sharing)
-
-●	Momento en el que inicia: 0:02
-
-●	Duración: 6:10
-
-●	Entrevistador: Rivadeneyra Ramos, Joaquin
-
-Resumen:
-<p align="justify">
-Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incluyen ficción contemporánea, ciencia ficción y literatura histórica. Destaca el desafío de encontrar tiempo para leer, buscando equilibrio entre sus responsabilidades laborales y personales. Piero se motiva a terminar un libro cuando la trama es intrigante y los personajes son complejos. En cuanto a aplicaciones de lectura, valora la sincronización entre dispositivos, las recomendaciones personalizadas y la posibilidad de interactuar con otros lectores. Además, destaca la importancia de la privacidad de datos al usar estas aplicaciones y sugiere que estrategias como establecer metas de lectura ayudan a mantener un hábito constante. Piero espera obtener descuentos en libros y acceso anticipado a nuevos lanzamientos como recompensas por su fidelidad, y desea que la aplicación le ayude a descubrir nuevos títulos a través de recomendaciones personalizadas y muestras gratuitas.
-</p>
-Entrevistado #4:
+Entrevistado #2:
 
 ![entrevista-lector4](images/MiguelLopez_Entrevista.png)
 
@@ -681,7 +628,7 @@ Resumen:
 Miguel López, un turista mexicano, llega a Lima, Perú, con la intención de conocer su rica cultura, disfrutar de la gastronomía local y visitar lugares emblemáticos como Machu Picchu y el Valle Sagrado. Planea quedarse dos semanas y, como suele hacer en sus viajes, opta por alquilar un SUV para tener la flexibilidad de explorar diferentes destinos sin depender del transporte público. Para Miguel, la comodidad y la facilidad de reserva son esenciales, por lo que prefiere reservar y pagar con antelación a través de una aplicación móvil. También valora la seguridad y las reseñas de otros turistas, así como la opción de recoger el coche en el aeropuerto, lo que facilita su llegada. Además, considera importante contar con un servicio de asistencia al cliente disponible 24/7 y apreciaría promociones especiales para alquileres de varios días.
 </p>
 
-Entrevistado N°5: Ian Sanchez
+Entrevistado N°3: Ian Sanchez
 
   ![Entrevista](./images/ian-sanchez.png)
 
@@ -747,7 +694,35 @@ Resumen:
     Entrevistamos a Sebastian Palacios, de 27 años,administrador de un taller de autos que enfrenta diversos desafíos en la gestión de su flota. Sebastián se ocupa de mantener los vehículos en óptimas condiciones mientras maneja la demanda fluctuante y la distribución eficiente de la flota. Sebastian menciona que sus principales canales de adquisición de clientes incluyen el marketing digital y asociaciones locales.Además destaca la importancia de la reputación y ofrece programas de fidelidad para clientes habituales.También enfrenta desafíos al expandir su negocio a nuevas ubicaciones, incluyendo la adaptación a nuevos mercados y la gestión de la logística de expansión.
 </p>
 
-Entrevistado #2:
+Entrevistado #2: 
+
+Mateo Loechle
+![Entrevista3](./images/mateo-entrevista.png)
+
+●	Sexo: Masculino
+
+●	Edad: 29 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase A
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/18aUbc2nDt8k6JsA4vORVyraxBvSmktZF/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 9:04
+
+●	Enrevistador: Elsner De La Torre Ugarte, Julio Esteban
+
+Resumen:
+<p align="justify">
+Mateo Loechle de 29 años, propietario de una empresa de alquiler de vehículos, nos ofrece una visión detallada de los desafíos y estrategias en la gestión de su flota. Mateo destaca que uno de los mayores retos es mantener la rentabilidad de los vehículos, lo cual evalúa mediante criterios específicos como el costo de mantenimiento y la demanda de los diferentes tipos de vehículos, siendo los modelos económicos y SUV los más solicitados. Para garantizar la eficiencia y seguridad, implementa tecnologías avanzadas en la gestión de su flota, asegura un riguroso mantenimiento, y utiliza múltiples canales para adquirir clientes. La satisfacción del cliente es prioritaria, por lo que se enfoca en mantener sus vehículos en óptimas condiciones y maneja la rotación y fijación de precios con un enfoque estratégico. Mateo también destaca la importancia de la gestión de riesgos, incluyendo la atención a accidentes o daños, y la adaptación a la fluctuación en la demanda. Para diferenciarse en el competitivo mercado, Mateo implementa programas de incentivos para clientes habituales y se enfoca en la expansión a nuevas ubicaciones, considerando cuidadosamente las plataformas que mejor se adaptan a sus necesidades.
+</p>
+
+Entrevistado #3:
 
 <img src="imgs/entrevista2.png" alt="Entrevista - Autor 2">
         <li>Entrevista 2: Oscar Champi</li>
@@ -773,89 +748,6 @@ Resumen:
         de las demás personas. Por otro lado, recomienda a los novatos leer mucho, para que aprendan de sus ídolo, a quiens deben prestar atención en sus estilos y tecnicas. Menciona que es importante escribir con regularidad, para ganar practica
         al experimentar y que no deben rendirse. Finalmente, menciona estar de acuerdo con la creación de una aplicación que fomente la lectura. De esta espera que le ayude a organizar sus ideas, promover su trabajo, conocer nuevos autores y generos 
         y poder conectar con lectores para recibir retroalimentacion. <br>
-</p>
-
-Entrevistado #3: 
-
-Gabriel Duran
-![Entrevista3](./imgs/entrevistaMiguel.png)
-
-●	Sexo: Masculino
-
-●	Edad: 27 años
-
-●	Distrito en el que vive: Lima
-
-●	Nivel socioeconómico: Clase B
-
-Entrevista:
-
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1olBsJ-0aJsyimzoHnPQgJQht124PKbN6/view?usp=sharing)
-
-●	Momento en el que inicia: 0:00
-
-●	Duración: 12:25
-
-●	Enrevistador: Huamán Cataño, Miguel Ángel
-
-Resumen:
-<p align="justify">
-Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
-</p>
-Entrevistado #4: 
-
-Daniel Perez Mendoza
-![Entrevista3](./imgs/entrevista_Daniel.PNG)
-
-●	Sexo: Masculino
-
-●	Edad: 50 años
-
-●	Distrito en el que vive: Lima
-
-●	Nivel socioeconómico: Clase B
-
-Entrevista:
-
-●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/EdqcvSlWi6RFpbOr0GisH6wBb1Gzc9PT19T7O1gyKwwF2w?e=LWStI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
-
-●	Momento en el que inicia: 0:00
-
-●	Duración: 7:48
-
-●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
-
-Resumen:
-<p align="justify">
-Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
-</p>
-
-Entrevistado #5: 
-
-Gabriel Duran
-![Entrevista3](./images/mateo-entrevista.png)
-
-●	Sexo: Masculino
-
-●	Edad: 29 años
-
-●	Distrito en el que vive: Lima
-
-●	Nivel socioeconómico: Clase A
-
-Entrevista:
-
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/18aUbc2nDt8k6JsA4vORVyraxBvSmktZF/view?usp=sharing)
-
-●	Momento en el que inicia: 0:00
-
-●	Duración: 9:04
-
-●	Enrevistador: Elsner De La Torre Ugarte, Julio Esteban
-
-Resumen:
-<p align="justify">
-Mateo Loechle de 29 años, propietario de una empresa de alquiler de vehículos, nos ofrece una visión detallada de los desafíos y estrategias en la gestión de su flota. Mateo destaca que uno de los mayores retos es mantener la rentabilidad de los vehículos, lo cual evalúa mediante criterios específicos como el costo de mantenimiento y la demanda de los diferentes tipos de vehículos, siendo los modelos económicos y SUV los más solicitados. Para garantizar la eficiencia y seguridad, implementa tecnologías avanzadas en la gestión de su flota, asegura un riguroso mantenimiento, y utiliza múltiples canales para adquirir clientes. La satisfacción del cliente es prioritaria, por lo que se enfoca en mantener sus vehículos en óptimas condiciones y maneja la rotación y fijación de precios con un enfoque estratégico. Mateo también destaca la importancia de la gestión de riesgos, incluyendo la atención a accidentes o daños, y la adaptación a la fluctuación en la demanda. Para diferenciarse en el competitivo mercado, Mateo implementa programas de incentivos para clientes habituales y se enfoca en la expansión a nuevas ubicaciones, considerando cuidadosamente las plataformas que mejor se adaptan a sus necesidades.
 </p>
 
 ### 2.2.3. Análisis de entrevistas
