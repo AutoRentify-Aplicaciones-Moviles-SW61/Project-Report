@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
 <br><img src="images/upcLogo.png"></img><br>  
     <strong>Ingeniería de Software - 202402</strong><br>
@@ -546,7 +546,7 @@ En nuestro análisis de los segmentos objetivos, hemos identificado las siguient
 
 **Segmento objetivo de residentes:**
 
-![Empathy map_NORMAL.png](images/Empathy%20map_NORMAL.png)
+![Empathy map_NORMAL.png](images/Empathy%20map_ARRENDADOR.png)
 
 
 ## **Capítulo III: Architecture**
