@@ -656,13 +656,13 @@ Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incl
 </p>
 Entrevistado #4:
 
-![entrevista-lector4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4b0e428b-bd01-44ab-8693-ffda975fecd9)
+![entrevista-lector4](images/MiguelLopez_Entrevista.png)
 
-Nombre: Hector Jimenez Mamani
+Nombre: Miguel Lopez
 
 ●	Sexo: Masculino
 
-●	Edad: 16 años
+●	Edad: 21 años
 
 ●	Distrito en el que vive: Lima
 
@@ -670,15 +670,15 @@ Nombre: Hector Jimenez Mamani
 
 Entrevista:
 
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1bGZPZzwplLhRTelMO3KdOLUCbJOvTXb1/view?usp=sharing)
+●	Link: [Click para ver entrevista](https://youtu.be/89MyCMDCgLI)
 
 ●	Momento en el que inicia: 0:00
 
-●	Duración: 4:26
+●	Duración: 5:51
 
 Resumen:
 <p align="justify">
-Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
+Miguel López, un turista mexicano, llega a Lima, Perú, con la intención de conocer su rica cultura, disfrutar de la gastronomía local y visitar lugares emblemáticos como Machu Picchu y el Valle Sagrado. Planea quedarse dos semanas y, como suele hacer en sus viajes, opta por alquilar un SUV para tener la flexibilidad de explorar diferentes destinos sin depender del transporte público. Para Miguel, la comodidad y la facilidad de reserva son esenciales, por lo que prefiere reservar y pagar con antelación a través de una aplicación móvil. También valora la seguridad y las reseñas de otros turistas, así como la opción de recoger el coche en el aeropuerto, lo que facilita su llegada. Además, considera importante contar con un servicio de asistencia al cliente disponible 24/7 y apreciaría promociones especiales para alquileres de varios días.
 </p>
 
 Entrevistado N°5: Ian Sanchez
