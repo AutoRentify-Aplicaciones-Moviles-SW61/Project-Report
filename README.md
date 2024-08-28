@@ -681,6 +681,33 @@ Resumen:
 Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
 </p>
 
+Entrevistado N°5: Ian Sanchez
+
+  ![Entrevista](./images/ian-sanchez.png)
+
+●	Nombre: Ian Sanchez
+
+●	Edad: 21
+
+●	Sexo: Masculino
+
+●	Residencia: Venezuela
+
+●	Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1CTHywJLc25pq3jJwSrn3CqUlsw1fwwDR/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 8:53
+
+●	Entrevistador: Elsner De La Torre Ugarte, Julio 
+
+Resumen:
+<p align="justify">
+Ian Sanchez de 21 años, un turista que llegó desde Venezuela, comparte su experiencia de viaje y sus preferencias al alquilar un coche. Planea quedarse en la ciudad durante una semana y suele alquilar vehículos cuando viaja para mayor comodidad. Ian prefiere alquilar coches económicos y prioriza el precio y la facilidad de reserva. Le gusta tener flexibilidad en su itinerario, pero también valora la opción de reservar y pagar con antelación. Ha utilizado servicios de alquiler en otros países y considera crucial recibir el coche en el aeropuerto. Prefiere gestionar el alquiler desde una aplicación móvil, donde la seguridad y las políticas de la compañía son sus mayores preocupaciones. Además, aprecia poder leer reseñas de otros turistas, tener asistencia 24/7, y acceder a tarifas reducidas, lo cual influiría en su decisión. La personalización del servicio y promociones especiales también son importantes para él, y tras una buena experiencia, recomendaría Gotta Go Fast a otros turistas.
+</p>
+
 ### Empresas que ponen en alquiler sus vehículos:
 Entrevistada #1: Sebastian Palacios
 
@@ -801,6 +828,34 @@ Entrevista:
 Resumen:
 <p align="justify">
 Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
+</p>
+
+Entrevistado #5: 
+
+Gabriel Duran
+![Entrevista3](./images/mateo-entrevista.png)
+
+●	Sexo: Masculino
+
+●	Edad: 29 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase A
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/18aUbc2nDt8k6JsA4vORVyraxBvSmktZF/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 9:04
+
+●	Enrevistador: Elsner De La Torre Ugarte, Julio Esteban
+
+Resumen:
+<p align="justify">
+Mateo Loechle de 29 años, propietario de una empresa de alquiler de vehículos, nos ofrece una visión detallada de los desafíos y estrategias en la gestión de su flota. Mateo destaca que uno de los mayores retos es mantener la rentabilidad de los vehículos, lo cual evalúa mediante criterios específicos como el costo de mantenimiento y la demanda de los diferentes tipos de vehículos, siendo los modelos económicos y SUV los más solicitados. Para garantizar la eficiencia y seguridad, implementa tecnologías avanzadas en la gestión de su flota, asegura un riguroso mantenimiento, y utiliza múltiples canales para adquirir clientes. La satisfacción del cliente es prioritaria, por lo que se enfoca en mantener sus vehículos en óptimas condiciones y maneja la rotación y fijación de precios con un enfoque estratégico. Mateo también destaca la importancia de la gestión de riesgos, incluyendo la atención a accidentes o daños, y la adaptación a la fluctuación en la demanda. Para diferenciarse en el competitivo mercado, Mateo implementa programas de incentivos para clientes habituales y se enfoca en la expansión a nuevas ubicaciones, considerando cuidadosamente las plataformas que mejor se adaptan a sus necesidades.
 </p>
 
 ### 2.2.3. Análisis de entrevistas
