@@ -230,6 +230,12 @@ Convertirnos en la plataforma líder en alquiler de autos, redefiniendo la indus
 #### **1.1.2. Perfiles de integrantes del equipo**
 
 
+| ![Integrante 1](images/JulioELsner.png) | **Código:** U202111654  
+**Carrera:** Ingeniería de Software  
+---  
+Mi nombre es **Julio Elsner De La Torre Ugarte**, tengo 21 años y soy estudiante de la carrera de ingeniería de software. Con anterioridad ya he tenido experiencia con el tipo de trabajos que conllevan trabajo grupal y que buscan una solución a alguna problemática. En mi opinión, soy bastante hábil extrayendo información de algún problema, lo cual mejora el trabajo conjunto en grupo y la organización en general. |
+
+
 **1.2. Solution Profile**
 
 **1.2.1 Antecedentes y problemática**
