@@ -810,7 +810,7 @@ Leandro nos dio a conocer su opinion de algunas de las preguntas planteadas por 
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
-### Segmento Objetivo #1: Personas Locales y turistas Sin Vehículos
+### Segmento Objetivo #1: Personas interesadas en alquilar vehículos
 
 <p align="justify">
     Los lectores expresaron un fuerte deseo de formar parte de una comunidad literaria donde puedan interactuar con otros lectores, discutir libros, compartir experiencias de lectura y descubrir nuevas obras. Además, mostraron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros. La personalización de perfiles y recomendaciones basadas en gustos individuales, así como la posibilidad de compartir reseñas y recomendaciones con la comunidad, fueron aspectos destacados. En conclusión, los usuarios buscan una plataforma que fomente la interacción entre lectores, proporcione acceso a eventos con autores y ofrezca herramientas de personalización para mejorar su experiencia de lectura.
@@ -824,7 +824,7 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 ### 2.3.1. User Personas
 
-Personas Locales y turistas Sin Vehículos::
+Personas interesadas en alquilar vehículos:
 
 ![Personas Locales y turistas Sin Vehículos](./images/turista.jpg)
 
@@ -883,11 +883,11 @@ En este documento, presentamos dos User Journey Maps que ilustran las experienci
 
 ### **2.3.4 Empathy Mapping**
 
-**Segmento objetivo de turistas:**
+**Segmento objetivo personas interesadas en alquilar:**
 
 ![Empathy map_TURISTA.png](images/Empathy%20map_TURISTA.png)
 
-**Segmento objetivo de residentes:**
+**Segmento objetivo de empresarios de alquiler de vehículos:**
 
 ![Empathy map_NORMAL.png](images/Empathy%20map_ARRENDADOR.png)
 
