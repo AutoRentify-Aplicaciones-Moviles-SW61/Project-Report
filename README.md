@@ -873,12 +873,12 @@ En este documento, presentamos dos User Journey Maps que ilustran las experienci
 
 **Hanna Schneider**:
 
-`	`![UserP1Hanna.png](images%2FUserP1Hanna.png)
+![UserP1Hanna.png](images%2FUserP1Hanna.png)
 
 
 **Carlos Herrera:**
 
-`	`![UserP2Carlos.png](images%2FUserP2Carlos.png)
+![UserP2Carlos.png](images%2FUserP2Carlos.png)
 
 
 ### **2.3.4 Empathy Mapping**
@@ -983,6 +983,44 @@ El lenguaje ubicuo tiene los siguientes beneficios:
 
 [![Impact Map](https://i.postimg.cc/BnBfMs5S/impactmap2.png)](https://i.postimg.cc/BnBfMs5S/impactmap2.png)
 
+
+### **3.4. Product Backlog**
+
+En este apartado del informe, nos adentramos en el concepto y la relevancia del Product Backlog en la metodología ágil. Descubrimos que el Product Backlog es una lista en constante cambio y priorizada de elementos que representan el trabajo futuro necesario para desarrollar un producto. Analizamos cómo se organiza y prioriza esta lista según el valor y las necesidades del negocio, así como su función esencial en la planificación de sprints y la toma de decisiones estratégicas para el desarrollo ágil de productos.
+
+A continuación, se muestra nuestro Product Backlog elaborado:
+
+**Trello: <https://trello.com/b/fHKD9Uys/product-backlog>** 
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.007.png)
+
+|# Orden|User Story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5/ 8)|
+| :- | :- | :- | :- | :- |
+|1|US24|Navegación Intuitiva en la Landing Page|<p>Como visitante interesado,</p><p>Quiero navegar intuitivamente en la Landing Page,</p><p>Para explorar fácilmente la información sobre RocketNotes.</p>|3|
+|2|US22|Evaluación de Planes y Precios|<p>Como administrador escolar,</p><p>Quiero comprender las opciones de precios y sus beneficios,</p><p>Para seleccionar el mejor plan para mi escuela.</p>|3|
+|3|US20|Características del Producto|<p>Como visitante interesado,</p><p>Quiero conocer las características principales de RocketNotes,</p><p>Para entender cómo puede facilitar la gestión en mi institución educativa.</p><p></p>|3|
+|4|US23|Facilidad de Contacto con la Empresa|<p>Como potencial cliente interesado en el producto,</p><p>Quiero contactar fácilmente a RocketNotes,</p><p>Para resolver mis dudas o recibir asesoramiento personalizado.</p>|3|
+|5|US06|Interfaz de Usuario Eficiente y Accesible|<p>Como administrador,</p><p>Quiero interactuar con una interfaz intuitiva y organizada,</p><p>Para acceder eficientemente a la información y herramientas necesarias en la gestión escolar.</p>|5|
+|6|US04|Gestión de las notas por aula|<p>Como profesor,</p><p>` `Quiero registrar las notas de mis estudiantes de manera eficiente en cada evaluación. </p><p>Para asegurar un seguimiento preciso del rendimiento académico en las aulas asignadas</p>|3|
+|7|US08|Seguimiento de progreso individual del estudiante|<p>Como profesor,</p><p>` `Quiero realizar un seguimiento del progreso académico de cada uno de mis estudiantes a lo largo del año</p><p>Para identificar áreas de mejora y proporcionar apoyo adicional según sea necesario.</p><p></p>|5|
+|8|US07|Exportación de Reportes de Rendimiento Estudiantil|<p>Como administrador</p><p>Quiero exportar reportes de rendimiento estudiantil en formatos compatibles con otras herramientas de análisis</p><p>Para facilitar la revisión y el análisis de datos a nivel institucional.</p>|3|
+|9|US01|Gestión del aforo de las aulas|<p>Como miembro del equipo administrativo,</p><p>Quiero gestionar de manera efectiva el aforo de las aulas,</p><p>Para optimizar el espacio disponible y asegurar un entorno de aprendizaje adecuado.</p>|5|
+|10|US10|Alertas de Indicadores de Rendimiento Bajo|<p>Como administrador,</p><p>Quiero recibir alertas automáticas sobre estudiantes con rendimiento por debajo de lo esperado</p><p>Para facilitar intervenciones y apoyo adicional de manera oportuna.</p>|3|
+|11|US02|Facilitación de la comunicación entre profesores y padres|<p>Como profesor,</p><p>Quiero comunicarme con los padres de mis estudiantes mediante un sistema de mensajería,</p><p>Para enviar correos electrónicos que informen sobre el progreso académico y asuntos relevantes relacionados con sus hijos.</p>|3|
+|12|US09|Optimización de la Asignación de Horarios y Profesores|<p>Como administrador,</p><p>Quiero estructurar y asignar horarios detallados para cada nivel educativo, así como asignar profesores específicos a cada curso,</p><p>Para asegurar una organización eficaz que respalde tanto la instrucción académica como el bienestar estudiantil.</p>|5|
+|13|US03|Registro de asistencias|<p>Como profesor,</p><p>Quiero registrar la asistencia de mis estudiantes</p><p>Para tener el registro de cada clase y un control eficiente de la presencia estudiantil. </p>|1|
+|14|US05|Control del inventario de útiles escolares|<p>Como administrador,</p><p>Quiero gestionar el inventario de útiles escolares,</p><p>Para asegurar la disponibilidad de recursos para estudiantes y profesores, al recibir las peticiones.</p>|3|
+|15|US16|Registro y Mantenimiento del Equipo Escolar|<p>Como administrador,</p><p>Quiero registrar el equipo escolar dentro de la plataforma,</p><p>Para asegurar un seguimiento efectivo y mantener los activos de la institución en óptimo estado.</p>|5|
+|16|US12|Registro y Gestión del Mantenimiento de la Infraestructura|<p>Como administrador,</p><p>Quiero actualizar el estado del mantenimiento de la infraestructura escolar,</p><p>Para mantener un entorno seguro y funcional para todos en la institución.</p>|5|
+|17|US15|Programación de mantenimiento preventivo de la infraestructura|<p>Como administrador,</p><p>Quiero programar el mantenimiento preventivo de la infraestructura escolar,</p><p>Para asegurar su funcionamiento y prolongar su durabilidad.</p>|5|
+|18|US11|Gestión del aforo de las instalaciones escolares|<p>Como administrador,</p><p>Quiero gestionar eficientemente la capacidad de las instalaciones escolares,</p><p>Para optimizar el espacio disponible, garantizar la seguridad y prevenir la sobrecarga en áreas comunes.</p>|3|
+|19|US14|Gestión de la frecuencia con la que se realiza el mantenimiento de infraestructuras|<p>Como administrador,</p><p>Quiero configurar la frecuencia del mantenimiento de la infraestructura escolar</p><p>Para asegurar su óptimo estado registrado en un calendario de mantenimiento.</p>|3|
+|20|US19|Programación de mantenimiento preventivo del equipo|<p>Como administrador,</p><p>Quiero establecer y gestionar un calendario de mantenimiento preventivo para el equipo escolar,</p><p>Para prevenir interrupciones y asegurar la operatividad continua y eficiente de los recursos educativos.</p>|3|
+|21|US18|Gestión de la frecuencia con la que se realiza mantenimiento del equipo|<p>Como administrador,</p><p>Quiero gestionar la frecuencia y el registro de mantenimientos realizados al equipo escolar</p><p>Para asegurar su funcionamiento eficiente y prolongar su vida útil.</p>|5|
+|22|US17|Presupuestos para el mantenimiento del equipo escolar|<p>Como administrador,</p><p>Quiero crear y gestionar presupuestos para el mantenimiento de los equipos escolares,</p><p>Para asegurar una planificación financiera adecuada y la disponibilidad de fondos necesarios para el mantenimiento.</p>|3|
+|23|US13|Presupuestos para el Mantenimiento de la Infraestructura|<p>Como administrador,</p><p>Quiero crear y gestionar presupuestos para el mantenimiento de la infraestructura,</p><p>Para asegurar una planificación financiera y la disponibilidad de fondos para las actividades de mantenimiento.</p>|3|
+|24|US21|Confirmación de la Confiabilidad a través de Reseñas|<p>Como potencial cliente,</p><p>Quiero ver testimonios y calificaciones de otros usuarios,</p><p>Para evaluar la credibilidad de RocketNotes.</p>|3|
+|25|US25|Selección de Idioma en la Landing Page|<p>Como visitante internacional,</p><p>Quiero seleccionar mi idioma preferido en la Landing Page,</p><p>Para entender mejor la información sobre RocketNotes</p>|1|
 
 
 ## **Capítulo IV: Backend Product Implementation & Validation**
