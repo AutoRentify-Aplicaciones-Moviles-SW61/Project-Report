@@ -869,7 +869,7 @@ Empresas que ponen en alquiler sus vehículos:
 #### Segmento Interesados en alquilar un vehiculo
 
 
-[![Impact Map](https://i.postimg.cc/ZYLmTQLQ/Impact-map-1-segmento.png)](https://i.postimg.cc/ZYLmTQLQ/Impact-map-1-segmento.png)
+[![Impact Map](https://i.postimg.cc/wx2HnSGw/impatcampprimer.png)](https://i.postimg.cc/wx2HnSGw/impatcampprimer.png)
 
 
 #### Segmento Empresas de vehículos que ponen en alquiler sus vehículos
