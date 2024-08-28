@@ -1033,6 +1033,11 @@ A continuación, se muestra nuestro Product Backlog elaborado:
 ## **Conclusiones**
 
 ### Conclusiones y Recomendaciones
+
+La administración de flotas de vehículos en la industria de alquiler enfrenta desafíos como el mantenimiento, la gestión de reparaciones, y la optimización de la rotación para maximizar la rentabilidad. La eficiencia en estos aspectos es crucial, considerando que la rentabilidad depende de factores como la tasa de utilización, los costos de mantenimiento, y la depreciación de cada vehículo.
+
+Dado el contexto de un proceso de alquiler de autos tradicionalmente complejo y poco transparente, la aplicación móvil "Gotta Go Fast" se presenta como una solución innovadora. Esta herramienta permitirá gestionar de manera eficiente la renta de vehículos, optimizando la experiencia del usuario al facilitar la reserva, mejorar la transparencia en los precios y asegurar la disponibilidad en tiempo real.
+
 ### Video App Validation
 ### Video About the product
 ### Video About the team
