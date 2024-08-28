@@ -682,14 +682,14 @@ Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, es
 </p>
 
 ### Empresas que ponen en alquiler sus vehículos:
-Entrevistada #1: Aleshka Fernandez
+Entrevistada #1: Sebastian Palacios
 
 <ul>
     <li>
-        Sexo: Femenino
+        Sexo: Masculino
     </li>
     <li>
-        Edad: 24 años
+        Edad: 27 años
     </li>
     <li>
         Distrito en el que vive: San Borja
@@ -701,23 +701,23 @@ Entrevistada #1: Aleshka Fernandez
 Entrevista:
 <ul>
     <li>
-        Link: <a href="https://www.youtube.com/watch?v=V8NYPikl5B8">Click para ver entrevista</a>
+        Link: <a href="https://youtu.be/6Al_sL4MM2g">Click para ver entrevista</a>
     </li>
     <li>
         Momento en el que inicia: 0:00
     </li>
     <li>
-        Duración: 10:45
+        Duración: 08:47
     </li>
       <li>
-        Entrevistador: La Torre Valle, Franz Jair 
+        Entrevistador: Espinoza Saenz, Christian Renato
     </li>
 </ul>
-<img src="imgs/EntrevistaAleshka.png" alt="Entrevista Autor 1">
+<img src="https://i.postimg.cc/6qy3nqF1/sebastianpalacion.png" alt="Entrevista Autor 1">
 
 Resumen:
 <p align="justify">
-    Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
+    Entrevistamos a Sebastian Palacios, de 27 años,administrador de un taller de autos que enfrenta diversos desafíos en la gestión de su flota. Sebastián se ocupa de mantener los vehículos en óptimas condiciones mientras maneja la demanda fluctuante y la distribución eficiente de la flota. Sebastian menciona que sus principales canales de adquisición de clientes incluyen el marketing digital y asociaciones locales.Además destaca la importancia de la reputación y ofrece programas de fidelidad para clientes habituales.También enfrenta desafíos al expandir su negocio a nuevas ubicaciones, incluyendo la adaptación a nuevos mercados y la gestión de la logística de expansión.
 </p>
 
 Entrevistado #2:
