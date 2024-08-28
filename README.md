@@ -238,12 +238,6 @@ Convertirnos en la plataforma líder en alquiler de autos, redefiniendo la indus
 | Huamán Cataño Miguel Ángel (U202120615)   | Soy Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Disfruto trabajar con empeño para alcanzar mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional. | ![Foto5](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/f0cc0e6e-e2d0-4d41-8eeb-5ed5c939f49d)               |
 | Zarate Cáceres Víctor Ernesto (U202112907) | Soy Víctor Ernesto Zarate Cáceres, estudiante de Ingeniería de Software. Me considero una persona responsable, capaz de aportar distintas ideas y de organizar el trabajo para el desarrollo de nuevos proyectos. Tengo el compromiso de trabajar eficientemente y realizar las entregas en el plazo indicado. | ![Foto6](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/68f41f3a-a868-4b41-a17c-eebb52e04271)               |
 
-| ![Integrante 1](images/JulioELsner.png) | **Código:** U202111654  
-**Carrera:** Ingeniería de Software  
----  
-Mi nombre es **Julio Elsner De La Torre Ugarte**, tengo 21 años y soy estudiante de la carrera de ingeniería de software. Con anterioridad ya he tenido experiencia con el tipo de trabajos que conllevan trabajo grupal y que buscan una solución a alguna problemática. En mi opinión, soy bastante hábil extrayendo información de algún problema, lo cual mejora el trabajo conjunto en grupo y la organización en general. |
-
-
 **1.2. Solution Profile**
 
 **1.2.1 Antecedentes y problemática**
