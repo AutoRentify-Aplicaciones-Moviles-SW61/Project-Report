@@ -793,11 +793,11 @@ Leandro Medina
 
 Entrevista:
 
-●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=1ZHUvBZKJB4)
+●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=_RbKISOL-Qo)
 
 ●	Momento en el que inicia: 0:12
 
-●	Duración: 3:37 
+●	Duración: 4:58 
 
 ●	Enrevistador: Serrano Ircañaupa, Nelson Elías
 
@@ -866,6 +866,20 @@ Empresas que ponen en alquiler sus vehículos:
 |Expansión a nuevas ubicaciones             | Planificar y ejecutar la expansión del negocio de alquiler de vehículos a nuevas ciudades o regiones.             | Baja           | Media           |
 | Gestionar la seguridad y eficiencia        | Asegurar que todos los vehículos cumplan con los estándares de seguridad y eficiencia para reducir riesgos.       | Alta           | Alta            |
 | Optimizar la gestión de pagos y reservas   | Facilitar la administración de pagos y reservas a través de plataformas tecnológicas.                             | Alta           | Alta            |
+
+#### **2.3.3. User Journey Mapping**
+
+En este documento, presentamos dos User Journey Maps que ilustran las experiencias actuales de dos segmentos clave dentro del contexto del alquiler de vehículos: los interesados en alquilar y las empresas de alquiler de vehículos.
+
+**Hanna Schneider**:
+
+`	`![UserP1Hanna.png](images%2FUserP1Hanna.png)
+
+
+**Carlos Herrera:**
+
+`	`![UserP2Carlos.png](images%2FUserP2Carlos.png)
+
 
 ### **2.3.4 Empathy Mapping**
 
