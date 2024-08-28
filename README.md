@@ -180,6 +180,37 @@
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
 
+
+## **Objetivos Smart**
+
+<table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Plan</th>
+        </tr>
+        <tr>
+            <td>Christian Renato Espinoza Saenz</td>
+            <td>Uno de mis objetivos es mejorar la usabilidad de la aplicación móvil haciendo que la interfaz de usuario sea más cómoda para el usuario basandome en principios fundamentales de UX que he aprendido. Planeo realizar estas mejoras dedicando al menos 6 horas semanales a nuestro proyecto.</td>
+        </tr>
+        <tr>
+            <td>Julio Esteban Elsner De La Torre Ugarte</td>
+            <td>Para el desarrollo del backend me propongo implementar correctamente las funcionalidades básicas de la arquitectura RESTful para la aplicación "Gotta Go Fast". Para ello aplicaré lo aprendido en los cursos anterior para nuestro proyecto dedicandole 8 horas semanales.</td>
+        </tr>
+        <tr>
+            <td>Joaquin David Rivadeneyra Ramos</td>
+            <td>Me considero bueno con en analisis de datos, por lo que mi objetivo es revisar detenidamente las entrevistas, utilizaré las respuestas para identificar patrones comunes en los usuarios y así llevar cuenta de las necesidades y percepción de nuestros segmentos objetivos. Para ello planeo necesitar al menos unas 7 horas semanales.</td>
+        </tr>
+        <tr>
+            <td>Alvaro Felipe Pinto Fuentes Rivera</td>
+            <td>Como mi punto fuerte es la busqueda de información planeo hacer dedicarme al menos 6 horas semanales a realizar una investigación profunda para hallar funciones necesarias o altamente solicitadas, además de explorar a la competencia para apoyar en el desarrollo de herramientas y aspectos que nos hagan diferenciar de los demás. </td>
+        </tr>
+        <tr>
+            <td>Serrano Ircañaupa, Nelson Elías</td>
+            <td>Yo me enfocaré en optimizar el código de la aplicación para mejorar su rendimiento. Mi objetivo es revisar las secciones clave del código para eliminar posibles redundancias. También, implementaré técnicas que aprendí en complejidad algoritmica. Dedicaré 6 horas semanales a esta tarea.</td>
+        </tr>
+    </table>
+
+
 ## **Capítulo I: Presentación**
 
 ### **1.1. Startup Profile**
@@ -701,6 +732,7 @@ Mateo Loechle
 
 ●	Sexo: Masculino
 
+
 ●	Edad: 29 años
 
 ●	Distrito en el que vive: Lima
@@ -810,6 +842,16 @@ Empresas que ponen en alquiler sus vehículos:
 | Gestionar la seguridad y eficiencia        | Asegurar que todos los vehículos cumplan con los estándares de seguridad y eficiencia para reducir riesgos.       | Alta           | Alta            |
 | Optimizar la gestión de pagos y reservas   | Facilitar la administración de pagos y reservas a través de plataformas tecnológicas.                             | Alta           | Alta            |
 
+### **2.3.4 Empathy Mapping**
+
+**Segmento objetivo de turistas:**
+
+![Empathy map_TURISTA.png](images/Empathy%20map_TURISTA.png)
+
+**Segmento objetivo de residentes:**
+
+![Empathy map_NORMAL.png](images/Empathy%20map_ARRENDADOR.png)
+
 ## **Capítulo III: Architecture**
 
 ### 3.2 User Stories
@@ -896,6 +938,16 @@ Empresas que ponen en alquiler sus vehículos:
 
 ## **Bibliografía**
 
+- Caguana-Tonato, Y., Luna-Carrillo, N., Atiaja-Freire, M., & Carrill-Rosero, D. (2022). Servicio de transporte turístico y las expectativas del viajero. CIENCIAMATRIA, 8(4), 1116-1127. https://doi.org/10.35381/cm.v8i4.915
+
+- Mantilla Falcón, L. M., Mantilla Falcón, M. S., Polit Chuez, G. M., & Castillo Martínez, D. C. (2022). Estrategias comerciales, personal selling y fidelización de clientes en una pyme de renta de autos. Uniandes Episteme, 9(3), 366–381.
+https://revista.uniandes.edu.ec/ojs/index.php/EPISTEME/article/view/2525
+
+- Polanco Graciano, C. A., & Dino Aracena, L. A. (2022). Asistencia digital para rentas de vehículos en República Dominicana: apoyo mediante aplicación móvil (RentaMarketRD) (Doctoral dissertation, Santo Domingo: Universidad Iberoamericana (UNIBE)).
+https://repositorio.unibe.edu.do/jspui/handle/123456789/1352
+
+- Polanco Graciano, C. A., & Dino Aracena, L. A. (2022). Asistencia digital para rentas de vehículos en República Dominicana: apoyo mediante aplicación móvil (RentaMarketRD) (Doctoral dissertation, Santo Domingo: Universidad Iberoamericana (UNIBE)).
+https://repositorio.pascualbravo.edu.co/handle/pascualbravo/2371
 
 ## **Anexos**
 
