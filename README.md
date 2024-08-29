@@ -881,7 +881,7 @@ En este documento, presentamos dos User Journey Maps que ilustran las experienci
 
 **Segmento objetivo personas interesadas en alquilar:**
 
-![Empathy map_NORMAL.png](images/Empathy%20map_NORMAL.png)
+![Empathy map_ARRENDATARIO.png](images/Empathy%20map_ARRENDATARIO.png)
 
 **Segmento objetivo de empresarios de alquiler de vehículos:**
 
