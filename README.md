@@ -881,11 +881,22 @@ En este documento, presentamos dos User Journey Maps que ilustran las experienci
 
 **Segmento objetivo personas interesadas en alquilar:**
 
-![Empathy map_TURISTA.png](images/Empathy%20map_TURISTA.png)
+![Empathy map_NORMAL.png](images/Empathy%20map_NORMAL.png)
 
 **Segmento objetivo de empresarios de alquiler de vehículos:**
 
-![Empathy map_NORMAL.png](images/Empathy%20map_ARRENDADOR.png)
+![Empathy map_ARRENDADOR.png](images/Empathy%20map_ARRENDADOR.png)
+
+### **2.3.5 As-is Scenario Mapping**
+
+**Segmento objetivo personas interesadas en alquilar:**
+
+![As-is NORMAL.png](images/As-Is_Arrendatarios.png)
+
+**Segmento objetivo de empresarios de alquiler de vehículos:**
+
+![As-is ARRENDADOR.png](images/As-Is_Empresario.png)
+
 
 ### **2.4. Ubiquitous Language**
 
