@@ -813,6 +813,16 @@ En este documento, presentamos dos User Journey Maps que ilustran las experienci
 
 ## **2.4. Requirements Specification**
 
+### **2.4.1 To-Be Scenario Mapping**
+
+**Segmento objetivo personas interesadas en alquilar:**
+
+![As-is NORMAL.png](images/To-Be_Arrendatarios.png)
+
+**Segmento objetivo de empresarios de alquiler de vehículos:**
+
+![As-is ARRENDADOR.png](images/To-Be_Empresario.png)
+
 ### 2.4.2 User Stories
 |         | Nombre                                                 |                                                                                                                                                                |
 | ------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
