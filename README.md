@@ -909,21 +909,6 @@ El lenguaje ubicuo tiene los siguientes beneficios:
 - Refuerza la marca: Un lenguaje único y consistente ayuda a crear una identidad de marca fuerte y memorable.
 - Promueve la colaboración: Facilita la comunicación entre los equipos de diseño, desarrollo y marketing.
 
-**Glosario:**
-
-- User (usuario): Persona que utiliza la aplicación, ya sea para alquilar un vehículo o gestionar un alquiler. Los usuarios pueden ser clientes individuales o empresas que requieren servicios de alquiler.
-- Rental Agreement (contrato de alquiler): Documento digital que detalla los términos y condiciones del alquiler de un vehículo, incluyendo la duración del alquiler, el precio, las políticas de seguro y las restricciones de uso.
-- Vehicle (vehículo): Cualquier automóvil disponible para alquilar a través de la aplicación. Cada vehículo tiene información detallada sobre su tipo, modelo, año de fabricación, estado y disponibilidad.
-- Booking (reserva): Proceso de selección y confirmación de un vehículo para alquilar durante un período específico. La reserva incluye la selección del vehículo, la duración del alquiler y las opciones de seguro.
-- Customer Support (soporte al cliente): Servicio de asistencia para usuarios que enfrentan problemas o tienen consultas sobre el uso de la aplicación, procesos de reserva, o detalles de alquiler. Disponible a través de chat en vivo, correo electrónico o teléfono.
-- Fleet Management (gestión de flota): Funcionalidad que permite a las empresas gestionar múltiples vehículos disponibles para alquiler, realizar mantenimiento, y monitorear el estado y la ubicación de cada vehículo en tiempo real.
-- Corporate Client (cliente corporativo): Empresas o negocios que utilizan la aplicación para alquilar vehículos para sus empleados o para operaciones comerciales. Los clientes corporativos tienen acceso a herramientas de gestión específicas y descuentos por volumen.
-- Insurance Options (opciones de seguro): Diferentes planes de seguro que los usuarios pueden seleccionar al alquilar un vehículo, que cubren desde daños menores hasta cobertura total en caso de accidentes.
-- Pick-Up and Drop-Off Points (puntos de recogida y entrega): Ubicaciones designadas donde los usuarios pueden recoger y devolver los vehículos alquilados. Estas ubicaciones pueden ser tiendas de alquiler, oficinas, o estacionamientos específicos.
-- Vehicle Availability (disponibilidad de vehículos): Información en tiempo real sobre qué vehículos están disponibles para alquilar en un momento dado, considerando la ubicación del usuario y el tiempo de solicitud.
-- Customer Feedback (retroalimentación del cliente): Opiniones y comentarios proporcionados por los usuarios después de completar una reserva, utilizados para mejorar continuamente la experiencia del usuario y los servicios ofrecidos.
-- Cancellation Policy (política de cancelación): Reglas y condiciones bajo las cuales un usuario puede cancelar una reserva. Incluye detalles sobre reembolsos, cargos por cancelación y plazos para modificaciones.
-
 ## **Capítulo III: Architecture**
 
 ### 3.2 User Stories
@@ -1051,6 +1036,19 @@ Se recomienda implementar funciones adicionales en "Gotta Go Fast" como un siste
 ### Video About the team
 
 ## **Glosario**
+
+- User (usuario): Persona que utiliza la aplicación, ya sea para alquilar un vehículo o gestionar un alquiler. Los usuarios pueden ser clientes individuales o empresas que requieren servicios de alquiler.
+- Rental Agreement (contrato de alquiler): Documento digital que detalla los términos y condiciones del alquiler de un vehículo, incluyendo la duración del alquiler, el precio, las políticas de seguro y las restricciones de uso.
+- Vehicle (vehículo): Cualquier automóvil disponible para alquilar a través de la aplicación. Cada vehículo tiene información detallada sobre su tipo, modelo, año de fabricación, estado y disponibilidad.
+- Booking (reserva): Proceso de selección y confirmación de un vehículo para alquilar durante un período específico. La reserva incluye la selección del vehículo, la duración del alquiler y las opciones de seguro.
+- Customer Support (soporte al cliente): Servicio de asistencia para usuarios que enfrentan problemas o tienen consultas sobre el uso de la aplicación, procesos de reserva, o detalles de alquiler. Disponible a través de chat en vivo, correo electrónico o teléfono.
+- Fleet Management (gestión de flota): Funcionalidad que permite a las empresas gestionar múltiples vehículos disponibles para alquiler, realizar mantenimiento, y monitorear el estado y la ubicación de cada vehículo en tiempo real.
+- Corporate Client (cliente corporativo): Empresas o negocios que utilizan la aplicación para alquilar vehículos para sus empleados o para operaciones comerciales. Los clientes corporativos tienen acceso a herramientas de gestión específicas y descuentos por volumen.
+- Insurance Options (opciones de seguro): Diferentes planes de seguro que los usuarios pueden seleccionar al alquilar un vehículo, que cubren desde daños menores hasta cobertura total en caso de accidentes.
+- Pick-Up and Drop-Off Points (puntos de recogida y entrega): Ubicaciones designadas donde los usuarios pueden recoger y devolver los vehículos alquilados. Estas ubicaciones pueden ser tiendas de alquiler, oficinas, o estacionamientos específicos.
+- Vehicle Availability (disponibilidad de vehículos): Información en tiempo real sobre qué vehículos están disponibles para alquilar en un momento dado, considerando la ubicación del usuario y el tiempo de solicitud.
+- Customer Feedback (retroalimentación del cliente): Opiniones y comentarios proporcionados por los usuarios después de completar una reserva, utilizados para mejorar continuamente la experiencia del usuario y los servicios ofrecidos.
+- Cancellation Policy (política de cancelación): Reglas y condiciones bajo las cuales un usuario puede cancelar una reserva. Incluye detalles sobre reembolsos, cargos por cancelación y plazos para modificaciones.
 
 ## **Bibliografía**
 
