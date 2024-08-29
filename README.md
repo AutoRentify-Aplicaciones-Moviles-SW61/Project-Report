@@ -48,13 +48,10 @@
 ## Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
-|:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 24/08/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III|
+|:-------:|:----------:|:-----:|:-----------------------| 
+|TB1| 24/08/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II|
 ## Contenido
-## Tabla de Contenidos
-### [Registro de versiones del informe](#registro-de-versiones-del-informe)
-### [Project Report Collaboration Insights](#project-report-collaboration-insights)
-### [Contenido](#contenido)
+### Tabla de Contenidos
 ### [Student Outcome](#student-outcome-1)
 ### [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
@@ -83,90 +80,11 @@
   - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-- [2.4. Ubiquitous Language](#23-ubiquitous-language)
-### [Capítulo III: Architecture](#capitulo-iii-architecture-1)
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
-
-### [Capítulo IV: Backend Product Implementation & Validation](#capitulo-iv-backend-product-implementation-validation-1)
-- [4.1. Style Guidelines](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-- [4.2. Information Architecture](#42-information-architecture)
-  - [4.2.1. Organization Systems](#421-organization-systems)
-  - [4.2.2. Labeling Systems](#422-labeling-systems)
-  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-  - [4.2.4. Searching Systems](#424-searching-systems)
-  - [4.2.5. Navigation Systems](#425-navigation-systems)
-- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-  - [4.7.1. Class Diagrams](#471-class-diagrams)
-  - [4.7.2. Class Dictionary](#472-class-dictionary)
-- [4.8. Database Design](#48-database-design)
-  - [4.8.1. Database Diagram](#481-database-diagram)
-
-### [Capítulo V: Product Implementation & Validation](#capitulo-v-product-implementation-validation--deployment-1)
-- [5.1. Software Configuration Management](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-  - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
-    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
-    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.2.4. Sprint 4](#524-sprint-4)
-    - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
-    - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
-    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
-    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-- [5.3.Validation Interviews](#53-validation-interviews)
-  - [Diseño de Entrevistas](#531-sprint-1)
-  - [Registro de Entrevistas](#532-sprint-1)
-  - [Evaluaciones según heurísticas](#533-sprint-1)
-- [5.4.Video About-the-Product](#54-video-about-the-product)
+- [2.4. Requirements Specification](#23-ubiquitous-language)
+  - [2.4.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [2.4.2 User Stories](#32-user-stories)
+  - [2.4.3 Impact Mapping](#33-impact-mapping)
+  - [2.4.4 Product Backlog](#34-product-backlog)
 ### [Conclusiones](#conclusiones-1)
 ### [Bibliografía](#bibliografia-1)
 ### [Anexos](#anexos-1)
@@ -499,14 +417,14 @@ LINK LEAN UX CANVAS: https://miro.com/app/board/uXjVKnG08sE=/?share_link_id=2503
 
 Estos segmentos objetivo permiten a AutoRentify enfocar sus esfuerzos de desarrollo, marketing y ventas en satisfacer las necesidades específicas de sus principales audiencias.
 
-## **Capítulo II: Needfinding**
+# **Capítulo II: Needfinding**
 
-# Competitive Analysis Landscape
+## Competitive Analysis Landscape
 
-## ¿Por qué llevar a cabo este análisis?
+### ¿Por qué llevar a cabo este análisis?
 Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado. Entender la dinámica competitiva es esencial para identificar las fortalezas y debilidades de nuestra empresa en relación con otras marcas. Al realizar este análisis, podemos descubrir oportunidades para mejorar nuestros productos y servicios, así como para diferenciar nuestra oferta en un mercado saturado. Además, permite anticipar movimientos estratégicos de los competidores, lo que es vital para tomar decisiones informadas y mantener una ventaja competitiva. También es útil para identificar tendencias del mercado y adaptarse a las necesidades cambiantes de los consumidores, asegurando que nuestra empresa no solo sobreviva, sino que prospere en un entorno competitivo. Por último, el análisis competitivo nos ayuda a desarrollar estrategias de marketing más efectivas y a optimizar los recursos para maximizar el retorno de la inversión.
 
-## 2.1. Competidores
+### 2.1. Competidores
 
 Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
 
@@ -522,7 +440,7 @@ Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
     </li>
 </ul>
 
-## 2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
 <table>
 <tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
@@ -544,7 +462,7 @@ Algunos de los competidores a los que Gotta Go Fast podría enfrentarse son:
 <tr><td colspan="3" valign="top"><b>Amenazas</b></td><td colspan="3" valign="top"><p>- Competencia de otras plataformas de alquiler</p><p>- Cambios en la tecnología</p><p>- Regulaciones locales</p></td><td colspan="3" valign="top"><p>- Cambios en las regulaciones</p><p>- Competencia de empresas emergentes</p><p>- Disrupción tecnológica</p></td><td colspan="3" valign="top"><p>- Competencia de nuevas plataformas</p><p>- Cambios en la regulación</p></td><td valign="top"><p>- Competencia de nuevas plataformas de alquiler</p><p>- Cambios en la regulación</p></td></tr>
 </table>
 
-## 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
 Hemos empleado un análisis FODA para identificar las posibilidades y desafíos en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Esta metodología nos ha permitido concebir estrategias y tácticas que se ajusten de manera coherente a nuestro entorno y a los recursos disponibles.
 
@@ -564,7 +482,7 @@ Implementaremos una campaña de marketing digital enfocada en aumentar la visibi
 
 Nuestras tácticas incluyen la implementación de estudios de mercado continuos para identificar las preferencias y necesidades no satisfechas de los usuarios en el sector de alquiler de vehículos. Esta investigación nos permitirá ajustar nuestro servicio para satisfacer de manera más efectiva las demandas del mercado, asegurando que Gotta Go Fast se mantenga competitivo y relevante. Adicionalmente, planeamos realizar pruebas A/B para optimizar nuestras campañas publicitarias y ajustar nuestras ofertas en función de la respuesta del mercado. Esto, junto con un enfoque en la experiencia del cliente y la facilidad de uso de la aplicación, nos permitirá diferenciar a Gotta Go Fast de otros competidores y brindar un servicio que exceda las expectativas de nuestros usuarios.
 
-## 2.2. Entrevistas
+### 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
@@ -825,7 +743,7 @@ Empresas que ponen en alquiler sus vehículos:
 
 ### 2.3.2. User Task Matrix
 
-# Segmento 1: Personas Locales y turistas Sin Vehículos
+### Segmento 1: Personas Locales y turistas Sin Vehículos
 
 | Actividad                            | Descripción                                         | Frecuencia | Importancia |
 |--------------------------------------|-----------------------------------------------------|------------|-------------|
@@ -839,7 +757,7 @@ Empresas que ponen en alquiler sus vehículos:
 | Solicitar asistencia al cliente      | Contactar soporte para resolver problemas o dudas. | Baja       | Media       |
 | Aprovechar ofertas y promociones     | Buscar y usar descuentos disponibles en el servicio de alquiler. | Media      | Media       |
 
-# Segmento 2: Empresas que ponen en alquiler sus vehículos
+### Segmento 2: Empresas que ponen en alquiler sus vehículos
 
 | Actividad                              | Descripción                                                                                                  | Frecuencia | Importancia |
 |------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------|-----------------|
@@ -893,20 +811,9 @@ En este documento, presentamos dos User Journey Maps que ilustran las experienci
 ![As-is ARRENDADOR.png](images/As-Is_Empresario.png)
 
 
-### **2.4. Ubiquitous Language**
+## **2.4. Requirements Specification**
 
-El lenguaje ubicuo es una parte fundamental de la estrategia de UX. Se refiere al conjunto de términos y frases que se utilizan de manera consistente en toda la aplicación para referirse a conceptos, acciones y elementos clave.
-
-El lenguaje ubicuo tiene los siguientes beneficios:
-
-- Mejora la usabilidad: Los usuarios pueden comprender fácilmente la aplicación y navegar por ella sin confusiones.
-- Aumenta la accesibilidad: El uso de un lenguaje claro y conciso facilita el uso de la aplicación para personas con diferentes niveles de alfabetización y habilidades cognitivas.
-- Refuerza la marca: Un lenguaje único y consistente ayuda a crear una identidad de marca fuerte y memorable.
-- Promueve la colaboración: Facilita la comunicación entre los equipos de diseño, desarrollo y marketing.
-
-## **Capítulo III: Architecture**
-
-### 3.2 User Stories
+### 2.4.2 User Stories
 |         | Nombre                                                 |                                                                                                                                                                |
 | ------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EPIC01 | Gestión de la Información del Usuario                  
@@ -956,9 +863,7 @@ El lenguaje ubicuo tiene los siguientes beneficios:
 
 
 
-
-
-### 3.3. Impact Mapping
+### 2.4.3 Impact Mapping
 
 #### Segmento Interesados en alquilar un vehiculo
 
@@ -971,7 +876,7 @@ El lenguaje ubicuo tiene los siguientes beneficios:
 [![Impact Map](https://i.postimg.cc/BnBfMs5S/impactmap2.png)](https://i.postimg.cc/BnBfMs5S/impactmap2.png)
 
 
-### **3.4. Product Backlog**
+### **2.4.4 Product Backlog**
 
 En este apartado del informe, nos adentramos en el concepto y la relevancia del Product Backlog en la metodología ágil. Descubrimos que el Product Backlog es una lista en constante cambio y priorizada de elementos que representan el trabajo futuro necesario para desarrollar un producto. Analizamos cómo se organiza y prioriza esta lista según el valor y las necesidades del negocio, así como su función esencial en la planificación de sprints y la toma de decisiones estratégicas para el desarrollo ágil de productos.
 
@@ -1015,13 +920,6 @@ A continuación, se muestra nuestro Product Backlog elaborado:
 |29|US04|Visualización del Historial de Actividades|5|
 |30|US03|Configuración de Preferencias de Notificación|3|
 |31|US05|Preferencias de Idioma|1|
-
-
-
-## **Capítulo IV: Backend Product Implementation & Validation**
-
-
-## **Capítulo V: Product Implementation & Validation
 
 
 
