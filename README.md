@@ -972,5 +972,5 @@ https://repositorio.unibe.edu.do/jspui/handle/123456789/1352
 - Polanco Graciano, C. A., & Dino Aracena, L. A. (2022). Asistencia digital para rentas de vehículos en República Dominicana: apoyo mediante aplicación móvil (RentaMarketRD) (Doctoral dissertation, Santo Domingo: Universidad Iberoamericana (UNIBE)).
 https://repositorio.pascualbravo.edu.co/handle/pascualbravo/2371
 
-## **Anexos**
+
 
