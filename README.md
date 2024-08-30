@@ -944,10 +944,6 @@ La aplicación móvil "Gotta Go Fast" se perfila como una solución innovadora p
 
 Se recomienda implementar funciones adicionales en "Gotta Go Fast" como un sistema de mantenimiento predictivo para anticipar reparaciones, personalización del servicio al cliente para aumentar la lealtad y algoritmos de optimización de rotación para maximizar la rentabilidad. Además, expandir la cobertura geográfica podría captar mercados desatendidos, ampliando el alcance y el impacto de la aplicación.
 
-### Video App Validation
-### Video About the product
-### Video About the team
-
 ## **Glosario**
 
 - User (usuario): Persona que utiliza la aplicación, ya sea para alquilar un vehículo o gestionar un alquiler. Los usuarios pueden ser clientes individuales o empresas que requieren servicios de alquiler.
