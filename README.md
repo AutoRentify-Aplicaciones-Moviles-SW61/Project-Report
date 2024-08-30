@@ -731,6 +731,8 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
     Las entrevistas con los dueños de empresas que ponen en alquiler sus vehículos revelaron que estos buscan una plataforma que optimice la gestión de su flota y aumente la visibilidad de sus servicios. Valoran especialmente la capacidad de recibir retroalimentación directa de los clientes y de utilizar herramientas de análisis para mejorar sus operaciones. También consideran crucial la seguridad en la transacción y la flexibilidad para ajustar las ofertas y promociones en función de la demanda del mercado. La posibilidad de integrar la plataforma con sus sistemas actuales y de acceder a datos en tiempo real sobre el rendimiento de sus vehículos es vital para ellos. En conclusión, los dueños de empresas buscan una solución que les permita mejorar la eficiencia operativa, incrementar la satisfacción del cliente y obtener insights valiosos para optimizar su negocio..
 </p>
 
+### 2.3. Needfinding
+
 ### 2.3.1. User Personas
 
 Personas interesadas en alquilar vehículos:
