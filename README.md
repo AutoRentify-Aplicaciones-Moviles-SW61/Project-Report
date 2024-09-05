@@ -933,6 +933,245 @@ A continuación, se muestra nuestro Product Backlog elaborado:
 |30|US03|Configuración de Preferencias de Notificación|3|
 |31|US05|Preferencias de Idioma|1|
 
+# **Capítulo III:Arquitectura**
+
+## **3.1. Product Design.**
+### **3.1.1. Style Guidelines.**
+#### **3.1.1.1. General Style Guidelines.**
+### **3.1.2. Information Arquitecture.**
+#### **3.1.2.1. Organization Systems.**
+#### **3.1.2.2. Labelling Systems.**
+#### **3.1.2.3. SEO Tags and Meta Tags.**
+#### **3.1.2.4. Searching Systems.**
+#### **3.1.2.5. Navigation Systems.**
+
+
+### **3.1.3. Landing Page UI Design.**
+#### **3.1.3.1. Landing Page Wireframe.**
+#### **3.1.3.2. Landing Page Mock-up.**
+### **3.1.4. Mobile Applications UX/UI Design.**
+#### **3.1.4.1. Mobile Applications Wireframes.**
+#### **3.1.4.2.Mobile Applications Wireflow Diagrams.**
+#### **3.1.4.3.Mobile Applications Mock-ups.**
+#### **3.1.4.4.Mobile Applications User Flow Diagrams.**
+#### **3.1.4.5.Mobile Applications Prototyping.**
+## **3.2. Arquitecture Overview.**
+### **3.2.1. Domain-Driven Software Architecture.**
+#### **3.2.1.1.Software Architecture Context Level Diagram.**
+#### **3.2.1.2. Software Architecture Container Level Diagram.**
+#### **3.2.1.3. Software Architecture Components Diagram.**
+
+
+
+### **3.2.2. Software Object-Oriented Design.**
+#### **3.2.2.1. Class Diagrams.**
+
+Hemos realizado un análisis detallado del sistema de negocio y lo hemos plasmado en el diagrama de clases presentado. El sistema está diseñado para optimizar la gestión de alquiler de vehículos, permitiendo a las empresas gestionar su flota, rastrear reservas, ofrecer soporte y aplicar promociones.
+
+![ClassDiagram.png](images/ClassDiagram.png)
+
+#### **3.2.2.2. Class Dictionary.**
+
+### User
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| name              | string    |
+| email             | string    |
+| phoneNumber       | string    |
+| dni               | int       |
+| driverLicence     | int       |
+
+| **Métodos**           |
+|-----------------------|
+| makeReservation()     |
+| viewLoyaltyStatus()    |
+| chooseVehicle()       |
+
+---
+
+### Company
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| name              | string    |
+| RUC               | int       |
+
+| **Métodos**          |
+|----------------------|
+| manageFleet()        |
+| trackReservations()  |
+
+---
+
+### Brand
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| brandName         | string    |
+
+| **Métodos**    |
+|----------------|
+| getModels()    |
+
+---
+
+### Model
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| carModel          | string    |
+
+| **Métodos**    |
+|----------------|
+| getBrand()     |
+
+---
+
+### Vehicle
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| passengers        | int       |
+| luggageCapacity   | int       |
+| modelId           | int       |
+| brandId           | int       |
+| enterpriseId      | int       |
+
+| **Métodos**        |
+|--------------------|
+| getPricing()       |
+| getAvailability()   |
+
+
+
+### Pricing
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| dailyRate         | decimal   |
+| weeklyRate        | decimal   |
+| discount          | decimal   |
+
+| **Métodos**                                 |
+|---------------------------------------------|
+| calculateTotalCost(rentalDuration: int): decimal |
+
+
+
+### Rental
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| rentalStart       | datetime  |
+| rentalEnd         | datetime  |
+| rentalStatus      | string    |
+| userId            | int       |
+| vehicleId         | int       |
+
+| **Métodos**            |
+|------------------------|
+| confirmReservation()    |
+| cancelReservation()     |
+
+
+### RentalLocation
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| locationStatus    | string    |
+| rentalId          | int       |
+| locationId        | int       |
+
+| **Métodos**           |
+|-----------------------|
+| scheduleDelivery()     |
+
+
+### Location
+
+| **Atributos**     | **Tipo**  |
+|-------------------|-----------|
+| id                | int       |
+| address           | string    |
+| city              | string    |
+| country           | string    |
+| locationStatus    | string    |
+| latitude          | decimal   |
+| longitude         | decimal   |
+
+| **Métodos**       |
+|-------------------|
+| getCoordinates()  |
+
+
+**Relaciones de cada clase:**
+
+User ↔ Rental: **Asociación** (1 a 0..*)
+Vehicle ↔ Model: **Asociación** (0..* a 1)
+Vehicle ↔ Brand: **Asociación** (0..* a 1)
+Vehicle ↔ Company: **Agregación** (0..* a 1)
+Company ↔ Vehicle: **Agregación** (1 a 0..*)
+Company ↔ Rental: **Asociación** (1 a 0..*)
+Rental ↔ Vehicle: **Asociación** (1 a 1)
+Rental ↔ RentalLocation: **Composición** (1 a 0..*)
+Pricing ↔ Vehicle: **Composición** (1 a 1)
+RentalLocation ↔ Location: **Asociación** (0..* a 1)
+
+
+#### **3.2.2.3. Database Design.**
+
+**User (Usuario)**
+- Relación con Rental (Alquiler): Un usuario puede tener múltiples alquileres (Relación 1 a N).
+Rental (Alquiler)
+- Relación con User: Un alquiler está asociado a un usuario (Relación N a 1).
+- Relación con Vehicle (Vehículo): Un alquiler está asociado a un vehículo (Relación N a 1).
+- Relación con Rental_Location (Ubicación de Alquiler): Un alquiler puede estar vinculado a múltiples ubicaciones (Relación 1 a N).
+**Vehicle (Vehículo)**
+- Relación con Model (Modelo): Un vehículo tiene un modelo (Relación N a 1).
+- Relación con Brand (Marca): Un vehículo tiene una marca (Relación N a 1).
+- Relación con Company (Empresa): Un vehículo pertenece a una empresa (Relación N a 1).
+- Relación con Pricing (Precios): Un vehículo puede tener múltiples tarifas de precios (Relación 1 a N).
+- Relación con Rental (Alquiler): Un vehículo puede estar vinculado a múltiples alquileres (Relación 1 a N).
+**Model (Modelo)**
+- Relación con Brand (Marca): Un modelo pertenece a una marca (Relación N a 1).
+- Relación con Vehicle (Vehículo): Un modelo puede estar asociado a múltiples vehículos (Relación 1 a N).
+**Brand (Marca)**
+- Relación con Model (Modelo): Una marca puede tener múltiples modelos (Relación 1 a N).
+- Relación con Vehicle (Vehículo): Una marca puede tener múltiples vehículos (Relación 1 a N).
+**Company (Empresa)**
+- Relación con Vehicle (Vehículo): Una empresa puede tener múltiples vehículos (Relación 1 a N).
+**Pricing (Precios)**
+- Relación con Vehicle (Vehículo): Un precio está vinculado a un vehículo (Relación N a 1).
+**Rental_Location** (Ubicación de Alquiler)
+- Relación con Rental (Alquiler): Una ubicación de alquiler está vinculada a un alquiler (Relación N a 1).
+- Relación con Location (Ubicación): Una ubicación de alquiler puede estar vinculada a una ubicación geográfica (Relación N a 1).
+**Location (Ubicación)**
+- Relación con Rental_Location (Ubicación de Alquiler): Una ubicación puede tener múltiples ubicaciones de alquiler (Relación 1 a N).
+
+
+#### **3.2.2.4.Database Diagram.**
+
+Hemos realizado un análisis detallado del sistema de negocio y lo hemos representado mediante un diagrama de base de datos. Este diagrama muestra las principales tablas y las relaciones entre ellas, destacando las claves primarias y foráneas, así como los atributos de cada entidad. 
+
+![DBDiagram.png](images/DBDiagram.png)
+
+
+- **User:** Representa a los usuarios del sistema, con información personal como nombres, correo electrónico, número de teléfono, DNI, y licencia de conducir.
+- **Company:** Almacena los datos de las compañías que gestionan flotas de vehículos, incluyendo su nombre y RUC.
+- **Vehicle:** Define los vehículos disponibles para alquiler, con atributos como la capacidad de pasajeros, capacidad de equipaje, y sus relaciones con la marca y el modelo.
+- **Rental:** Almacena información sobre los alquileres realizados, como la fecha de inicio y fin, estado del alquiler, el vehículo alquilado y el usuario que lo reservó.
+- **Pricing:** Detalla las tarifas diarias y semanales de los vehículos, junto con los posibles descuentos aplicables.
+- **Rental_Location:** Define las ubicaciones relacionadas con los alquileres, como la dirección, ciudad, y coordenadas de la ubicación.
+- **Brand y Model:** Se relacionan con los vehículos, especificando la marca y el modelo de cada uno.
 
 
 ## **Conclusiones**
