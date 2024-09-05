@@ -335,73 +335,41 @@ En nuestro análisis de los segmentos objetivos, hemos identificado las siguient
 
 ## **Capítulo III: Architecture**
 
-## Capítulo IV: Product Design
+## 3.1. Product Design
 
-### 4.1. Style Guidelines
+### 3.1.1. Style Guidelines
 
-#### 4.1.1. General Style Guidelines
+#### 3.1.1.1. General Style Guidelines
 
-Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para **Gotta Go Fast**. Definir aspectos clave como la identidad de marca, la paleta de colores, la tipografía, el tono de comunicación, y el lenguaje utilizado es esencial para reflejar la personalidad de la aplicación, ya sea divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
+Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para Gotta Go Fast. Definir aspectos clave como la identidad de marca, la paleta de colores, la tipografía, el tono de comunicación, y el lenguaje utilizado es esencial para reflejar la personalidad de la aplicación, ya sea divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
 
 **Branding:**  
 **Gotta Go Fast** personifica la agilidad, la simplicidad y la modernidad en el ámbito de alquiler de vehículos. Nuestra esencia se centra en ofrecer soluciones tecnológicas que simplifican y aceleran la experiencia de alquilar un auto. La marca representa rapidez, confianza y una experiencia de usuario intuitiva, amigable y accesible.
 
 **Logotipo:**  
-El logotipo de **Gotta Go Fast** utiliza una paleta de colores principal centrada en un tono azul vibrante. Este color encarna la confianza, la seguridad y la tecnología avanzada que **Gotta Go Fast** busca transmitir a sus usuarios. El logotipo representa eficiencia, dinamismo y modernidad, destacando la capacidad de la app para ofrecer soluciones rápidas y efectivas.
+El logotipo de Gotta Go Fast utiliza una paleta de colores principal centrada en un fondo negro con el logotivo blanco. Este color encarna la confianza, la seguridad y la tecnología avanzada que Gotta Go Fast busca transmitir a sus usuarios. El logotipo representa eficiencia, dinamismo y modernidad, destacando la capacidad de la app para ofrecer soluciones rápidas y efectivas.
 
 **Colores:**
 
 Se ha seleccionado el color azul como color principal para el diseño de nuestro producto.
 
-- **Azul (#007BFF):** Este color transmite confianza, seguridad, y eficiencia. Representa la fiabilidad y la serenidad, alineado con los valores de **Gotta Go Fast** de proporcionar una experiencia de alquiler de autos fácil y rápida.
-- **Gris oscuro (#4D4D4D):** Utilizado para textos secundarios y detalles, aporta contraste y facilita la lectura.
+- **Azul (#007BFF):** Este color transmite confianza, seguridad, y eficiencia. Representa la fiabilidad y la serenidad, alineado con los valores de Gotta Go Fast de proporcionar una experiencia de alquiler de autos fácil y rápida.
 - **Blanco (#FFFFFF):** Utilizado para fondos limpios y elementos de espacio, promoviendo una interfaz clara y sencilla.
 - **Negro (#000000):** Utilizado para textos principales y elementos de interfaz importantes, asegurando una visibilidad y claridad óptimas.
 
 **Tipografía:**
 
-La tipografía de **Gotta Go Fast** es moderna y legible, con un diseño limpio que refleja la simplicidad y la eficiencia. Se ha seleccionado una fuente contemporánea que comunica profesionalismo y tecnología, asegurando una experiencia de usuario fluida.
+La tipografía de Gotta Go Fast es moderna y legible, con un diseño limpio que refleja la simplicidad y la eficiencia. Se ha seleccionado una fuente contemporánea que comunica profesionalismo y tecnología, asegurando una experiencia de usuario fluida.
 
 **Tonos de Comunicación:**
 
-- **Casual/Confianza:** En **Gotta Go Fast**, mantenemos un enfoque casual que refleja accesibilidad y facilidad de uso, pero con un tono de confianza que asegura a los usuarios la fiabilidad de nuestros servicios.
+- **Casual/Confianza:** En Gotta Go Fast, mantenemos un enfoque casual que refleja accesibilidad y facilidad de uso, pero con un tono de confianza que asegura a los usuarios la fiabilidad de nuestros servicios.
 - **Respetuoso/Enérgico:** Nuestra comunicación es siempre respetuosa, mostrando empatía hacia las necesidades de nuestros usuarios, mientras transmitimos una energía positiva y optimista.
 - **Entusiasta/Sereno:** Aunque estamos entusiasmados por ofrecer la mejor experiencia de alquiler de autos, mantenemos un tono sereno para proyectar estabilidad y seguridad.
 
-#### 4.1.2. Web Style Guidelines
+### 3.1.2. Information Architecture
 
-**Fuentes:**
-Se utiliza una fuente Bold con variantes en el tamaño:
-
-- Para títulos: **40px**  
-- Para subtítulos: **36px**  
-- Para textos: **24px**  
-
-**Colores:**
-
-- **Azul (#007BFF):** Utilizado como color principal para botones y elementos interactivos.
-- **Gris oscuro (#4D4D4D):** Para textos secundarios y detalles.
-- **Blanco (#FFFFFF):** Para fondos y elementos de separación.
-- **Negro (#000000):** Para textos principales y títulos.
-
-**Gráficos:**
-
-- Logotipo de la aplicación.
-- Imágenes de autos destacados.
-- Iconos de navegación.
-- Iconos de redes sociales.
-
-**Componentes:**
-
-- Botones de acción.
-- Deslizadores de selección de vehículos.
-- Campos de texto para entrada de datos.
-- Cuadros de información de proveedores.
-- Botones de redes sociales.
-
-### 4.2. Information Architecture
-
-#### 4.2.1. Organization Systems
+#### 3.1.2.1. Organization Systems
 
 Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa prevista para **Gotta Go Fast**.
 
@@ -415,7 +383,7 @@ Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a
 | **Sistema de Recomendaciones Personalizadas** | Utiliza algoritmos avanzados para sugerir vehículos basados en las preferencias y el historial de alquiler de cada usuario, ofreciendo opciones que mejor se adapten a sus necesidades.                                 |
 | **Sistema de Notificaciones y Actualizaciones**| Mantiene a los usuarios informados sobre cambios en sus reservas, promociones especiales, y novedades en la flota de vehículos disponibles para alquiler.                                                         |
 
-#### 4.2.2. Labeling Systems
+#### 3.1.2.2. Labeling Systems
 
 El conjunto de información de **Gotta Go Fast** será representado por el sistema mediante las siguientes etiquetas:
 
@@ -429,7 +397,7 @@ El conjunto de información de **Gotta Go Fast** será representado por el siste
 | **Destacados**                 | La etiqueta "Destacados" se utiliza para marcar vehículos, opciones o características que fueron especialmente útiles o sorprendentes durante el alquiler. Facilita volver a opciones más destacadas o satisfactorias. |
 | **Recientemente Vistos**       | Esta etiqueta se aplica a los vehículos que un usuario ha consultado recientemente y en los que está interesado en alquilar. Facilita el seguimiento de las nuevas opciones que podrían ser de interés en su próxima reserva. |
 
-#### 4.2.3. SEO Tags and Meta Tags
+#### 3.1.2.3. SEO Tags and Meta Tags
 
 Nuestra estrategia de SEO para **Gotta Go Fast** implica el uso de etiquetas y meta etiquetas específicas para ayudar a los motores de búsqueda a comprender mejor el contenido de nuestro sitio web, facilitando su categorización y clasificación. De esta manera, podemos aumentar la visibilidad de nuestro sitio web, atraer más tráfico orgánico y, en consecuencia, incrementar la participación, las conversiones y los ingresos.
 
@@ -447,7 +415,7 @@ Nuestra estrategia de SEO para **Gotta Go Fast** implica el uso de etiquetas y m
 
 - **Etiquetas Heading (H1, H2, H3, etc.):** Utilizamos estas etiquetas para estructurar nuestro contenido de manera lógica y jerárquica, facilitando la lectura y comprensión para los usuarios. Además, estas etiquetas proporcionan información adicional a los motores de búsqueda sobre la importancia del contenido, lo que puede ayudar a mejorar su clasificación y relevancia en los resultados de búsqueda.
 
-#### 4.2.4. Searching Systems
+#### 3.1.2.4. Searching Systems
 
 Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una mejor experiencia para **Gotta Go Fast**.
 
@@ -457,11 +425,11 @@ Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una me
 | **Proveedor**                   | Los usuarios pueden buscar vehículos específicos según el proveedor de alquiler. Esto permite encontrar opciones de proveedores favoritos o explorar nuevos proveedores que puedan interesar. |
 | **Calificación**                | Los usuarios pueden filtrar los resultados de búsqueda según la calificación que han recibido los vehículos de otros usuarios. Pueden elegir ver los vehículos mejor valorados para asegurar una experiencia de alta calidad. |
 | **Fecha de Disponibilidad**     | Este filtro permite a los usuarios buscar vehículos según la fecha de disponibilidad. Pueden seleccionar fechas específicas para encontrar vehículos disponibles para alquilar en el momento que los necesiten. |
-| **Precio**                      | **Gotta Go Fast** permite a los usuarios buscar vehículos dentro de un rango de precios específico. Los usuarios pueden seleccionar opciones económicas, estándar o premium según sus preferencias y presupuesto. |
+| **Precio**                      | Gotta Go Fast permite a los usuarios buscar vehículos dentro de un rango de precios específico. Los usuarios pueden seleccionar opciones económicas, estándar o premium según sus preferencias y presupuesto. |
 | **Tipo de Combustible**         | Permite a los usuarios filtrar vehículos según el tipo de combustible, como gasolina, diésel, eléctrico o híbrido, ayudando a los usuarios a encontrar opciones que se ajusten a sus preferencias ecológicas o de consumo. |
 | **Transmisión**                 | Este filtro permite a los usuarios seleccionar vehículos según el tipo de transmisión (manual o automática), asegurando que puedan encontrar una opción que les resulte cómoda y familiar. |
 
-#### 4.2.5. Navigation Systems
+#### 3.1.2.5. Navigation Systems
 
 Los procedimientos técnicos permitirán a los usuarios de **Gotta Go Fast** elegir cualquier detalle que deseen sobre un vehículo o proveedor de alquiler en una ventana web.
 
@@ -480,7 +448,35 @@ Los procedimientos técnicos permitirán a los usuarios de **Gotta Go Fast** ele
 
 ## **Capítulo V: Product Implementation & Validation
 
+#### 4.1.2. Web Style Guidelines
 
+**Fuentes:**
+Se utiliza una fuente Bold con variantes en el tamaño:
+
+- Para títulos: **40px**  
+- Para subtítulos: **36px**  
+- Para textos: **24px**  
+
+**Colores:**
+
+- **Azul (#007BFF):** Utilizado como color principal para botones y elementos interactivos.
+- **Blanco (#FFFFFF):** Para fondos y elementos de separación.
+- **Negro (#000000):** Para textos principales y títulos.
+
+**Gráficos:**
+
+- Logotipo de la aplicación.
+- Imágenes de autos destacados.
+- Iconos de navegación.
+- Iconos de redes sociales.
+
+**Componentes:**
+
+- Botones de acción.
+- Deslizadores de selección de vehículos.
+- Campos de texto para entrada de datos.
+- Cuadros de información de proveedores.
+- Botones de redes sociales.
 
 ## **Conclusiones**
 
