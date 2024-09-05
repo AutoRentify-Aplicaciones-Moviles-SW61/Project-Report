@@ -335,6 +335,145 @@ En nuestro análisis de los segmentos objetivos, hemos identificado las siguient
 
 ## **Capítulo III: Architecture**
 
+## Capítulo IV: Product Design
+
+### 4.1. Style Guidelines
+
+#### 4.1.1. General Style Guidelines
+
+Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para **Gotta Go Fast**. Definir aspectos clave como la identidad de marca, la paleta de colores, la tipografía, el tono de comunicación, y el lenguaje utilizado es esencial para reflejar la personalidad de la aplicación, ya sea divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
+
+**Branding:**  
+**Gotta Go Fast** personifica la agilidad, la simplicidad y la modernidad en el ámbito de alquiler de vehículos. Nuestra esencia se centra en ofrecer soluciones tecnológicas que simplifican y aceleran la experiencia de alquilar un auto. La marca representa rapidez, confianza y una experiencia de usuario intuitiva, amigable y accesible.
+
+**Logotipo:**  
+El logotipo de **Gotta Go Fast** utiliza una paleta de colores principal centrada en un tono azul vibrante. Este color encarna la confianza, la seguridad y la tecnología avanzada que **Gotta Go Fast** busca transmitir a sus usuarios. El logotipo representa eficiencia, dinamismo y modernidad, destacando la capacidad de la app para ofrecer soluciones rápidas y efectivas.
+
+**Colores:**
+
+Se ha seleccionado el color azul como color principal para el diseño de nuestro producto.
+
+- **Azul (#007BFF):** Este color transmite confianza, seguridad, y eficiencia. Representa la fiabilidad y la serenidad, alineado con los valores de **Gotta Go Fast** de proporcionar una experiencia de alquiler de autos fácil y rápida.
+- **Gris oscuro (#4D4D4D):** Utilizado para textos secundarios y detalles, aporta contraste y facilita la lectura.
+- **Blanco (#FFFFFF):** Utilizado para fondos limpios y elementos de espacio, promoviendo una interfaz clara y sencilla.
+- **Negro (#000000):** Utilizado para textos principales y elementos de interfaz importantes, asegurando una visibilidad y claridad óptimas.
+
+**Tipografía:**
+
+La tipografía de **Gotta Go Fast** es moderna y legible, con un diseño limpio que refleja la simplicidad y la eficiencia. Se ha seleccionado una fuente contemporánea que comunica profesionalismo y tecnología, asegurando una experiencia de usuario fluida.
+
+**Tonos de Comunicación:**
+
+- **Casual/Confianza:** En **Gotta Go Fast**, mantenemos un enfoque casual que refleja accesibilidad y facilidad de uso, pero con un tono de confianza que asegura a los usuarios la fiabilidad de nuestros servicios.
+- **Respetuoso/Enérgico:** Nuestra comunicación es siempre respetuosa, mostrando empatía hacia las necesidades de nuestros usuarios, mientras transmitimos una energía positiva y optimista.
+- **Entusiasta/Sereno:** Aunque estamos entusiasmados por ofrecer la mejor experiencia de alquiler de autos, mantenemos un tono sereno para proyectar estabilidad y seguridad.
+
+#### 4.1.2. Web Style Guidelines
+
+**Fuentes:**
+Se utiliza una fuente Bold con variantes en el tamaño:
+
+- Para títulos: **40px**  
+- Para subtítulos: **36px**  
+- Para textos: **24px**  
+
+**Colores:**
+
+- **Azul (#007BFF):** Utilizado como color principal para botones y elementos interactivos.
+- **Gris oscuro (#4D4D4D):** Para textos secundarios y detalles.
+- **Blanco (#FFFFFF):** Para fondos y elementos de separación.
+- **Negro (#000000):** Para textos principales y títulos.
+
+**Gráficos:**
+
+- Logotipo de la aplicación.
+- Imágenes de autos destacados.
+- Iconos de navegación.
+- Iconos de redes sociales.
+
+**Componentes:**
+
+- Botones de acción.
+- Deslizadores de selección de vehículos.
+- Campos de texto para entrada de datos.
+- Cuadros de información de proveedores.
+- Botones de redes sociales.
+
+### 4.2. Information Architecture
+
+#### 4.2.1. Organization Systems
+
+Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa prevista para **Gotta Go Fast**.
+
+| **Tópico**                             | **Definición**                                                                                                                                                             |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sistema de Clasificación de Vehículos**      | Sistema que organiza los vehículos disponibles según categorías como tipo de auto (sedán, SUV, camioneta), combustible (gasolina, diésel, eléctrico) y transmisión (manual, automática). Esto permite a los usuarios explorar y encontrar rápidamente el vehículo que mejor se ajuste a sus necesidades. |
+| **Etiquetas Personalizadas**                  | Permite a los usuarios crear y aplicar etiquetas a los vehículos que han alquilado o les interesa. Facilita la organización y personalización de las selecciones de autos, como "Favoritos", "Viajes de Trabajo", "Vacaciones", entre otras etiquetas personalizadas. |
+| **Filtrado por Preferencias del Usuario**     | Permite a los usuarios filtrar vehículos por preferencias como kilometraje, antigüedad, capacidad de pasajeros y opciones adicionales (GPS, aire acondicionado, silla para niños), ayudando a encontrar el vehículo perfecto. |
+| **Interfaz de Usuario Intuitiva**             | Diseño de una plataforma amigable y fácil de usar para una experiencia de usuario óptima.                                                                                   |
+| **Sistema de Reservas Personalizadas**        | Permite a los usuarios gestionar sus reservas de forma eficiente, incluyendo la opción de modificar o cancelar reservas, guardar vehículos favoritos y revisar el historial de alquiler.                                |
+| **Sistema de Recomendaciones Personalizadas** | Utiliza algoritmos avanzados para sugerir vehículos basados en las preferencias y el historial de alquiler de cada usuario, ofreciendo opciones que mejor se adapten a sus necesidades.                                 |
+| **Sistema de Notificaciones y Actualizaciones**| Mantiene a los usuarios informados sobre cambios en sus reservas, promociones especiales, y novedades en la flota de vehículos disponibles para alquiler.                                                         |
+
+#### 4.2.2. Labeling Systems
+
+El conjunto de información de **Gotta Go Fast** será representado por el sistema mediante las siguientes etiquetas:
+
+| **Etiqueta**                   | **Descripción**                                                                                                                                                                |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Próximo Alquiler**           | Esta etiqueta permite a los usuarios marcar los vehículos que desean alquilar en su próximo viaje. Ayuda a mantener una lista organizada de las futuras opciones de alquiler, facilitando la planificación.              |
+| **Favoritos**                  | Los usuarios pueden etiquetar vehículos como "Favoritos" para destacar aquellos autos que han sido especialmente satisfactorios o adecuados. Esto proporciona una forma rápida de encontrar y reservar los vehículos más apreciados. |
+| **Recomendados por Amigos**    | Permite a los usuarios marcar los vehículos que han sido recomendados por amigos o miembros de la comunidad de **Gotta Go Fast**. Facilita el seguimiento de recomendaciones de alquiler confiables y ajustadas a sus necesidades. |
+| **Por Categoría**              | Los usuarios pueden crear etiquetas personalizadas basadas en categorías específicas que les interesen, como "SUV", "Eléctrico", "De Lujo", o "Económico". Esto ayuda a categorizar y organizar los vehículos según las preferencias individuales. |
+| **Alquilados**                 | La etiqueta "Alquilados" se aplica a los vehículos que un usuario ha alquilado previamente. Permite una fácil identificación de los autos usados anteriormente y proporciona un registro de los vehículos que han sido disfrutados. |
+| **Destacados**                 | La etiqueta "Destacados" se utiliza para marcar vehículos, opciones o características que fueron especialmente útiles o sorprendentes durante el alquiler. Facilita volver a opciones más destacadas o satisfactorias. |
+| **Recientemente Vistos**       | Esta etiqueta se aplica a los vehículos que un usuario ha consultado recientemente y en los que está interesado en alquilar. Facilita el seguimiento de las nuevas opciones que podrían ser de interés en su próxima reserva. |
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+Nuestra estrategia de SEO para **Gotta Go Fast** implica el uso de etiquetas y meta etiquetas específicas para ayudar a los motores de búsqueda a comprender mejor el contenido de nuestro sitio web, facilitando su categorización y clasificación. De esta manera, podemos aumentar la visibilidad de nuestro sitio web, atraer más tráfico orgánico y, en consecuencia, incrementar la participación, las conversiones y los ingresos.
+
+**Etiquetas SEO principales utilizadas:**
+
+- **Title Tag (etiqueta de título):** Cada página de nuestro sitio web cuenta con un título único y descriptivo que captura la esencia del contenido de esa página. Además, los títulos cambian de color cuando se seleccionan, mejorando la experiencia de usuario.
+
+- **Meta Keywords Tag (etiqueta de palabras clave meta):** Utilizamos estas etiquetas estratégicamente para identificar las palabras clave principales relacionadas con el contenido de cada página. Esto ayuda a los motores de búsqueda a comprender mejor el tema y la relevancia del contenido, mejorando su visibilidad en los resultados de búsqueda.
+
+- **Canonical Tag (etiqueta canónica):** Empleamos esta etiqueta en casos donde tenemos múltiples URL que muestran el mismo contenido o contenido similar, asegurando que los motores de búsqueda reconozcan la URL principal y eviten la duplicación de contenido.
+
+**Otros aspectos relevantes:**
+
+- **Etiquetas Alt en Imágenes:** Todas las imágenes en el sitio web de **Gotta Go Fast** incluyen una etiqueta alt descriptiva. Esto no solo ayuda a los motores de búsqueda a comprender el contenido de las imágenes, sino que también mejora la accesibilidad del sitio para usuarios con discapacidades visuales.
+
+- **Etiquetas Heading (H1, H2, H3, etc.):** Utilizamos estas etiquetas para estructurar nuestro contenido de manera lógica y jerárquica, facilitando la lectura y comprensión para los usuarios. Además, estas etiquetas proporcionan información adicional a los motores de búsqueda sobre la importancia del contenido, lo que puede ayudar a mejorar su clasificación y relevancia en los resultados de búsqueda.
+
+#### 4.2.4. Searching Systems
+
+Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una mejor experiencia para **Gotta Go Fast**.
+
+| **Filtro**                      | **Definición**                                                                                                                                                        |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Tipo de Vehículo**            | Este filtro permite a los usuarios buscar vehículos según su tipo, como sedán, SUV, camioneta, deportivo, entre otros. Facilita una búsqueda específica y dirigida hacia los intereses y necesidades de cada usuario. |
+| **Proveedor**                   | Los usuarios pueden buscar vehículos específicos según el proveedor de alquiler. Esto permite encontrar opciones de proveedores favoritos o explorar nuevos proveedores que puedan interesar. |
+| **Calificación**                | Los usuarios pueden filtrar los resultados de búsqueda según la calificación que han recibido los vehículos de otros usuarios. Pueden elegir ver los vehículos mejor valorados para asegurar una experiencia de alta calidad. |
+| **Fecha de Disponibilidad**     | Este filtro permite a los usuarios buscar vehículos según la fecha de disponibilidad. Pueden seleccionar fechas específicas para encontrar vehículos disponibles para alquilar en el momento que los necesiten. |
+| **Precio**                      | **Gotta Go Fast** permite a los usuarios buscar vehículos dentro de un rango de precios específico. Los usuarios pueden seleccionar opciones económicas, estándar o premium según sus preferencias y presupuesto. |
+| **Tipo de Combustible**         | Permite a los usuarios filtrar vehículos según el tipo de combustible, como gasolina, diésel, eléctrico o híbrido, ayudando a los usuarios a encontrar opciones que se ajusten a sus preferencias ecológicas o de consumo. |
+| **Transmisión**                 | Este filtro permite a los usuarios seleccionar vehículos según el tipo de transmisión (manual o automática), asegurando que puedan encontrar una opción que les resulte cómoda y familiar. |
+
+#### 4.2.5. Navigation Systems
+
+Los procedimientos técnicos permitirán a los usuarios de **Gotta Go Fast** elegir cualquier detalle que deseen sobre un vehículo o proveedor de alquiler en una ventana web.
+
+| **Nombre**                      | **Definición**                                                                                                                                                       |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Navegación Principal**        | La Navegación Principal de **Gotta Go Fast** se encuentra en la parte superior de la interfaz y proporciona acceso rápido a las secciones clave de la plataforma. Incluye enlaces como "Inicio", "Explorar Vehículos", "Mis Reservas", y "Ofertas". Esta navegación permite a los usuarios moverse fácilmente por las diferentes áreas de **Gotta Go Fast**. |
+| **Barra de Búsqueda**           | La Barra de Búsqueda de **Gotta Go Fast** está ubicada en un lugar destacado de la interfaz, permitiendo a los usuarios buscar vehículos, proveedores o características específicas. Los resultados de búsqueda son instantáneos y se presentan de manera clara para una fácil exploración. |
+| **Menú Desplegable de Categorías** | El Menú Desplegable de Categorías en **Gotta Go Fast** ofrece una lista organizada de los tipos de vehículos disponibles. Al seleccionar una categoría, los usuarios son dirigidos a una página dedicada con una colección de vehículos dentro de esa categoría específica. |
+| **Menú de Usuario**             | El Menú de Usuario de **Gotta Go Fast**, accesible desde el icono de perfil del usuario, proporciona opciones personalizadas para cada cuenta. Incluye enlaces a "Historial de Alquileres", "Configuración de Cuenta", "Métodos de Pago", y "Notificaciones". |
+| **Filtrado Avanzado**           | El Filtrado Avanzado en **Gotta Go Fast** se encuentra en la página de resultados de búsqueda y permite a los usuarios refinar sus búsquedas. Ofrece opciones para filtrar por tipo de vehículo, proveedor, calificación, precio, transmisión, combustible y más. |
+| **Mapa de Ubicaciones**         | Un mapa interactivo que muestra las ubicaciones de los vehículos disponibles para alquiler en tiempo real. Los usuarios pueden visualizar las opciones cercanas y elegir la más conveniente según su ubicación actual. |
+| **Centro de Ayuda y Soporte**   | Sección dedicada al soporte y asistencia del usuario, con acceso a preguntas frecuentes (FAQ), chat en vivo con atención al cliente, y guías de uso para resolver dudas o problemas relacionados con el alquiler de vehículos. |
 
 ## **Capítulo IV: Backend Product Implementation & Validation**
 
