@@ -349,17 +349,29 @@ Es fundamental considerar las decisiones y elementos visuales que respaldan los 
 **Logotipo:**  
 El logotipo de Gotta Go Fast utiliza una paleta de colores principal centrada en un fondo negro con el logotivo blanco. Este color encarna la confianza, la seguridad y la tecnología avanzada que Gotta Go Fast busca transmitir a sus usuarios. El logotipo representa eficiencia, dinamismo y modernidad, destacando la capacidad de la app para ofrecer soluciones rápidas y efectivas.
 
+![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
+
 **Colores:**
 
 Se ha seleccionado el color azul como color principal para el diseño de nuestro producto.
 
 - **Azul (#007BFF):** Este color transmite confianza, seguridad, y eficiencia. Representa la fiabilidad y la serenidad, alineado con los valores de Gotta Go Fast de proporcionar una experiencia de alquiler de autos fácil y rápida.
+
+![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
+
 - **Blanco (#FFFFFF):** Utilizado para fondos limpios y elementos de espacio, promoviendo una interfaz clara y sencilla.
+
+![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
+
 - **Negro (#000000):** Utilizado para textos principales y elementos de interfaz importantes, asegurando una visibilidad y claridad óptimas.
+
+![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
 
 **Tipografía:**
 
 La tipografía de Gotta Go Fast es moderna y legible, con un diseño limpio que refleja la simplicidad y la eficiencia. Se ha seleccionado una fuente contemporánea que comunica profesionalismo y tecnología, asegurando una experiencia de usuario fluida.
+
+![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
 
 **Tonos de Comunicación:**
 
