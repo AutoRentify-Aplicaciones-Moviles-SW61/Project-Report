@@ -949,7 +949,7 @@ Es fundamental considerar las decisiones y elementos visuales que respaldan los 
 **Logotipo:**  
 El logotipo de Gotta Go Fast utiliza una paleta de colores principal centrada en un fondo negro con el logotivo blanco. Este color encarna la confianza, la seguridad y la tecnología avanzada que Gotta Go Fast busca transmitir a sus usuarios. El logotipo representa eficiencia, dinamismo y modernidad, destacando la capacidad de la app para ofrecer soluciones rápidas y efectivas.
 
-![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
+![Gotta Go Fast Logo]("./images/gottalogo.jpg")
 
 **Colores:**
 
