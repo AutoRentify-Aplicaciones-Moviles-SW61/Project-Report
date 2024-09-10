@@ -957,21 +957,19 @@ Se ha seleccionado el color azul como color principal para el diseño de nuestro
 
 - **Azul (#007BFF):** Este color transmite confianza, seguridad, y eficiencia. Representa la fiabilidad y la serenidad, alineado con los valores de Gotta Go Fast de proporcionar una experiencia de alquiler de autos fácil y rápida.
 
-![Colores](./images/gottalogo.jpg)
+![Colores](./images/azul.jpg)
 
-- **Blanco (#FFFFFF):** Utilizado para fondos limpios y elementos de espacio, promoviendo una interfaz clara y sencilla.
+- **Gris (#FFFFFF):** Utilizado para fondos limpios y elementos de espacio, promoviendo una interfaz clara y sencilla.
 
-![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
+![Gotta Go Fast Logo](./images/materiagris.jpg)
 
 - **Negro (#000000):** Utilizado para textos principales y elementos de interfaz importantes, asegurando una visibilidad y claridad óptimas.
 
-![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
+![Gotta Go Fast Logo](./images/negroabdi.jpg)
 
 **Tipografía:**
 
 La tipografía de Gotta Go Fast es moderna y legible, con un diseño limpio que refleja la simplicidad y la eficiencia. Se ha seleccionado una fuente contemporánea que comunica profesionalismo y tecnología, asegurando una experiencia de usuario fluida.
-
-![Gotta Go Fast Logo](./imgs/gotta_go_fast_logo.png)
 
 **Tonos de Comunicación:**
 
