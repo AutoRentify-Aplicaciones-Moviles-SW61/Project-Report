@@ -1066,8 +1066,35 @@ Los procedimientos técnicos permitirán a los usuarios de **Gotta Go Fast** ele
 ## **3.2. Arquitecture Overview.**
 ### **3.2.1. Domain-Driven Software Architecture.**
 #### **3.2.1.1.Software Architecture Context Level Diagram.**
+
+Diagrama de contexto
+
+![Diagrama de contexto](./images/structurizr-94933-Contexto.png)
+
+Elementos del diagrama:
+
+![Elementos del diagrama de contexto](./images/structurizr-94933-Contexto-key.png)
+
 #### **3.2.1.2. Software Architecture Container Level Diagram.**
+
+Diagrama de contenedor
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+Elementos del diagrama:
+
+![Elementos del diagrama de contexto](./images/structurizr-94933-Contexto-key.png)
+
 #### **3.2.1.3. Software Architecture Components Diagram.**
+
+Diagrama de contenedor
+
+
+![Diagrama de contexto](./images/structurizr-94933-ComponentDiagram.png)
+
+Elementos del diagrama:
+
+![Elementos del diagrama de contexto](./images/structurizr-94933-ComponentDiagram-key.png)
 
 
 
