@@ -38,7 +38,7 @@
             <td>U202213384</td>
         </tr>
         <tr>
-            <td>Serrano Ircañaupa, Nelson Elías</td>
+            <td> Nelson Elías Serrano Ircañaupa</td>
             <td>U202214733</td>
         </tr>
     </table>
