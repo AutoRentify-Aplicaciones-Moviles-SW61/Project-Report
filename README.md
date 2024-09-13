@@ -863,7 +863,7 @@ Autores:
 
 
 
-#### **4.4.2. Mobile Application Mock-ups.**
+#### **4.4.2. Mobile Applications Mock-ups.**
 
 En base a los wireframes presentados en el punto anterior, se desarrollaron los siguientes mock-ups de la aplicación.
 
@@ -891,6 +891,53 @@ En base a los wireframes presentados en el punto anterior, se desarrollaron los 
 **Mock-ups correspondientes al apartado de configuración de cuenta**
 
 ![img_9.png](images/AccountSettingsPage.png)
+
+#### **4.4.3. Mobile Applications User Flow Diagrams.**
+
+Basado en los Wireflow Diagrams, se han definido los siguientes User Flow Diagrams para nuestro mock-up y prototipo:
+
+**User Goal: El usuario ingresa a la aplicación para registrarse como administrador o profesor.**
+
+**User Goal: El usuario ingresa a la aplicación para iniciar sesión como administrador o profesor.**
+
+**User Goal: Recuperación de contraseña**
+
+![img.png](images/UsGoal1.png)
+
+
+
+**User Goal: El usuario desea buscar diferentes opciones de autos para alquilar**
+
+![img_1.png](images/UsGoal2.png)
+
+
+
+**User Goal: El usuario desea reservar un auto**
+
+![img_2.png](images/UsGoal3.png)
+
+
+
+**User Goal: El usuario desea cambiar los datos de su cuenta**
+
+![img_3.png](images/UsGoal4.png)
+
+
+
+**User Goal: El usuario desea agregar o cambiar el metodo de pago**
+
+![img_4.png](images/UsGoal5.png)
+
+
+
+**User Goal: El usuario desea ver las órdenes de alquiler realizadas**
+
+![img_8.png](images/UsGoal6.png)
+
+
+
+
+**Enlace con los user flow en Miro:** https://miro.com/app/board/uXjVLfitOTc=/?share_link_id=408963272196
 
 
 ## **Capítulo V: Product Implementation & Validation
