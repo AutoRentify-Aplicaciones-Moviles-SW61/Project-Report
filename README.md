@@ -859,11 +859,8 @@ Autores:
 ## **Capítulo III: Architecture**
 
 
-## **Capítulo IV: Backend Product Implementation & Validation**
 
-
-
-#### **4.4.2. Mobile Applications Mock-ups.**
+#### **3.1.4.3 Mobile Applications Mock-ups.**
 
 En base a los wireframes presentados en el punto anterior, se desarrollaron los siguientes mock-ups de la aplicación.
 
@@ -892,7 +889,7 @@ En base a los wireframes presentados en el punto anterior, se desarrollaron los 
 
 ![img_9.png](images/AccountSettingsPage.png)
 
-#### **4.4.3. Mobile Applications User Flow Diagrams.**
+#### **3.1.4.4 Mobile Applications User Flow Diagrams.**
 
 Basado en los Wireflow Diagrams, se han definido los siguientes User Flow Diagrams para nuestro mock-up y prototipo:
 
@@ -939,6 +936,16 @@ Basado en los Wireflow Diagrams, se han definido los siguientes User Flow Diagra
 
 **Enlace con los user flow en Miro:** https://miro.com/app/board/uXjVLfitOTc=/?share_link_id=408963272196
 
+
+### **3.1.4.5 Mobile Applications Prototyping**
+
+Puede acceder al prototipo de nuestra aplicación móvil por medio de este enlace:
+
+https://www.figma.com/proto/n8zFqrwUSE9bfN8xEmh0cH/GottaGoFastPrototype?node-id=108-1409&node-type=canvas&t=x2IbGYvWRCrvNvqh-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A194&starting-point-node-id=108%3A1409
+
+Puede acceder al diseño de nuestra aplicación móvil por medio de este enlace:
+
+https://www.figma.com/design/n8zFqrwUSE9bfN8xEmh0cH/GottaGoFastPrototype?node-id=1-194&t=kaHG4rqxs1RCK59n-1
 
 ## **Capítulo V: Product Implementation & Validation
 
