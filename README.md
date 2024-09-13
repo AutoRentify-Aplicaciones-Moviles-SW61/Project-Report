@@ -862,6 +862,37 @@ Autores:
 ## **Capítulo IV: Backend Product Implementation & Validation**
 
 
+
+#### **4.4.2. Web Applications Mock-ups.**
+
+En base a los wireframes presentados en el punto anterior, se desarrollaron los siguientes mock-ups de la aplicación.
+
+**Mock-ups correspondientes a las interfaces de registro de usuarios, ingreso de usuarios registrados y recuperación de contraseña:**
+
+![img_4.png](images/CreateAccount.png)
+
+**Mock-ups correspondientes a las interfaces de inicio de la aplicación**
+
+![img_5.png](images/HomePage.png)
+
+**Mock-ups correspondientes a las interfaces del apartado de búsqueda de vehículos**
+
+![img_13.png](images/ResultsPage.png)
+
+**Mock-ups correspondientes a las interfaces del apartado de reserva de vehículos**
+
+![img_7.png](images/BookingPage.png)
+
+**Mock-ups correspondientes a las interfaces del sistema de pago**
+
+
+![img_8.png](images/PaymentPage.png)
+
+**Mock-ups correspondientes al apartado de configuración de cuenta**
+
+![img_9.png](images/AccountSettingsPage.png)
+
+
 ## **Capítulo V: Product Implementation & Validation
 
 
