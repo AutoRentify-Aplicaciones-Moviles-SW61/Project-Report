@@ -863,7 +863,7 @@ Autores:
 
 
 
-#### **4.4.2. Web Applications Mock-ups.**
+#### **4.4.2. Mobile Application Mock-ups.**
 
 En base a los wireframes presentados en el punto anterior, se desarrollaron los siguientes mock-ups de la aplicación.
 
