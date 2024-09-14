@@ -1101,7 +1101,44 @@ Our App:
 
 ### **3.1.4. Mobile Applications UX/UI Design.**
 #### **3.1.4.1. Mobile Applications Wireframes.**
+Después de identificar los elementos clave en nuestra aplicación, procedimos a diseñar las pantallas, enfocándonos en nuestros dos segmentos principales. Comenzamos con la pantalla de inicio de sesión, seguida por el diseño de los menús desplegables adaptados para ambos grupos de usuarios.
+![WireframelOGINMENU.png](images/WIREFRAMEHOM1.png)
+
+Luego, desarrollamos la sección enfocada en los usuarios que desean rentar un vehículo, poniendo especial énfasis en los filtros de búsqueda, el proceso de pago y la selección de fechas.
+![WireframeS2.png](images/WIREFRAMEHOMECONFIG2.png)
+![WireframeS3.png](images/WIREFRAMESEARCH3.png)
+![WireframeS4.png](images/WIREFRAMEBOOK4.png)
+![WireframeS5.png](images/WIREFRAMEPAPY5.png)
+![WireframeS6.png](images/WIRERAMERENTAL6.png)
+
+Ahora, para el segmento de empresas, nos enfocamos en permitirles visualizar el estado de sus vehículos, agregar y gestionar su flota, así como administrar sus planes de suscripción.
+![WireframeS7.png](images/WIEFRAME8VEHICULOS.png)
+![WireframeS8.png](images/WIRERAMEPLANS9.png)
+
+Figma: [https://www.figma.com/design/WvXj2uZK6xg6OLnYyC8wYp/GottaGoFast?node-id=36-7&t=C32DsDj3PKdjS4Xr-1](https://www.figma.com/design/WvXj2uZK6xg6OLnYyC8wYp/GottaGoFast?node-id=36-7&t=C32DsDj3PKdjS4Xr-1)
+
+
 #### **3.1.4.2.Mobile Applications Wireflow Diagrams.**
+Figma: [https://www.figma.com/design/WvXj2uZK6xg6OLnYyC8wYp/GottaGoFast?node-id=106-44&t=C32DsDj3PKdjS4Xr-1](https://www.figma.com/design/WvXj2uZK6xg6OLnYyC8wYp/GottaGoFast?node-id=106-44&t=C32DsDj3PKdjS4Xr-1)
+
+![Goal1.png](images/GOAL1.png)
+![Goal2.png](images/GOAL2.png)
+![Goal3.png](images/GOAL3.png)
+![Goal4.png](images/GOAL4.png)
+![Goal5.png](images/GOAL5.png)
+![Goal6.png](images/GOAL6.png)
+![Goal7.png](images/GOAL7.png)
+![Goal8.png](images/GOAL8.png)
+![Goal9.png](images/GOAL9.png)
+![Goal10.png](images/GOAL10.png)
+![Goal11.png](images/GOAL11.png)
+![Goal12.png](images/GOAL12.png)
+![Goal13.png](images/GOAL13.png)
+![Goal14.png](images/GOAL14.png)
+
+
+
+
 #### **3.1.4.3.Mobile Applications Mock-ups.**
 #### **3.1.4.4.Mobile Applications User Flow Diagrams.**
 #### **3.1.4.5.Mobile Applications Prototyping.**
