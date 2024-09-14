@@ -1056,7 +1056,49 @@ Los procedimientos técnicos permitirán a los usuarios de **Gotta Go Fast** ele
 
 ### **3.1.3. Landing Page UI Design.**
 #### **3.1.3.1. Landing Page Wireframe.**
+
+La Landing Page tiene seis secciones: Home, About Us, Community, Plans, Contact Us y Our App. Con soporte para español e inglés gracias a i18n, los usuarios pueden cambiar de idioma fácilmente. Las imágenes incluyen descripciones alternativas, y los colores aseguran buen contraste. Además, los títulos y textos están optimizados para mantener el interés. La navegación es sencilla gracias a una barra superior y un pie de página que mejoran la experiencia del usuario.
+
+Home :
+![HomeWireframe.png](images/HOME-WIRE.png)
+
+Community :
+![CommunityWireframe.png](images/COMMUNITY-WIRE.png)
+
+Contact Us :
+![ContactUsWireframe.png](images/CONTACTUS-WIRE.png)
+
+About Us :
+![AboutUsWireframe.png](images/ABOUTUS-WIRE.png)
+
+Plans:
+![PlansWireframe.png](images/PLANS-WIRE.png)
+
+Our App:
+![OurAppWireframe.png](images/OURAPP-WIRE.png)
+
 #### **3.1.3.2. Landing Page Mock-up.**
+
+Con esa parte terminada, procedimos a realizar el mockup, añadiendo más detalles para perfeccionar el diseño.
+
+Home:
+![HomeMOCKUP.png](images/HOME-MOCKUP.png)
+
+Community :
+![CommunityMOCKUP.png](images/COMMUNITY-MOCKUP.png)
+
+Contact Us :
+![ContactUsMOCKUP.png](images/CONATCTUS-MOCKUP.png)
+
+About Us :
+![AboutUsMOCKUP.png](images/ABOUTUS-MOCKUP.png)
+
+Plans:
+![PlansMOCKUP.png](images/PLANS-MOCKUP.png)
+
+Our App:
+![OurAppMOCKUP.png](images/OURAPP-MOCKUP.png)
+
 ### **3.1.4. Mobile Applications UX/UI Design.**
 #### **3.1.4.1. Mobile Applications Wireframes.**
 #### **3.1.4.2.Mobile Applications Wireflow Diagrams.**
