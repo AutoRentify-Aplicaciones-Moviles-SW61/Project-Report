@@ -1087,7 +1087,7 @@ Elementos del diagrama:
 
 #### **3.2.1.3. Software Architecture Components Diagram.**
 
-Diagrama de contenedor
+Diagrama de Componentes
 
 
 ![Diagrama de contexto](./images/structurizr-94933-ComponentDiagram.png)
