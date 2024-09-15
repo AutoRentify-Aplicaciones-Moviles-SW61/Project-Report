@@ -1391,4 +1391,6 @@ https://repositorio.unibe.edu.do/jspui/handle/123456789/1352
 https://repositorio.pascualbravo.edu.co/handle/pascualbravo/2371
 
 
+## **Anexos**
 
+- Landing Page Desployada: [https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/](https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/) 
