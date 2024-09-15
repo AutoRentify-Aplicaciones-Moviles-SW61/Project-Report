@@ -856,7 +856,7 @@ Autores:
 | Solicitar asistencia para recomendaciones locales | Pedir recomendaciones sobre lugares de interés locales o problemas con el vehículo. | Baja     | Media       |
 | Aprovechar promociones especiales para turistas | Buscar y utilizar ofertas y descuentos disponibles para turistas. | Media    | Media       |
 
-## **Capítulo III: Architecture**
+### **Capítulo III: Architecture**
 
 
 
@@ -864,74 +864,87 @@ Autores:
 
 En base a los wireframes presentados en el punto anterior, se desarrollaron los siguientes mock-ups de la aplicación.
 
-**Mock-ups correspondientes a las interfaces de registro de usuarios, ingreso de usuarios registrados y recuperación de contraseña:**
+##### **Mock-ups correspondientes a las interfaces de registro de usuarios, ingreso de usuarios registrados y recuperación de contraseña:**
 
 ![img_4.png](images/CreateAccount.png)
 
-**Mock-ups correspondientes a las interfaces de inicio de la aplicación**
+Estas pantallas permiten a los usuarios crear una cuenta nueva, iniciar sesión si ya están registrados o recuperar su contraseña en caso de haberla olvidado. Se destaca un flujo sencillo y amigable, con formularios claros que guían al usuario a través del proceso. En el diseño, se ha puesto especial énfasis en la accesibilidad y en minimizar los pasos necesarios para completar cada acción.
+
+##### **Mock-ups correspondientes a las interfaces de inicio de la aplicación**
 
 ![img_5.png](images/HomePage.png)
 
-**Mock-ups correspondientes a las interfaces del apartado de búsqueda de vehículos**
+La pantalla de inicio actúa como el punto central de la aplicación, proporcionando acceso rápido a la búsqueda de vehículos mediante filtros, por la marca o el precio. Además ofrece acceso a la configuración de cuenta que tiene distintas opciones. El diseño prioriza una navegación fluida y clara, con íconos grandes y accesos directos que simplifican la experiencia del usuario.
+
+##### **Mock-ups correspondientes a las interfaces del apartado de búsqueda de vehículos**
 
 ![img_13.png](images/ResultsPage.png)
 
-**Mock-ups correspondientes a las interfaces del apartado de reserva de vehículos**
+Estas pantallas están diseñadas para que el usuario pueda buscar vehículos disponibles de acuerdo a sus necesidades específicas previamente seleccionadas. Se presentan los resultados de manera clara y opciones de ordenamiento que facilitan la búsqueda. Además, cada vehículo incluye detalles relevantes como el precio, la marca, y las especificaciones principales.
+
+##### **Mock-ups correspondientes a las interfaces del apartado de reserva de vehículos**
 
 ![img_7.png](images/BookingPage.png)
 
-**Mock-ups correspondientes a las interfaces del sistema de pago**
+El apartado de reserva permite al usuario seleccionar los días que ulizará el vehículo seleccionado. El diseño de esta sección se centra en la simplicidad y claridad, con indicaciones visuales que guían al usuario a través del proceso de selección y confirmación de su reserva.
 
+##### **Mock-ups correspondientes a las interfaces del sistema de pago**
 
 ![img_8.png](images/PaymentPage.png)
 
-**Mock-ups correspondientes al apartado de configuración de cuenta**
+En estas pantallas se encuentra el flujo de pago, que incluye la selección del método de pago que, excepto la opción en efectivo, redirige a las opciones de pago de play store/app store . Se ha priorizado la seguridad y claridad en el diseño, con un enfoque en reducir el esfuerzo del usuario al completar la transacción de manera rápida y segura.
+
+##### **Mock-ups correspondientes al apartado de configuración de cuenta**
 
 ![img_9.png](images/AccountSettingsPage.png)
+
+Este apartado permite al usuario gestionar su perfil, incluyendo la actualización de datos personales, la modificación de la contraseña, entre otros. Así mismo, permite ver la órdendes de reserva realizadas y gestionar los métodos de pago. El diseño es intuitivo y fácil de navegar, asegurando que el usuario pueda realizar cambios de manera eficiente y sin complicaciones.
 
 #### **3.1.4.4 Mobile Applications User Flow Diagrams.**
 
 Basado en los Wireflow Diagrams, se han definido los siguientes User Flow Diagrams para nuestro mock-up y prototipo:
 
-**User Goal: El usuario ingresa a la aplicación para registrarse como administrador o profesor.**
+**User Goal: El usuario ingresa a la aplicación para registrarse.**
 
-**User Goal: El usuario ingresa a la aplicación para iniciar sesión como administrador o profesor.**
+**User Goal: El usuario ingresa a la aplicación para iniciar sesión.**
 
 **User Goal: Recuperación de contraseña**
 
 ![img.png](images/UsGoal1.png)
 
-
+Este flujo describe el proceso mediante el cual un usuario nuevo accede a la aplicación y sigue los pasos para registrarse. El flujo comienza desde la pantalla de bienvenida, donde el usuario selecciona la opción de "Sign up here". Luego, es guiado a un formulario en el que introduce sus datos personales y credenciales. Una vez completados los campos requeridos, el usuario puede confirmar el registro y acceder a la aplicación con su nueva cuenta.
+En este diagrama se detalla el flujo que sigue un usuario registrado para iniciar sesión. Desde la pantalla principal, el usuario elige la opción de "Continue", donde introduce su correo electrónico y contraseña. Tras verificar las credenciales, el sistema permite el acceso a las funcionalidades principales de la aplicación, como la búsqueda y reserva de vehículos.
+Este flujo describe el proceso para la recuperación de la contraseña en caso de que el usuario la haya olvidado. A partir de la pantalla de inicio de sesión, el usuario selecciona la opción de "Forgot Password", introduce su correo electrónico registrado, y recibe un enlace o código para restablecer su contraseña. Finalmente, el usuario puede crear una nueva contraseña y acceder a su cuenta.
 
 **User Goal: El usuario desea buscar diferentes opciones de autos para alquilar**
 
 ![img_1.png](images/UsGoal2.png)
 
-
+Este diagrama ilustra el flujo que permite al usuario buscar vehículos disponibles para alquilar. Desde la pantalla de inicio, el usuario ingresa los criterios de búsqueda. A continuación, el sistema muestra una lista de resultados filtrados según las preferencias, permitiendo al usuario seleccionar y explorar las opciones disponibles.
 
 **User Goal: El usuario desea reservar un auto**
 
 ![img_2.png](images/UsGoal3.png)
 
-
+Aquí se describe el flujo de reserva de un auto. Tras haber seleccionado un vehículo de la lista de resultados, el usuario elige las fechas de alquiler y procede a la reserva. El sistema verifica la disponibilidad y solicita la confirmación de la reserva. Una vez confirmada, el usuario recibe los detalles de la reserva, incluyendo el costo total y la información del vehículo.
 
 **User Goal: El usuario desea cambiar los datos de su cuenta**
 
 ![img_3.png](images/UsGoal4.png)
 
-
+Este flujo muestra el proceso mediante el cual un usuario accede y actualiza su información personal. Desde la sección de configuración de la cuenta, el usuario puede editar datos como nombre, correo electrónico y contraseña. Una vez realizadas las modificaciones, el sistema guarda los cambios correctamente.
 
 **User Goal: El usuario desea agregar o cambiar el metodo de pago**
 
 ![img_4.png](images/UsGoal5.png)
 
-
+En este diagrama se ilustra el flujo para agregar o cambiar el método de pago. El usuario accede a la configuración de su cuenta y selecciona la opción de "Métodos de pago". Desde allí, puede agregar una nueva tarjeta de crédito, modificar un método existente o eliminarlo. Cabe resalatar que estos pagos son redirigidos a los métodos de pago de la play store/app store.
 
 **User Goal: El usuario desea ver las órdenes de alquiler realizadas**
 
 ![img_8.png](images/UsGoal6.png)
 
-
+Este flujo describe cómo el usuario puede acceder al historial de órdenes de alquiler. Desde la pantalla principal, el usuario navega a su perfil y selecciona la opción de "Órdenes". Allí puede visualizar un resumen de las reservas activas, con detalles sobre las fechas, vehículo alquilado y el estado de cada orden.
 
 
 **Enlace con los user flow en Miro:** https://miro.com/app/board/uXjVLfitOTc=/?share_link_id=408963272196
