@@ -1542,6 +1542,97 @@ Hemos realizado un análisis detallado del sistema de negocio y lo hemos represe
 - **Rental_Location:** Define las ubicaciones relacionadas con los alquileres, como la dirección, ciudad, y coordenadas de la ubicación.
 - **Brand y Model:** Se relacionan con los vehículos, especificando la marca y el modelo de cada uno.
 
+# **Capítulo IV: Backend Product Implementation & Validation**
+
+## 4.1. Software Configuration Management
+
+### 4.1.1. Software Development Environment Configuration
+
+#### Project Management:
+
+- **Discord:** Implementamos Discord como nuestro principal canal de comunicación y colaboración entre los miembros del equipo, lo que nos permitió tener discusiones fluidas y actualizaciones constantes del proyecto. Además, nos ayudó a organizar reuniones virtuales y mantener la cohesión en tiempo real.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+- **WhatsApp:** Utilizamos WhatsApp como una herramienta adicional para comunicaciones rápidas y eficientes. Lo empleamos para enviar recordatorios, realizar encuestas y mantener una comunicación activa en el día a día, lo que nos permitió agilizar la toma de decisiones.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+- **GitFlow:** Para optimizar la estructura y el flujo de trabajo en el desarrollo, aplicamos GitFlow. Este enfoque nos brindó una metodología clara para gestionar las diferentes ramas de desarrollo y producción. También facilitó la colaboración entre los desarrolladores, asegurando versiones más controladas y pruebas exhaustivas antes de cada lanzamiento, lo que redujo significativamente los errores en producción.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+#### Landing Page:
+
+- Para crear la primera versión de nuestra landing page, utilizamos una combinación de HTML, CSS y JavaScript, que nos permitió desarrollar una página web atractiva y funcional. Estas tecnologías nos ayudaron a crear una interfaz visualmente agradable que cumplió con los requerimientos del proyecto.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+#### Requirements Management:
+
+- **Miro:** Empleamos Miro como nuestra herramienta clave para la gestión de requisitos del proyecto. Con ella, desarrollamos diagramas y mapas mentales que nos ayudaron a organizar y visualizar los requerimientos esenciales del proyecto, incluyendo sus características principales y metas.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+- **Lucidchart:** Complementamos nuestro proceso de documentación y creación de diagramas con Lucidchart, lo cual nos permitió representar visualmente la arquitectura del proyecto y mantener todo bien documentado.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+#### Product UX/UI Design:
+
+- **Figma:** Para el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX), trabajamos con Figma. Esta herramienta nos permitió desarrollar wireframes y prototipos interactivos que guiaron el diseño final de la aplicación, asegurando una experiencia visual óptima.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+- **UXPressia:** Con el objetivo de mejorar la usabilidad de la aplicación, utilizamos UXPressia para diseñar mapas de experiencia del usuario y perfiles de clientes. Esto nos ayudó a entender mejor el recorrido del usuario y optimizar cada interacción dentro de la app.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+- **Canva:** Durante la etapa de diseño gráfico, empleamos Canva para crear elementos visuales adicionales, como imágenes y gráficos, lo que contribuyó a mejorar la presentación estética del producto.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+#### Software Development:
+
+- **IDE (Integrated Development Environment):** Decidimos usar **Android Studio** como nuestro IDE principal, debido a su excelente soporte para el desarrollo de aplicaciones móviles en Flutter. Android Studio nos proporcionó las herramientas necesarias para escribir y depurar código de manera eficiente, lo que mejoró la productividad del equipo y la calidad del producto final.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+- **HTML5, CSS, y JavaScript:** Utilizamos estas tecnologías principalmente para desarrollar la interfaz de la landing page del proyecto. HTML nos permitió estructurar el contenido, mientras que CSS definió el diseño y JavaScript proporcionó la interacción dinámica.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+#### Source Code Management:
+
+- **Git:** Implementamos Git para el control de versiones del código fuente, lo que fue esencial para la colaboración entre los desarrolladores. Esto nos permitió trabajar en diferentes ramas sin generar conflictos y realizar un seguimiento detallado de los cambios en el código.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+#### Software Documentation:
+
+- **GitHub:** Utilizamos GitHub como la plataforma central para la gestión del código y la documentación del proyecto. Cada actualización y progreso fue documentado en archivos README.md, proporcionando una visión clara y accesible del desarrollo.
+
+![Diagrama de contexto](./images/structurizr-94933-Contenedor.png)
+
+### 4.1.2. Source Code Management.
+
+Para asegurar una gestión eficiente y evitar conflictos durante el desarrollo de Gotta Go Fast, centralizamos el control de versiones en una organización de GitHub. Dentro de esta organización, creamos repositorios específicos para cada componente del proyecto. Aquí están los enlaces a los repositorios:
+
+Landing page: https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/
+
+Para gestionar el flujo de trabajo, implementamos GitFlow, lo que nos permitió estructurar el desarrollo de forma clara. Cada cambio en el código fue documentado siguiendo el formato de “Conventional Commits”, lo que facilitó el seguimiento y la identificación de cada modificación realizada. Utilizamos una rama principal (main) para las versiones finales y estables, mientras que cada miembro del equipo trabajaba en ramas específicas, permitiendo una mejor organización y seguimiento del código.
+
+### 4.1.3. Source Code Style Guide & Conventions.
+
+Adoptamos un conjunto de guías de estilo para garantizar que nuestro código fuera coherente y fácil de mantener:
+
+- **Dart y Flutter:** Seguimos las convenciones estándar de código recomendadas para Dart y Flutter, utilizando herramientas como `dart analyze` y `flutter format` para mantener el código limpio y evitar errores de estilo.
+
+- **Nombres de variables y funciones:** Preferimos utilizar nombres descriptivos en inglés y empleamos la notación *camelCase* para las variables y los métodos.
+
+- **Comentarios:** Nos aseguramos de comentar el código en puntos críticos, explicando la lógica detrás de las secciones más complejas para facilitar su mantenimiento futuro.
+
+- **Pruebas:** Implementamos pruebas unitarias utilizando `flutter test` para asegurar que todas las funciones críticas fueran verificadas regularmente.
 
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
