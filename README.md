@@ -1558,15 +1558,11 @@ Hemos realizado un análisis detallado del sistema de negocio y lo hemos represe
 
 ![WhatsApp](./images/Whats.png)
 
-- **GitFlow:** Para optimizar la estructura y el flujo de trabajo en el desarrollo, aplicamos GitFlow. Este enfoque nos brindó una metodología clara para gestionar las diferentes ramas de desarrollo y producción. También facilitó la colaboración entre los desarrolladores, asegurando versiones más controladas y pruebas exhaustivas antes de cada lanzamiento, lo que redujo significativamente los errores en producción.
-
-![GitFlow](./images/gitflow.png)
-
 #### Landing Page:
 
 - Para crear la primera versión de nuestra landing page, utilizamos una combinación de HTML, CSS y JavaScript, que nos permitió desarrollar una página web atractiva y funcional. Estas tecnologías nos ayudaron a crear una interfaz visualmente agradable que cumplió con los requerimientos del proyecto.
 
-![Landing Page](./images/landing.png)
+![Landing Page](./images/landing.jpg)
 
 #### Requirements Management:
 
@@ -1600,7 +1596,7 @@ Hemos realizado un análisis detallado del sistema de negocio y lo hemos represe
 
 - **HTML5, CSS, y JavaScript:** Utilizamos estas tecnologías principalmente para desarrollar la interfaz de la landing page del proyecto. HTML nos permitió estructurar el contenido, mientras que CSS definió el diseño y JavaScript proporcionó la interacción dinámica.
 
-![Codigo](./images/html.png)
+![Codigo](./images/css.png)
 
 #### Source Code Management:
 
