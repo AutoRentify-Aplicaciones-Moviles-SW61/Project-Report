@@ -7,7 +7,7 @@
     <br>
     <strong>Profesor: Mayta Guillermo, Jorge Luis
 </strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TP </strong> 
 </p>
 <p align="center">
     <strong>Startup: AutoRentify </strong><br>
