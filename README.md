@@ -1631,6 +1631,20 @@ Adoptamos un conjunto de guías de estilo para garantizar que nuestro código fu
 
 - **Pruebas:** Implementamos pruebas unitarias utilizando `flutter test` para asegurar que todas las funciones críticas fueran verificadas regularmente.
 
+### 4.1.4 Software Deployment Configuration
+
+Para el despliegue de la aplicación, usaremos Git, un sistema de control de versiones distribuido muy popular en el desarrollo de software. Esta herramienta facilita la colaboración y el seguimiento de las modificaciones realizadas por los integrantes del equipo. Su capacidad para registrar los cambios en los archivos a lo largo del tiempo es una de sus principales ventajas. Git permite crear ramas, trabajar en ellas y fusionarlas de manera eficiente, lo que posibilita que varios desarrolladores trabajen en diferentes partes del proyecto sin generar conflictos.
+
+Además, utilizaremos GitHub, una plataforma que aloja repositorios de Git y es ampliamente utilizada por desarrolladores en todo el mundo. GitHub permite gestionar repositorios públicos o privados en la nube, y además de almacenar el código, conserva el historial de los cambios, lo que facilita acceder a versiones anteriores cuando sea necesario. También ofrece herramientas como los pull requests, que permiten solicitar revisiones y fusionar ramas.
+
+Con esta combinación, cada integrante del equipo podrá trabajar remotamente desde su entorno de desarrollo integrado (IDE), manteniendo una copia del repositorio a través de GitHub. Así, podrán realizar commits para enviar sus cambios al repositorio central.
+
+## 4.2 Software Development & Implementation
+
+### 4.2.1 Sprint 1
+
+#### 4.2.1.1 Sprint 1
+
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
 
