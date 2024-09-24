@@ -1642,8 +1642,27 @@ Con esta combinación, cada integrante del equipo podrá trabajar remotamente de
 ## 4.2 Software Development & Implementation
 
 ### 4.2.1 Sprint 1
+#### 4.2.1.1 Sprint Planning 1
+El primer sprint fue planeado en la plataforma de Discord mediante una llamada en chat de voz. A continuación, se hizo la siguiente tabla para registrar la información que se discutió.
 
-#### 4.2.1.1 Sprint 1
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-09-23|
+|Time|09:00 PM|
+|Location|Virtual|
+|Prepared by|Matos Fernandez, Christian Andre|
+|Attendees (to planning meeting)|<p>Rivadeneyra Ramos, Joaquin David</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Espinoza Saenz,Christian Renato</p><p>Elsner De la Torre Ugarte, Julio Esteban</p><p>Serrano Ircañaupa, Nelson Elias</p><p></p>|
+|Sprint n - 1 Review Summary|No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Realizar la aplicación móvil|
+|Sprint 1 Velocity|20|
+|Sum of Story Points|20|
+
+#### 4.2.1.1 Sprint Backlog 1
+
+
 
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
