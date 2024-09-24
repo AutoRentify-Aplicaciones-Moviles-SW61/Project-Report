@@ -51,6 +51,7 @@
 |:-------:|:----------:|:-----:|:-----------------------| 
 |TB1| 24/08/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II|
 |TB2| 15/09/2024 |Todos los integrantes del equipo| Capítulo III|
+|TP| 26/09/2024 |Todos los integrantes del equipo| Capítulo IV|
 
 ## Contenido
 ### Tabla de Contenidos
