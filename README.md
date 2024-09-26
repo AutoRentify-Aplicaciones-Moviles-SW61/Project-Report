@@ -1660,8 +1660,88 @@ El primer sprint fue planeado en la plataforma de Discord mediante una llamada e
 |Sprint 1 Velocity|20|
 |Sum of Story Points|20|
 
-#### 4.2.1.1 Sprint Backlog 1
+#### 4.2.1.2 Sprint Backlog 1
 
+#### 4.2.1.3
+#### 4.2.1.4
+#### 4.2.1.5 Execution Evidence for Sprint Review
+
+![AndroidStudio](./images/test.jpg)
+
+#### 4.2.1.6 Services Documentation Evidence For Sprint Review
+
+### 4.2.1.6 **Evidencia de Documentación de Servicios para Revisión del Sprint**
+
+#### **Servicio 1: Servicio de Gestión de Usuarios**
+
+El **Servicio de Gestión de Usuarios** es responsable de manejar todas las operaciones relacionadas con los usuarios, tales como la creación de cuentas, actualización de perfiles y gestión de roles y permisos de los usuarios.
+
+- **Características Clave:**
+  - Registro y autenticación de usuarios.
+  - Actualización de perfil (por ejemplo, correo electrónico, número de teléfono, licencia de conducir).
+  - Gestión de roles de usuario (por ejemplo, administrador, cliente).
+
+- **Endpoints:**
+  - `POST /api/users/register`: Registra un nuevo usuario en el sistema.
+  - `POST /api/users/login`: Autentica a un usuario y proporciona un token de acceso.
+  - `PUT /api/users/:id`: Actualiza la información del perfil del usuario.
+  - `GET /api/users/:id`: Recupera los detalles de un usuario.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Node.js con Express.js.
+  - **Base de Datos:** MongoDB para almacenamiento de usuarios.
+  - **Autenticación:** JWT (JSON Web Token).
+
+---
+
+#### **Servicio 2: Servicio de Gestión de Vehículos**
+
+El **Servicio de Gestión de Vehículos** se encarga de gestionar toda la información relacionada con los vehículos, incluyendo disponibilidad, precios y detalles de reserva.
+
+- **Características Clave:**
+  - Gestión de detalles del vehículo (modelo, marca, capacidad).
+  - Verificación de disponibilidad de vehículos para alquiler.
+  - Aplicación de tarifas y descuentos.
+
+- **Endpoints:**
+  - `GET /api/vehicles`: Recupera una lista de todos los vehículos disponibles.
+  - `POST /api/vehicles`: Agrega un nuevo vehículo al sistema.
+  - `PUT /api/vehicles/:id`: Actualiza los detalles de un vehículo existente.
+  - `DELETE /api/vehicles/:id`: Elimina un vehículo del sistema.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Spring Boot.
+  - **Base de Datos:** PostgreSQL para datos de vehículos.
+  - **Integración con API externa:** Integración con el servicio de precios para actualizar tarifas dinámicas.
+
+---
+
+#### **Servicio 3: Servicio de Gestión de Alquileres**
+
+El **Servicio de Gestión de Alquileres** maneja todo el proceso de alquiler de vehículos, incluyendo la creación, seguimiento y cancelación de reservas.
+
+- **Características Clave:**
+  - Creación de nuevas reservas de alquiler.
+  - Gestión del estado de los alquileres (confirmado, en curso, completado, cancelado).
+  - Cálculo de costos totales basados en la duración del alquiler y las tarifas aplicables.
+
+- **Endpoints:**
+  - `POST /api/rentals`: Crea una nueva reserva de alquiler.
+  - `GET /api/rentals/:id`: Recupera los detalles de una reserva específica.
+  - `PUT /api/rentals/:id`: Actualiza el estado de un alquiler.
+  - `DELETE /api/rentals/:id`: Cancela una reserva de alquiler.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Django REST Framework.
+  - **Base de Datos:** MySQL para almacenar información de alquileres.
+  - **Integración con API de vehículos:** Consulta de disponibilidad de vehículos y tarifas aplicables.
+
+
+#### 4.2.1.7
+#### 4.2.1.8
 
 
 ## **Conclusiones**
