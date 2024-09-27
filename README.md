@@ -1670,9 +1670,7 @@ El primer sprint fue planeado en la plataforma de Discord mediante una llamada e
 
 #### 4.2.1.6 Services Documentation Evidence For Sprint Review
 
-### 4.2.1.6 **Evidencia de Documentación de Servicios para Revisión del Sprint**
-
-#### **Servicio 1: Servicio de Gestión de Usuarios**
+**Servicio 1: Servicio de Gestión de Usuarios**
 
 El **Servicio de Gestión de Usuarios** es responsable de manejar todas las operaciones relacionadas con los usuarios, tales como la creación de cuentas, actualización de perfiles y gestión de roles y permisos de los usuarios.
 
@@ -1695,7 +1693,7 @@ El **Servicio de Gestión de Usuarios** es responsable de manejar todas las oper
 
 ---
 
-#### **Servicio 2: Servicio de Gestión de Vehículos**
+**Servicio 2: Servicio de Gestión de Vehículos**
 
 El **Servicio de Gestión de Vehículos** se encarga de gestionar toda la información relacionada con los vehículos, incluyendo disponibilidad, precios y detalles de reserva.
 
@@ -1718,7 +1716,7 @@ El **Servicio de Gestión de Vehículos** se encarga de gestionar toda la inform
 
 ---
 
-#### **Servicio 3: Servicio de Gestión de Alquileres**
+**Servicio 3: Servicio de Gestión de Alquileres**
 
 El **Servicio de Gestión de Alquileres** maneja todo el proceso de alquiler de vehículos, incluyendo la creación, seguimiento y cancelación de reservas.
 
