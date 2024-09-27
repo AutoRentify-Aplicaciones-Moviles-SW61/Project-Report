@@ -1740,8 +1740,45 @@ El **Servicio de Gestión de Alquileres** maneja todo el proceso de alquiler de 
   - **Integración con API de vehículos:** Consulta de disponibilidad de vehículos y tarifas aplicables.
 
 
-#### 4.2.1.7
-#### 4.2.1.8
+#### 4.2.1.7 Software Deployment Evidence for Sprint Review
+
+#### Herramientas y Tecnologías Utilizadas
+
+Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se emplearon las siguientes herramientas y tecnologías:
+
+1. **Git & GitHub**:
+  - **Control de Versiones**: Git fue utilizado como sistema de control de versiones para gestionar el historial del código. Los cambios fueron registrados constantemente, permitiendo un respaldo continuo y la capacidad de volver a versiones anteriores si fuese necesario.
+  - **Hosting del Repositorio**: El repositorio del proyecto fue alojado en GitHub, facilitando la colaboración y el manejo del código en un entorno distribuido.
+  - **Estrategia de Ramas**: Se utilizó una estrategia de ramas para organizar el código, con ramas dedicadas para nuevas funcionalidades, correcciones de errores y lanzamientos, asegurando una integración y despliegue eficientes.
+
+2. **IntelliJ IDEA**:
+  - **Entorno de Desarrollo**: IntelliJ IDEA fue el IDE utilizado para escribir el código del backend. Su integración robusta con Spring Boot lo convirtió en la elección ideal para un desarrollo eficiente y sin errores.
+  - **Depuración y Refactorización**: IntelliJ proporcionó herramientas avanzadas de depuración y refactorización, lo que ayudó a optimizar el código y mantenerlo organizado.
+
+3. **Spring Boot (v3.3.4)**:
+  - **Framework**: Spring Boot fue seleccionado para el desarrollo del backend debido a su rápida configuración y su integración perfecta con Java. Proporcionó todos los componentes necesarios para construir una API RESTful, incluyendo un servidor integrado, inyección de dependencias y una gestión sencilla de configuraciones.
+  - **Conectividad con la Base de Datos**: Con Spring Data JPA, la aplicación interactuó con una base de datos MySQL para gestionar los datos relacionados con vehículos, rentas y usuarios.
+  - **Integración con Swagger**: Se utilizó SpringDoc OpenAPI para generar la documentación de la API mediante Swagger, lo que permitió a los desarrolladores visualizar y probar los endpoints de manera eficiente.
+  - **Endpoints del backend en swagger:**
+![img.png](images/imgtest1.png)
+
+4. **MySQL (Free Hosting)**:
+  - **Gestión de Base de Datos**: La base de datos MySQL alojada en un servicio gratuito fue utilizada para almacenar toda la información relacionada con vehículos, usuarios, tarjetas y transacciones de renta.
+  - **Configuración de la Base de Datos**: Las conexiones a la base de datos se gestionaron a través del archivo de configuración `application.properties` de Spring Boot, asegurando la autenticación adecuada y la persistencia y recuperación de datos.
+  - **Base de datos:**
+![img_1.png](images/imgtest.png)
+
+5. **Microsoft Azure**:
+  - **Despliegue del API**: El API fue desplegado en la nube utilizando Microsoft Azure, lo que permitió el acceso remoto a la aplicación y su integración en un entorno de producción.
+![img_2.png](images/imgtest2.png)
+
+  - Aquí se muestra el repositorio desplegado correctamente gracias al servicio de azure
+![img_3.png](images/imgtest4.png)
+  - Enlace del repositorio: https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/api-mobile-backend
+
+
+#### 4.2.1.8 Team Collaboration Insights during Sprint
+
 
 
 ## **Conclusiones**
