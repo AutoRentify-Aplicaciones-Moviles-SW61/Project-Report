@@ -1662,8 +1662,26 @@ El primer sprint fue planeado en la plataforma de Discord mediante una llamada e
 
 #### 4.2.1.2 Sprint Backlog 1
 
-#### 4.2.1.3
-#### 4.2.1.4
+#### 4.2.1.3 Development Evidence for Sprint Review 
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>GottaGoFast-flutter-app</p>|main|<p></p><p>90f9099</p><p></p>|project structure added|Project structure added|23/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>GottaGoFast-flutter-app</p>|main|3bac04e|Chore:created interphase.|Interface created using a specific pattern and colors for enhanced visual consistency and usability.|23/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>GottaGoFast-flutter-app</p>|main|f94d740|Chore:updated navigation tools and personal nav|Updated the personal navigation module, and the person|23/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>GottaGoFast-flutter-app</p>|main|e0da645|Chore:uploaded images assets and car class.|Uploaded necessary image assets to the Project, and the Car class.|23/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>GottaGoFast-flutter-app</p>|main|b3ceac7|Chore:created mk description|Developed the mk description for better documentation.|23/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>GottaGoFast-flutter-app</p>|main|6eb773e|Chore:updated widgets and launcher.|Updated existing widgets with improved styling|23/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>api-mobile-backend</p>|main|1e954f8|Feat: User and Vehicle controllers added|User and vehicle controllers added for both entities|26/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>api-mobile-backend</p>|main|453ea63|Feat: Card and Rent controllers and dependencies added|Card and Rent controllers with dependencies added for managing related operations.|26/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>api-mobile-backend</p>|main|fd643ad|Feat: Database connection configured|Database connection configured|26/09/24|
+|<p>AutoRentify-Aplicaciones-Moviles-SW61</p><p>/</p><p>api-mobile-backend</p>|main|46d81cc|Chore:update controllers|Controllers updated for request mapping.|26/09/24|
+
+
+
+#### 4.2.1.4 Testing Suite Evidence for Sprint Review 
+
+
 #### 4.2.1.5 Execution Evidence for Sprint Review
 
 ![AndroidStudio](./images/test.jpg)
