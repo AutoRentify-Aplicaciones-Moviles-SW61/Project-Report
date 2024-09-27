@@ -1681,6 +1681,11 @@ El primer sprint fue planeado en la plataforma de Discord mediante una llamada e
 
 #### 4.2.1.4 Testing Suite Evidence for Sprint Review 
 
+Evidencia de la ejecución : 
+[https://youtu.be/3khWkvCgKKM](https://youtu.be/3khWkvCgKKM
+)
+
+![Testing Suite Sprint](./images/TestingSuitesprint.png)
 
 #### 4.2.1.5 Execution Evidence for Sprint Review
 
