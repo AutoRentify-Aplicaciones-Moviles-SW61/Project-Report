@@ -1846,6 +1846,9 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
 
+Para la repartición equitativa del trabajo durante este sprint se colaboró en github con metodologías gitflow. En una llamada de discord acordamos trabajar ciertas partes para manejar con orden el proyecto y no interrumpir el proceso. A continuación se muestra el desempeño de los integrantes.
+![image](https://github.com/user-attachments/assets/5ee4bf0b-4191-4e24-8fe8-2b043355cdfd)
+
 
 
 ## **Conclusiones**
