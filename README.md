@@ -52,6 +52,7 @@
 |TB1| 24/08/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II|
 |TB2| 15/09/2024 |Todos los integrantes del equipo| Capítulo III|
 |TP| 26/09/2024 |Todos los integrantes del equipo| Capítulo IV|
+|TB3| 24/10/2024 |Todos los integrantes del equipo| Capítulo V|
 
 ## Contenido
 ### Tabla de Contenidos
@@ -1829,7 +1830,66 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 Para la repartición equitativa del trabajo durante este sprint se colaboró en github con metodologías gitflow. En una llamada de discord acordamos trabajar ciertas partes para manejar con orden el proyecto y no interrumpir el proceso. A continuación se muestra el desempeño de los integrantes.
 ![image](https://github.com/user-attachments/assets/5ee4bf0b-4191-4e24-8fe8-2b043355cdfd)
 
+# Capítulo V: Product Implementation & Validation
 
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+### 5.1.2. Source Code Management
+### 5.1.3. Source Code Style Guide & Conventions
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page & Mobile Application Implementation
+### 5.2.1. Sprint 2
+#### 5.2.1.1. Sprint Planning 2
+
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||  
+|Date|2024-10-15|  
+|Time|09:00 PM|  
+|Location|Virtual|  
+|Prepared by|Rivadeneyra Ramos, Joaquin David|  
+|Attendees (to planning meeting)|<p>Rivadeneyra Ramos, Joaquin David</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Espinoza Saenz, Christian Renato</p><p>Elsner De la Torre Ugarte, Julio Esteban</p><p>Serrano Ircañaupa, Nelson Elias</p><p></p>|  
+|Sprint n - 1 Review Summary|Se completó la aplicación móvil inicial|  
+|Sprint n - 1 Retrospective Summary|Se identificaron mejoras en la gestión del tiempo y colaboración en equipo|  
+|**Sprint Goal & User Stories**||  
+|Sprint 2 Goal|Optimizar tanto el fronted como el backend y mejorar la interfaz de usuario|  
+|Sprint 2 Velocity|25|  
+|Sum of Story Points|25|
+
+#### 5.2.1.2. Sprint Backlog 2
+
+| Sprint #   | Sprint 2                                                           |                  |                                                                                |                                                                                |                   |                                             |                                             | 
+|------------|--------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------|---------------------------------------------|---------------------------------------------|
+| User Story |                                                                    | Work-Item / Task |                                                                                | Description                                                                    | Estimation(Hours) | Assigned To                                 | Status (To-Do / In-Process / Review / Done) |
+| US17       | Vehicles                                                           | TS20             | Desarrollar formulario de registro de vehículos.                               | Crear un formulario para que los usuarios puedan registrar nuevos vehículos.   | 3                 | Christian Renato Espinoza Saenz             | Done                                        |
+|            |                                                                    | TS21             | Implementar validación de datos del vehículo.                                  | Verificar que los datos del vehículo sean correctos antes de almacenarlos.     | 2                 | Christian Renato Espinoza Saenz             | Done                                        |
+| US07       | Customers                                                          | TS22             | Desarrollar formulario de registro de clientes.                                | Crear un formulario para que los usuarios se registren como clientes.          | 3                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+|            |                                                                    | TS23             | Implementar validación de datos del cliente.                                   | Verificar los datos del cliente antes de almacenarlos en la base de datos.     | 2                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+| US11       | Location                                                           | TS24             | Desarrollar funcionalidad para seleccionar la ubicación del cliente.           | Permitir a los usuarios seleccionar su ubicación para recoger el vehículo.     | 2                 | Nelson Elías Serrano Ircañaupa              | Done                                        |
+|            |                                                                    | TS25             | Implementar validación de la ubicación seleccionada.                           | Verificar que la ubicación seleccionada sea válida antes de confirmarla.       | 2                 | Nelson Elías Serrano Ircañaupa              | Done                                        |
+| US06       | Subscription                                                       | TS26             | Desarrollar funcionalidad de suscripción para los usuarios.                    | Implementar la opción de que los usuarios puedan suscribirse a un plan.        | 3                 | Alvaro Felipe Pinto Fuentes Rivera          | Done                                        |
+|            | TS27             | Implementar actualización de planes en la base de datos.                | Actualizar los planes de suscripción de los usuarios en la base de datos.      | 2                 | Alvaro Felipe Pinto Fuentes Rivera          | Done                                        |
+| US20       | Reservation                                                        | TS28             | Desarrollar funcionalidad de reservas.                                         | Permitir a los usuarios reservar vehículos en la plataforma.                   | 3                 | Joaquin David Rivadeneyra Ramos             | Done                                        |
+|            |                                                                    | TS29             | Implementar confirmación de reservas por email.                                | Enviar confirmación de la reserva a través de correo electrónico.              | 2                 | Joaquin David Rivadeneyra Ramos             | Done                                        |
+| US14       | Comments                                                           | TS30             | Desarrollar funcionalidad para dejar comentarios sobre vehículos.              | Permitir que los usuarios dejen comentarios sobre su experiencia con el vehículo.| 2                 | Christian Renato Espinoza Saenz             | Done                                        |
+|            |                                                                    | TS31             | Implementar validación de comentarios.                                         | Verificar que los comentarios cumplan con las políticas antes de ser publicados.| 2                 | Christian Renato Espinoza Saenz             | Done                                        |
+| US03       | Notification                                                       | TS32             | Desarrollar funcionalidad de notificaciones en tiempo real.                    | Implementar un sistema para notificar a los usuarios sobre cambios o eventos.  | 3                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+|            |                                                                    | TS33             | Integrar el backend con el sistema de notificaciones.                          | Conectar el sistema de notificaciones con el backend para recibir alertas.     | 2                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
