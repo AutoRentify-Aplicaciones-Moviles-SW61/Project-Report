@@ -1884,10 +1884,152 @@ Para la repartición equitativa del trabajo durante este sprint se colaboró en 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
+### 5.3. Validation Interviews  
+#### 5.3.1. Diseño de Entrevistas
+
+### Información del Entrevistado:
+1. ¿Cuál es tu nombre?
+2. ¿Cuáles son tus apellidos?
+3. ¿Cuál es tu edad?
+4. ¿En qué distrito resides?
+
+### Segmento Objetivo #1: Personas Interesadas en Alquilar Vehículos
+
+1. **¿Cómo describirías tu experiencia general al usar la aplicación Gotta Go Fast?**
+2. **¿Qué opinas de la interfaz de usuario? ¿Es intuitiva y fácil de navegar?**
+3. **¿Las opciones de vehículos y precios están alineadas con tus necesidades?**
+4. **¿Con qué frecuencia utilizas Gotta Go Fast para alquilar vehículos?**
+5. **¿Has encontrado algún problema técnico mientras usabas la aplicación? Si es así, ¿cuáles?**
+6. **¿Qué características adicionales te gustaría ver en Gotta Go Fast?**
+7. **¿La aplicación cumple con tus expectativas en cuanto a seguridad y privacidad de tus datos?**
+8. **¿Qué tan satisfecho estás con la disponibilidad de vehículos en diferentes categorías (económicos, SUV, de lujo, etc.)?**
+9. **¿Gotta Go Fast ha cambiado tu forma de alquilar vehículos de alguna manera? Si es así, ¿cómo?**
+10. **¿Qué opinas del sistema de suscripción premium? ¿Vale la pena el costo?**
+11. **¿Qué mejorarías en la funcionalidad de búsqueda y filtrado de vehículos dentro de la aplicación?**
+12. **¿Te gustaría tener más opciones de personalización en la aplicación? Si es así, ¿cuáles?**
+13. **¿Recomendarías Gotta Go Fast a otros usuarios? ¿Por qué sí o por qué no?**
+14. **¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto?**
+15. **¿Tienes alguna sugerencia adicional para mejorar Gotta Go Fast?**
+
+### Segmento Objetivo #2: Empresarios que Ponen en Alquiler sus Vehículos
+
+1. **¿Cómo describirías tu experiencia general al usar la aplicación Gotta Go Fast para gestionar tus vehículos?**
+2. **¿Qué opinas de la interfaz de usuario? ¿Es intuitiva y fácil de usar para los proveedores de vehículos?**
+3. **¿Cómo calificarías el proceso de listar y gestionar tus vehículos en Gotta Go Fast? ¿Fue sencillo y claro?**
+4. **¿La aplicación te proporciona suficiente control sobre la presentación y disponibilidad de tus vehículos?**
+5. **¿Has encontrado algún problema técnico mientras usabas la aplicación? Si es así, ¿cuáles?**
+6. **¿Qué características adicionales te gustaría ver en Gotta Go Fast como proveedor?**
+7. **¿La aplicación cumple con tus expectativas en cuanto a seguridad y privacidad de tus datos y flota de vehículos?**
+8. **¿Cómo calificarías la visibilidad y promoción de tus vehículos en la plataforma?**
+9. **¿Te sientes apoyado por el equipo de Gotta Go Fast en la promoción y gestión de tus vehículos?**
+10. **¿Qué opinas del sistema de suscripción premium para los usuarios? ¿Ha impactado positivamente en las reservas de tus vehículos?**
+11. **¿Qué mejorarías en la funcionalidad de seguimiento y análisis de las reservas de tus vehículos?**
+12. **¿Te gustaría tener más opciones de personalización en la presentación de tus vehículos? Si es así, ¿cuáles?**
+13. **¿Recomendarías Gotta Go Fast a otros proveedores de vehículos? ¿Por qué sí o por qué no?**
+14. **¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto?**
+15. **¿Tienes alguna sugerencia adicional para mejorar Gotta Go Fast desde la perspectiva de un proveedor?**
+
 ### 5.3.2. Registro de Entrevistas
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+#### UX Heuristics & Principles Evaluation
+
+##### Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Aplicaciones para Dispositivos Móviles  
+**SECCIÓN:** SW61  
+**PROFESORES:** Todos  
+**AUDITOR:** AutoRentify   
+**CLIENTE(S):** Todos  
+**SITE o APP A EVALUAR:** Gotta Go Fast
+
+#### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Búsqueda de un vehículo disponible
+3. Alquiler de un vehículo
+4. Cancelación de una reserva
+5. Modificación de datos personales
+6. Compartir la aplicación con otros usuarios
+7. Revisión del historial de alquileres
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Gestionar la lista de vehículos favoritos
+2. Administrar notificaciones de promociones
+3. Personalización avanzada de preferencias de búsqueda
+4. Guardar "alertas de disponibilidad"
+5. Configuración de métodos de pago adicionales
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------------------|
+| 1 | No hay opción de filtro en la búsqueda avanzada de vehículos | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | Algunos botones no son claramente visibles en la interfaz | 2 | Usability: Visibilidad del estado del sistema |
+| 3 | No hay un tutorial inicial para usuarios nuevos | 2 | Usability: Ayuda y documentación |
+| 4 | No hay confirmación visual después de cancelar una reserva | 3 | Usability: Prevención de errores |
+| 5 | Información de la suscripción premium no está claramente destacada | 1 | Information Architecture: Is it findable? |
+
+#### DESCRIPCIÓN DE PROBLEMAS:
+
+##### PROBLEMA #1: No hay opción de filtro en la búsqueda avanzada de vehículos 
+- **Severidad:** 3
+- **Heurística violada:** Usability - Flexibilidad y eficiencia de uso
+- **Problema:**  
+  La búsqueda avanzada no permite filtrar por tipo de vehículo (económico, SUV, de lujo), lo que dificulta encontrar la opción más adecuada según las preferencias del usuario.
+
+- **Recomendación:**  
+  Añadir filtros en la búsqueda avanzada para tipo de vehículo, rango de precios y ubicación para facilitar la selección de los vehículos.
+
+##### PROBLEMA #2: Algunos botones no son claramente visibles en la interfaz
+- **Severidad:** 2
+- **Heurística violada:** Usability - Visibilidad del estado del sistema
+- **Problema:**  
+  Algunos botones no tienen suficiente contraste o son demasiado pequeños, lo que puede hacer que los usuarios no los identifiquen correctamente.
+
+- **Recomendación:**  
+  Aumentar el contraste y tamaño de los botones clave para mejorar su visibilidad y usabilidad.
+
+##### PROBLEMA #3: No hay un tutorial inicial para usuarios nuevos
+- **Severidad:** 2
+- **Heurística violada:** Usability - Ayuda y documentación
+- **Problema:**  
+  Los nuevos usuarios no reciben una guía inicial que explique las principales funciones de la aplicación, lo que puede generar confusión al utilizarla por primera vez.
+
+- **Recomendación:**  
+  Implementar un tutorial interactivo que guíe a los usuarios a través de los pasos básicos de registro, búsqueda y reserva de vehículos.
+
+##### PROBLEMA #4: No hay confirmación visual después de cancelar una reserva
+- **Severidad:** 3
+- **Heurística violada:** Usability - Prevención de errores
+- **Problema:**  
+  Al cancelar una reserva, no se muestra una confirmación visual clara de que la acción se ha realizado correctamente, lo que puede generar incertidumbre en el usuario.
+
+- **Recomendación:**  
+  Añadir una notificación o mensaje de confirmación que indique claramente que la reserva ha sido cancelada.
+
+##### PROBLEMA #5: Información de la suscripción premium no está claramente destacada
+- **Severidad:** 1
+- **Heurística violada:** Information Architecture - Is it findable?
+- **Problema:**  
+  Los beneficios de la suscripción premium no están bien explicados, lo que puede pasar desapercibido para los usuarios que están considerando optar por este servicio.
+
+- **Recomendación:**  
+  Resaltar la información sobre la suscripción premium en la página principal de la aplicación, mostrando sus beneficios de forma clara y atractiva.
 
 ## 5.4. Video About-the-Product
 
