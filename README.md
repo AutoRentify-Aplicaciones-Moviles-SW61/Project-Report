@@ -2130,6 +2130,34 @@ Resumen:
 Miguel López, un turista mexicano que llegó a Lima, Perú, disfrutó mucho utilizando la aplicación Gotta Go Fast. Le pareció fácil de usar, valorando la comodidad y la seguridad que ofrece al reservar y pagar con antelación. Aunque no es un usuario premium, está considerando pagar por la app debido a que el precio le parece justo. También recomendaría la aplicación a otros, ya que le gusta bastante, aunque sugiere agregar una función para guardar búsquedas favoritas.
 </p>
 
+**Segmento Objetivo 2:**
+
+#### Entrevistado #1
+![entrevista-lector4](images/CanoEntrevista.png)
+
+Nombre: Diego Cano
+
+●	Sexo: Masculino
+
+●	Edad: 27 años
+
+●	Distrito en el que vive: Chorrillos
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://youtu.be/D-QDt9mLz4E)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 5:03
+
+Resumen:
+<p align="justify">
+Diego Cano Ortiz, un empresario de 27 años que reside en Chorrillos, compartió su experiencia positiva al usar la aplicación Gotta Go Fast para gestionar su flota de vehículos. Destacó la facilidad de uso de la aplicación y cómo le permite concentrarse más en el crecimiento de su negocio en lugar de en la logística diaria.
+</p>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
