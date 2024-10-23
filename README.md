@@ -1881,7 +1881,116 @@ Para la repartición equitativa del trabajo durante este sprint se colaboró en 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+**Servicio 1: Servicio de Gestión de Usuarios**
+
+El **Servicio de Gestión de Usuarios** es responsable de manejar todas las operaciones relacionadas con los usuarios, tales como la creación de cuentas, actualización de perfiles y gestión de roles y permisos de los usuarios.
+
+- **Características Clave:**
+  - Registro y autenticación de usuarios.
+  - Actualización de perfil (por ejemplo, correo electrónico, número de teléfono, licencia de conducir).
+  - Gestión de roles de usuario (por ejemplo, administrador, cliente).
+
+- **Endpoints:**
+  - `POST /api/users/register`: Registra un nuevo usuario en el sistema.
+  - `POST /api/users/login`: Autentica a un usuario y proporciona un token de acceso.
+  - `PUT /api/users/:id`: Actualiza la información del perfil del usuario.
+  - `GET /api/users/:id`: Recupera los detalles de un usuario.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Node.js con Express.js.
+  - **Base de Datos:** MongoDB para almacenamiento de usuarios.
+  - **Autenticación:** JWT (JSON Web Token).
+
+---
+
+**Servicio 2: Servicio de Gestión de Vehículos**
+
+El **Servicio de Gestión de Vehículos** se encarga de gestionar toda la información relacionada con los vehículos, incluyendo disponibilidad, precios y detalles de reserva.
+
+- **Características Clave:**
+  - Gestión de detalles del vehículo (modelo, marca, capacidad).
+  - Verificación de disponibilidad de vehículos para alquiler.
+  - Aplicación de tarifas y descuentos.
+
+- **Endpoints:**
+  - `GET /api/vehicles`: Recupera una lista de todos los vehículos disponibles.
+  - `POST /api/vehicles`: Agrega un nuevo vehículo al sistema.
+  - `PUT /api/vehicles/:id`: Actualiza los detalles de un vehículo existente.
+  - `DELETE /api/vehicles/:id`: Elimina un vehículo del sistema.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Spring Boot.
+  - **Base de Datos:** PostgreSQL para datos de vehículos.
+  - **Integración con API externa:** Integración con el servicio de precios para actualizar tarifas dinámicas.
+
+---
+
+**Servicio 3: Servicio de Gestión de Alquileres**
+
+El **Servicio de Gestión de Alquileres** maneja todo el proceso de alquiler de vehículos, incluyendo la creación, seguimiento y cancelación de reservas.
+
+- **Características Clave:**
+  - Creación de nuevas reservas de alquiler.
+  - Gestión del estado de los alquileres (confirmado, en curso, completado, cancelado).
+  - Cálculo de costos totales basados en la duración del alquiler y las tarifas aplicables.
+
+- **Endpoints:**
+  - `POST /api/rentals`: Crea una nueva reserva de alquiler.
+  - `GET /api/rentals/:id`: Recupera los detalles de una reserva específica.
+  - `PUT /api/rentals/:id`: Actualiza el estado de un alquiler.
+  - `DELETE /api/rentals/:id`: Cancela una reserva de alquiler.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Django REST Framework.
+  - **Base de Datos:** MySQL para almacenar información de alquileres.
+  - **Integración con API de vehículos:** Consulta de disponibilidad de vehículos y tarifas aplicables.
+
+---
+
+**Servicio 4: Servicio de perfil y suscripciones**
+
+El **Servicio de Gestión perfil y suscripciones** maneja todo el proceso de creación de perfil, tanto como biografia, foto, reservas, etc. Estos son almacenados en la tabla de Profile el cual sera utilizado posteriormente para las demás funcionalidades.
+
+- **Características Clave:**
+  - Creación de perfil de usuario.
+  - Gestión de reserva de carros asociado al usuario.
+  - Cálculo de costos totales basados en la duración del alquiler y las tarifas aplicables.
+
+- **Endpoints:**
+  - `POST /api/profile`: Crea una nueva reserva de alquiler.
+  - `GET /api/profile/:id`: Recupera los detalles de una reserva específica.
+  - `PUT /api/profile/:id`: Actualiza el estado de un alquiler.
+  - `DELETE /api/profile/:id`: Elimina la cuenta de usuario.
+
+- **Tecnologías:**
+  - **Framework:** Flutter para la aplicación móvil.
+  - **Backend:** Django REST Framework.
+  - **Base de Datos:** MySQL para almacenar información de alquileres.
+  - **Integración con API de vehículos:** Consulta de disponibilidad de vehículos y tarifas aplicables.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+**Sección Home**
+![img_1.png](images/home.png)
+
+**Sección Search**
+![img_2.png](images/search.png)
+
+**Sección About Me**
+![img_3.png](images/AboutMe.png)
+
+**Sección Edit Profile**
+![img_4.png](images/EditProfile.png)
+
+**Sección Reserves**
+![img_5.png](images/Reserves.png)
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews  
