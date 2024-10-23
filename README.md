@@ -1834,7 +1834,37 @@ Para la repartición equitativa del trabajo durante este sprint se colaboró en 
 
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+Project Management: 
+Utilizamos WhatsApp como nuestra principal herramienta de comunicación para compartir ideas y opiniones sobre el desarrollo de la app. Para reuniones asincrónicas, usamos Discord. La documentación del proyecto se organiza en Google Drive, lo que nos permite colaborar de forma eficiente y hacer un seguimiento claro de las contribuciones individuales. GitHub es nuestra plataforma para gestionar los repositorios, permitiendo que todo el equipo colabore en el desarrollo y mantenimiento del código de la aplicación.
+
+Requirements Management: 
+Empleamos Pivotal Tracker para gestionar los requisitos de la app, los cuales organizamos en forma de historias de usuario dentro del Product Backlog. Todo el equipo colaboró en la definición de estas historias y en las discusiones sobre las funcionalidades necesarias para la aplicación móvil desarrollada en Dart y Flutter.
+
+Product UX/UI Design: 
+Para el diseño de la experiencia de usuario, usamos UXPressia para crear herramientas como User Personas y Empathy Mapping, lo que nos permitió entender mejor a nuestros usuarios. Los prototipos y diseños de la interfaz de la aplicación fueron creados en Figma, donde desarrollamos wireframes y mock-ups que sirvieron como guía para el desarrollo en Flutter.
+
+Software Development: 
+Nuestro entorno de desarrollo principal es Android Studio, integrado con el SDK de Flutter y Dart, lo cual facilita el desarrollo multiplataforma. Android Studio nos permite gestionar de manera efectiva los repositorios en GitHub. Trabajamos principalmente con Dart para el desarrollo de la app, aprovechando la estructura de Flutter para crear interfaces de usuario atractivas y funcionales.
+
+Software Testing: 
+Para las pruebas de la app, utilizamos el framework de pruebas de Flutter, que nos permite simular escenarios basados en el formato Given-When-Then, similar al enfoque de Gherkin. Este formato facilita la comprensión de las pruebas tanto para desarrolladores como para otros miembros del equipo, asegurando que la app cumpla con los requisitos funcionales y de usabilidad.
 ### 5.1.2. Source Code Management
+|          Integrante          |      Usuario de Github      |
+|:-----------------------------:|:-------------------:|
+|   Joaquin David Rivadeneyra Ramos   |    joqui4    |
+|  Alvaro Felipe Pinto Fuentes Rivera  |    AlvaroPFR    |
+|   Christian Renato Espinoza Saenz  |    ChristoTF2    |
+|  Julio Esteban Elsner De La Torre Ugarte   |    JulioElsnerDLTU   |
+|   Nelson Elías Serrano Ircañaupa	   |    NelsonUPC   |
+
+*URL de repositorio Landing Page*: [https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/Landing-Page](https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/Landing-Page)
+
+*URL de repositorio Web Services*: [https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/GottaGoFast-API-mobile](https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/GottaGoFast-API-mobile)
+
+*URL de repositorio de Frontend Web Applications*: [https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/GottaGoFast-flutter-app](https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/GottaGoFast-flutter-app)
+
+Para el desarrollo de la aplicación móvil, utilizaremos el modelo de trabajo GitFlow. Este método se basa en el control de versiones de Git y se organiza en varias ramas con funciones específicas: Main, Feature y Develop. La rama Main se reserva para las versiones finales de cada sprint y los despliegues de la aplicación móvil. Por lo tanto, las versiones en esta rama deben ser completamente funcionales y estables. Las ramas Feature se dedican al desarrollo de características específicas, como la implementación del registro de usuarios, y se gestionan de forma aislada para que los problemas que surjan no afecten al resto del proyecto. Finalmente, la rama Develop es donde se integran todas las características desarrolladas, garantizando que todo funcione correctamente antes de ser lanzado a la rama Main para su despliegue oficial.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
