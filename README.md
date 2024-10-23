@@ -2142,6 +2142,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ## 5.4. Video About-the-Product
 
+●	Link: [Click para ver el about the product](https://drive.google.com/file/d/1Ib_r82ifKCdEEZDk1TOVhXAPzRH4JMQE/view?usp=sharing)
+
+
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
 
