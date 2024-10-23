@@ -2102,6 +2102,34 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 
 ### 5.3.2. Registro de Entrevistas
 
+**Segmento Objetivo 1:**
+
+#### Entrevistado #1
+![entrevista-lector4](images/MiguelLopez_Entrevista1.png)
+
+Nombre: Miguel Lopez
+
+●	Sexo: Masculino
+
+●	Edad: 21 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://youtu.be/orFFbMJbJXw)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 3:22
+
+Resumen:
+<p align="justify">
+Miguel López, un turista mexicano que llegó a Lima, Perú, disfrutó mucho utilizando la aplicación Gotta Go Fast. Le pareció fácil de usar, valorando la comodidad y la seguridad que ofrece al reservar y pagar con antelación. Aunque no es un usuario premium, está considerando pagar por la app debido a que el precio le parece justo. También recomendaría la aplicación a otros, ya que le gusta bastante, aunque sugiere agregar una función para guardar búsquedas favoritas.
+</p>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
