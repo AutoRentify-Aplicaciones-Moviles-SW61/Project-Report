@@ -2110,7 +2110,8 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 **Segmento Objetivo 1:**
 
 #### Entrevistado #1
-![entrevista-lector4](vz.jpg)
+
+![Entrevista1](./images/vz.jpg)
 
 Nombre: Andres Valle
 
