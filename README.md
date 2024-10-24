@@ -2099,20 +2099,21 @@ El **Servicio de Gestión perfil y suscripciones** maneja todo el proceso de cre
 Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se emplearon las siguientes herramientas y tecnologías:
 
 1. **Git & GitHub**:
-  - **Control de Versiones**: Git fue utilizado como sistema de control de versiones para gestionar el historial del código. Los cambios fueron registrados constantemente, permitiendo un respaldo continuo y la capacidad de volver a versiones anteriores si fuese necesario.
-  - **Hosting del Repositorio**: El repositorio del proyecto fue alojado en GitHub, facilitando la colaboración y el manejo del código en un entorno distribuido.
-  - **Estrategia de Ramas**: Se utilizó una estrategia de ramas para organizar el código, con ramas dedicadas para nuevas funcionalidades, correcciones de errores y lanzamientos, asegurando una integración y despliegue eficientes.
+- **Control de Versiones**: Git fue utilizado como sistema de control de versiones para gestionar el historial del código. Los cambios fueron registrados constantemente, permitiendo un respaldo continuo y la capacidad de volver a versiones anteriores si fuese necesario.
+- **Hosting del Repositorio**: El repositorio del proyecto fue alojado en GitHub, facilitando la colaboración y el manejo del código en un entorno distribuido.
+- **Estrategia de Ramas**: Se utilizó una estrategia de ramas para organizar el código, con ramas dedicadas para nuevas funcionalidades, correcciones de errores y lanzamientos, asegurando una integración y despliegue eficientes.
 
 2. **IntelliJ IDEA**:
-  - **Entorno de Desarrollo**: IntelliJ IDEA fue el IDE utilizado para escribir el código del backend. Su integración robusta con Spring Boot lo convirtió en la elección ideal para un desarrollo eficiente y sin errores.
-  - **Depuración y Refactorización**: IntelliJ proporcionó herramientas avanzadas de depuración y refactorización, lo que ayudó a optimizar el código y mantenerlo organizado.
+- **Entorno de Desarrollo**: Rider fue el IDE utilizado para escribir el código del backend. Su integración robusta con aplicaciones ASP.NET lo convirtió en la elección ideal para un desarrollo eficiente y sin errores.
+- **Depuración y Refactorización**: Rider proporcionó herramientas avanzadas de depuración y refactorización, lo que ayudó a optimizar el código y mantenerlo organizado.
 
 3. **Spring Boot (v3.3.4)**:
-  - **Framework**: Spring Boot fue seleccionado para el desarrollo del backend debido a su rápida configuración y su integración perfecta con Java. Proporcionó todos los componentes necesarios para construir una API RESTful, incluyendo un servidor integrado, inyección de dependencias y una gestión sencilla de configuraciones.
-  - **Conectividad con la Base de Datos**: Con Spring Data JPA, la aplicación interactuó con una base de datos MySQL para gestionar los datos relacionados con vehículos, rentas y usuarios.
-  - **Integración con Swagger**: Se utilizó SpringDoc OpenAPI para generar la documentación de la API mediante Swagger, lo que permitió a los desarrolladores visualizar y probar los endpoints de manera eficiente.
-  - **Endpoints del backend en swagger:**
-![img.png](images/imgtest1.png)
+- **Framework**: ASP.NET con .NET 7.0 fue seleccionado para el desarrollo del backend debido a su rápida configuración y su integración perfecta con C#. Proporcionó todos los componentes necesarios para construir una API RESTful, incluyendo un servidor integrado, inyección de dependencias y una gestión sencilla de configuraciones.
+- **Conectividad con la Base de Datos**: La aplicación interactuó con una base de datos MySQL para gestionar los datos relacionados con vehículos, rentas y usuarios, utilizando Entity Framework Core.
+- **Integración con Swagger**: Se utilizó Swashbuckle para generar la documentación de la API mediante Swagger, lo que permitió a los desarrolladores visualizar y probar los endpoints de manera eficiente.
+- **Endpoints del backend en swagger:**
+![image](https://github.com/user-attachments/assets/40e389a3-657a-4219-8bec-d3fd6d198243)
+
 
 4. **MySQL (Free Hosting)**:
   - **Gestión de Base de Datos**: La base de datos MySQL alojada en un servicio gratuito fue utilizada para almacenar toda la información relacionada con vehículos, usuarios, tarjetas y transacciones de renta.
