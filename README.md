@@ -2190,6 +2190,33 @@ Resumen:
 Diego Cano Ortiz, un empresario de 27 años que reside en Chorrillos, compartió su experiencia positiva al usar la aplicación Gotta Go Fast para gestionar su flota de vehículos. Destacó la facilidad de uso de la aplicación y cómo le permite concentrarse más en el crecimiento de su negocio en lugar de en la logística diaria.
 </p>
 
+#### Entrevistado #2
+![entrevista-lector4](images/CanoEntrevista.png)
+
+Nombre: Leandro Medina
+
+●	Sexo: Masculino
+
+●	Edad: 22 años
+
+●	Distrito en el que vive: Villa María
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://youtu.be/jSjgKEQbLxw)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:57
+
+Resumen:
+<p align="justify">
+Leandro Medina es un empresario joven en la industria y nos comentó sobre algunas funciones implementadas en nuestra aplicación y nos dio sus impresiones y detalles a mejorar en el futuro. En la entrevista comentó que le parece práctico y fácil la búsqueda de autos, pero que así mismo nos comentó de agregar algunas funciones adicionales a futuro para mejorar la experiencia como un apartado para comunicarse con el dueño en caso suceda algún problema con el auto. Pero en conclusión un proyecto bien logrado.
+</p>
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
