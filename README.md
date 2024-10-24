@@ -1912,18 +1912,23 @@ Para el desarrollo de la aplicación móvil, utilizaremos el modelo de trabajo G
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 **Sección Home**
+
 ![img_1.png](images/home.png)
 
 **Sección Search**
+
 ![img_2.png](images/search.png)
 
 **Sección About Me**
+
 ![img_3.png](images/AboutMe.png)
 
 **Sección Edit Profile**
+
 ![img_4.png](images/EditProfile.png)
 
 **Sección Reserves**
+
 ![img_5.png](images/Reserves.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -2105,6 +2110,32 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 **Segmento Objetivo 1:**
 
 #### Entrevistado #1
+![entrevista-lector4](vz.jpg)
+
+Nombre: Andres Valle
+
+●	Sexo: Masculino
+
+●	Edad: 23 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1IWPjQhtB4No_SjGcJdd-lctePPYRQLvR/view?usp=sharing)
+
+●	Momento en el que inicia: 0:01
+
+●	Duración: 05:39
+
+Resumen:
+<p align="justify">
+Andrés Valle es un usuario de 23 años que reside en San Isidro y utiliza la aplicación Gotta Go Fast para alquilar vehículos con una frecuencia mensual. Su experiencia es mayormente positiva, destacando la facilidad de uso de la interfaz y la adecuada oferta de vehículos y precios. Aunque ha experimentado algunos problemas técnicos menores, como la lentitud en la carga de opciones, está satisfecho con la seguridad y privacidad que la app ofrece. Sugiere mejoras en la personalización de los filtros y mayor disponibilidad de vehículos de lujo. Considera que el sistema de suscripción premium es útil para quienes alquilan frecuentemente, aunque él no lo usa. En general, recomendaría la aplicación por su eficiencia y comodidad.
+</p>
+
+#### Entrevistado #2
 ![entrevista-lector4](images/MiguelLopez_Entrevista1.png)
 
 Nombre: Miguel Lopez
