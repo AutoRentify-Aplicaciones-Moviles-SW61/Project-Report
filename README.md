@@ -1928,24 +1928,24 @@ Como parte del proceso de validación y aseguramiento de calidad para la aplicac
 
 El uso de Gherkin facilita la creación de pruebas entendibles tanto para desarrolladores como para stakeholders no técnicos, gracias a su lenguaje natural estructurado en forma de escenarios. Cada escenario detalla cómo debe comportarse la aplicación bajo condiciones específicas, lo que permite detectar fallos de forma anticipada y garantizar una experiencia de usuario fluida.
 
-Funcionalidad: Inicio de sesión de usuario
-
-  Escenario: Inicio de sesión exitoso
+    Funcionalidad: Inicio de sesión de usuario
+    
+    Escenario: Inicio de sesión exitoso
     Dado que el usuario está en la página de inicio de sesión
     Cuando el usuario ingresa credenciales válidas
     Y el usuario hace clic en el botón "Iniciar sesión"
     Entonces el usuario debería ser redirigido a la página principal
     Y el usuario debería ver un mensaje de bienvenida
-
-  Escenario: Fallo en el inicio de sesión por credenciales incorrectas
+    
+    Escenario: Fallo en el inicio de sesión por credenciales incorrectas
     Dado que el usuario está en la página de inicio de sesión
     Cuando el usuario ingresa credenciales inválidas
     Y el usuario hace clic en el botón "Iniciar sesión"
     Entonces el usuario debería ver un mensaje de error indicando credenciales incorrectas
 
-  Funcionalidad: Búsqueda de vehículos
+    Funcionalidad: Búsqueda de vehículos
 
-  Escenario: El usuario busca vehículos disponibles
+    Escenario: El usuario busca vehículos disponibles
     Dado que el usuario está en la página de búsqueda de vehículos
     Cuando el usuario ingresa "SUV" como tipo de vehículo
     Y el usuario selecciona "Lima" como ubicación
@@ -1953,8 +1953,8 @@ Funcionalidad: Inicio de sesión de usuario
     Entonces el sistema debería mostrar una lista de SUVs disponibles en Lima
 
     Funcionalidad: Reserva de vehículos
-
-  Escenario: El usuario reserva un vehículo exitosamente
+    
+    Escenario: El usuario reserva un vehículo exitosamente
     Dado que el usuario está en la página de listado de vehículos
     Cuando el usuario selecciona un vehículo
     Y el usuario hace clic en "Reservar ahora"
@@ -1963,8 +1963,8 @@ Funcionalidad: Inicio de sesión de usuario
     Y la reserva debería aparecer en el historial de reservas del usuario
 
     Funcionalidad: Procesamiento de pagos
-
-  Escenario: El usuario completa el pago para una reserva
+    
+    Escenario: El usuario completa el pago para una reserva
     Dado que el usuario ha confirmado la reserva del vehículo
     Cuando el usuario ingresa los detalles de pago válidos
     Y el usuario hace clic en el botón "Pagar ahora"
@@ -1972,8 +1972,8 @@ Funcionalidad: Inicio de sesión de usuario
     Y el usuario debería ver una página de confirmación de pago
 
     Funcionalidad: Restablecimiento de contraseña
-
-  Escenario: El usuario restablece su contraseña exitosamente
+    
+    Escenario: El usuario restablece su contraseña exitosamente
     Dado que el usuario está en la página de inicio de sesión
     Cuando el usuario hace clic en "¿Olvidaste tu contraseña?"
     Y el usuario ingresa su correo electrónico registrado
