@@ -2191,7 +2191,7 @@ Diego Cano Ortiz, un empresario de 27 años que reside en Chorrillos, compartió
 </p>
 
 #### Entrevistado #2
-![entrevista-lector4](images/CanoEntrevista.png)
+![image](https://github.com/user-attachments/assets/7187e933-e2c5-40a5-a1b3-641202657c81)
 
 Nombre: Leandro Medina
 
