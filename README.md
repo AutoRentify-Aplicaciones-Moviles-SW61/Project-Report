@@ -1908,7 +1908,78 @@ Para el desarrollo de la aplicación móvil, utilizaremos el modelo de trabajo G
 |            |                                                                    | TS33             | Integrar el backend con el sistema de notificaciones.                          | Conectar el sistema de notificaciones con el backend para recibir alertas.     | 2                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository                                         | Branch | Commit Id  | Commit Message                           | Commit Message Body                                              | Commited on (Date) |
+|----------------------------------------------------|--------|------------|------------------------------------------|------------------------------------------------------------------|--------------------|
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | 83b7e56   | feat: added authentication feature       | Implemented the user authentication feature with Firebase.       | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | cfa0129   | fix: improved vehicle search filter      | Enhanced the search filter to include new parameters.            | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | 1d4c678   | chore: updated UI for vehicle listings   | Redesigned the vehicle listing UI for better user experience.     | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | eca93f0   | feat: added booking confirmation page    | Added a new booking confirmation page with real-time updates.     | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | ab7345d   | refactor: optimized car class code       | Refactored the car class to improve performance and readability.  | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | f45d72c   | feat: implemented login functionality    | Created login functionality using Firebase for secure access.    | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | b6d9a12   | fix: resolved login session persistence  | Fixed an issue with session persistence after user login.         | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | d0a4f8b   | feat: added payment gateway integration  | Integrated payment gateway using Stripe for vehicle bookings.     | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | a19b6e3   | feat: added payment confirmation page    | Created a payment confirmation page for user transactions.        | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | c1e4f7a   | chore: updated password reset flow       | Improved the password reset flow for enhanced user experience.    | 23/10/24           |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Como parte del proceso de validación y aseguramiento de calidad para la aplicación "Gotta Go Fast", hemos diseñado y ejecutado pruebas de aceptación utilizando el lenguaje Gherkin. Este enfoque permite definir criterios claros y precisos para validar las funcionalidades clave del sistema, asegurando que cumplan con las expectativas del usuario final y los requisitos de negocio.
+
+El uso de Gherkin facilita la creación de pruebas entendibles tanto para desarrolladores como para stakeholders no técnicos, gracias a su lenguaje natural estructurado en forma de escenarios. Cada escenario detalla cómo debe comportarse la aplicación bajo condiciones específicas, lo que permite detectar fallos de forma anticipada y garantizar una experiencia de usuario fluida.
+
+Funcionalidad: Inicio de sesión de usuario
+
+  Escenario: Inicio de sesión exitoso
+    Dado que el usuario está en la página de inicio de sesión
+    Cuando el usuario ingresa credenciales válidas
+    Y el usuario hace clic en el botón "Iniciar sesión"
+    Entonces el usuario debería ser redirigido a la página principal
+    Y el usuario debería ver un mensaje de bienvenida
+
+  Escenario: Fallo en el inicio de sesión por credenciales incorrectas
+    Dado que el usuario está en la página de inicio de sesión
+    Cuando el usuario ingresa credenciales inválidas
+    Y el usuario hace clic en el botón "Iniciar sesión"
+    Entonces el usuario debería ver un mensaje de error indicando credenciales incorrectas
+
+  Funcionalidad: Búsqueda de vehículos
+
+  Escenario: El usuario busca vehículos disponibles
+    Dado que el usuario está en la página de búsqueda de vehículos
+    Cuando el usuario ingresa "SUV" como tipo de vehículo
+    Y el usuario selecciona "Lima" como ubicación
+    Y el usuario hace clic en el botón "Buscar"
+    Entonces el sistema debería mostrar una lista de SUVs disponibles en Lima
+
+    Funcionalidad: Reserva de vehículos
+
+  Escenario: El usuario reserva un vehículo exitosamente
+    Dado que el usuario está en la página de listado de vehículos
+    Cuando el usuario selecciona un vehículo
+    Y el usuario hace clic en "Reservar ahora"
+    Y el usuario confirma los detalles de la reserva
+    Entonces el sistema debería mostrar un mensaje de confirmación de reserva
+    Y la reserva debería aparecer en el historial de reservas del usuario
+
+    Funcionalidad: Procesamiento de pagos
+
+  Escenario: El usuario completa el pago para una reserva
+    Dado que el usuario ha confirmado la reserva del vehículo
+    Cuando el usuario ingresa los detalles de pago válidos
+    Y el usuario hace clic en el botón "Pagar ahora"
+    Entonces el pago debería ser procesado exitosamente
+    Y el usuario debería ver una página de confirmación de pago
+
+    Funcionalidad: Restablecimiento de contraseña
+
+  Escenario: El usuario restablece su contraseña exitosamente
+    Dado que el usuario está en la página de inicio de sesión
+    Cuando el usuario hace clic en "¿Olvidaste tu contraseña?"
+    Y el usuario ingresa su correo electrónico registrado
+    Entonces el sistema debería enviar un enlace de restablecimiento de contraseña al correo electrónico del usuario
+    Y el usuario debería ser notificado para revisar su bandeja de entrada
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 **Sección Home**
