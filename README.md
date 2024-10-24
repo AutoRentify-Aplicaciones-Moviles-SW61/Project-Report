@@ -1878,7 +1878,10 @@ Dart: Este lenguaje se utiliza en el frontend, optimizado para crear aplicacione
 
 ### 5.1.4. Software Deployment Configuration
 
-Para gestionar el desarrollo y despliegue de la aplicación, emplearemos Git como sistema de control de versiones, lo que permitirá una colaboración eficiente entre los desarrolladores mediante ramas y fusiones sin conflictos. Los repositorios estarán alojados en GitHub, donde se almacenará el código y se podrá acceder al historial de cambios. Además, utilizaremos pull requests para la revisión y aprobación de modificaciones. Cada miembro del equipo trabajará con una copia local sincronizada con GitHub. El backend será desplegado utilizando MySQL en un servicio de Free Hosting.
+Para gestionar el desarrollo y despliegue de la aplicación, emplearemos Git como sistema de control de versiones, lo que permitirá una colaboración eficiente entre los desarrolladores mediante ramas y fusiones sin conflictos. Los repositorios estarán alojados en GitHub, donde se almacenará el código y se podrá acceder al historial de cambios. Además, utilizaremos pull requests para la revisión y aprobación de modificaciones. Cada miembro del equipo trabajará con una copia local sincronizada con GitHub. La landing page se desplegará directamente en GitHub, mientras que la aplicación será desplegada en Netlify, garantizando un flujo de trabajo ágil y eficiente.
+
+![Nelify](images/nelify.png)
+
 
 ## 5.2. Landing Page & Mobile Application Implementation
 ### 5.2.1. Sprint 2
