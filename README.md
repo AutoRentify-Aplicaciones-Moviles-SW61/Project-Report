@@ -1865,6 +1865,17 @@ Para las pruebas de la app, utilizamos el framework de pruebas de Flutter, que n
 Para el desarrollo de la aplicación móvil, utilizaremos el modelo de trabajo GitFlow. Este método se basa en el control de versiones de Git y se organiza en varias ramas con funciones específicas: Main, Feature y Develop. La rama Main se reserva para las versiones finales de cada sprint y los despliegues de la aplicación móvil. Por lo tanto, las versiones en esta rama deben ser completamente funcionales y estables. Las ramas Feature se dedican al desarrollo de características específicas, como la implementación del registro de usuarios, y se gestionan de forma aislada para que los problemas que surjan no afecten al resto del proyecto. Finalmente, la rama Develop es donde se integran todas las características desarrolladas, garantizando que todo funcione correctamente antes de ser lanzado a la rama Main para su despliegue oficial.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Durante el desarrollo del proyecto, se utilizarán varios lenguajes para la creación de la página de aterrizaje, servicios web y la aplicación web frontend. Para garantizar coherencia y uniformidad en el proceso de desarrollo, seguiremos las pautas y convenciones que se describen a continuación.
+
+HTML: Es el lenguaje utilizado para estructurar el contenido de una página web, ofreciendo elementos como texto, imágenes y formularios. Es esencial incluir la declaración del tipo de documento y seguir una estructura básica con etiquetas <html>, <head> y <body>. También es importante usar una indentación consistente, cerrar correctamente los elementos y proporcionar descripciones alternativas para las imágenes a través del atributo "alt".
+
+CSS: Se emplea para definir el estilo visual de una página web, incluyendo el diseño, fuentes y colores. Se recomienda utilizar una adecuada indentación, nombres en minúsculas para los elementos y especificar colores en formato hexadecimal. Además, los comentarios deben describir el propósito de los estilos, y el diseño debe ser responsivo para adaptarse a diferentes dispositivos.
+
+Java: Este lenguaje de programación se utiliza en el backend para manejar la lógica y el procesamiento de datos de la aplicación. Es fundamental usar nombres descriptivos para las clases y métodos, incluir comentarios que expliquen el código y seguir las convenciones de nombrado. La organización del código debe ser modular, utilizando paquetes y clases adecuadas.
+
+Dart: Este lenguaje se utiliza en el frontend, optimizado para crear aplicaciones web modernas y eficientes. Se deben usar comillas dobles para las cadenas de texto y mantener una adecuada indentación para la legibilidad del código. Incluir comentarios que expliquen la funcionalidad del código y definir constantes con la palabra clave const son buenas prácticas en Dart.
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page & Mobile Application Implementation
