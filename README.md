@@ -2307,6 +2307,32 @@ Resumen:
 Leandro Medina es un empresario joven en la industria y nos comentó sobre algunas funciones implementadas en nuestra aplicación y nos dio sus impresiones y detalles a mejorar en el futuro. En la entrevista comentó que le parece práctico y fácil la búsqueda de autos, pero que así mismo nos comentó de agregar algunas funciones adicionales a futuro para mejorar la experiencia como un apartado para comunicarse con el dueño en caso suceda algún problema con el auto. Pero en conclusión un proyecto bien logrado.
 </p>
 
+#### Entrevistado #3
+![image](images/mateochle.png)
+
+Nombre: Mateo Loechsle
+
+●	Sexo: Masculino
+
+●	Edad: 21 años
+
+●	Distrito en el que vive: San Isidro
+
+●	Nivel socioeconómico: Clase A
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1rcmdrMqWh5JMXNibgN4sVDlSmB4TrM5a/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 8:06
+
+Resumen:
+<p align="justify">
+Mateo Loechsle, un usuario de 25 años que reside en Comas, utiliza la aplicación Gotta Go Fast para alquilar vehículos de manera mensual. Su experiencia general es positiva, destacando la simplicidad de la interfaz y la buena variedad de vehículos disponibles a precios razonables. Aunque ha enfrentado algunos inconvenientes técnicos menores, como la lentitud en la carga de las opciones, está conforme con los niveles de seguridad y protección de datos que ofrece la aplicación. Sugiere la incorporación de más opciones de personalización en los filtros de búsqueda y una mayor disponibilidad de vehículos de lujo. Aunque considera que el sistema de suscripción premium es beneficioso para usuarios frecuentes, él aún no lo ha utilizado. En términos generales, recomendaría la aplicación por su eficacia y conveniencia.
+</p>
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
