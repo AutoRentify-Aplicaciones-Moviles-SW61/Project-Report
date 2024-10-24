@@ -2118,11 +2118,11 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 - **Hosting del Repositorio**: El repositorio del proyecto fue alojado en GitHub, facilitando la colaboración y el manejo del código en un entorno distribuido.
 - **Estrategia de Ramas**: Se utilizó una estrategia de ramas para organizar el código, con ramas dedicadas para nuevas funcionalidades, correcciones de errores y lanzamientos, asegurando una integración y despliegue eficientes.
 
-2. **IntelliJ IDEA**:
+2. **Rider**:
 - **Entorno de Desarrollo**: Rider fue el IDE utilizado para escribir el código del backend. Su integración robusta con aplicaciones ASP.NET lo convirtió en la elección ideal para un desarrollo eficiente y sin errores.
 - **Depuración y Refactorización**: Rider proporcionó herramientas avanzadas de depuración y refactorización, lo que ayudó a optimizar el código y mantenerlo organizado.
 
-3. **Spring Boot (v3.3.4)**:
+3. **ASP.NET con .NET 7.0:**:
 - **Framework**: ASP.NET con .NET 7.0 fue seleccionado para el desarrollo del backend debido a su rápida configuración y su integración perfecta con C#. Proporcionó todos los componentes necesarios para construir una API RESTful, incluyendo un servidor integrado, inyección de dependencias y una gestión sencilla de configuraciones.
 - **Conectividad con la Base de Datos**: La aplicación interactuó con una base de datos MySQL para gestionar los datos relacionados con vehículos, rentas y usuarios, utilizando Entity Framework Core.
 - **Integración con Swagger**: Se utilizó Swashbuckle para generar la documentación de la API mediante Swagger, lo que permitió a los desarrolladores visualizar y probar los endpoints de manera eficiente.
