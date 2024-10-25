@@ -1996,26 +1996,30 @@ El uso de Gherkin facilita la creación de pruebas entendibles tanto para desarr
     Y el usuario debería ser notificado para revisar su bandeja de entrada
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+<div align="center">
 
-**Sección Home**
+### Sección Home
 
 ![img_1.png](images/home.png)
 
-**Sección Search**
+### Sección Search
 
 ![img_2.png](images/search.png)
 
-**Sección About Me**
+### Sección About Me
 
 ![img_3.png](images/AboutMe.png)
 
-**Sección Edit Profile**
+### Sección Edit Profile
 
 ![img_4.png](images/EditProfile.png)
 
-**Sección Reserves**
+### Sección Reserves
 
 ![img_5.png](images/Reserves.png)
+
+</div>
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
