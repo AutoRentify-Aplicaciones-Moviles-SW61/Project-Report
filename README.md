@@ -7,7 +7,7 @@
     <br>
     <strong>Profesor: Mayta Guillermo, Jorge Luis
 </strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB3 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TB4 </strong> 
 </p>
 <p align="center">
     <strong>Startup: AutoRentify </strong><br>
@@ -53,6 +53,7 @@
 |TB2| 15/09/2024 |Todos los integrantes del equipo| Capítulo III|
 |TP| 26/09/2024 |Todos los integrantes del equipo| Capítulo IV|
 |TB3| 24/10/2024 |Todos los integrantes del equipo| Capítulo V|
+|TB4| 07/11/2024 |Todos los integrantes del equipo| Capítulo VI|
 
 ## Contenido
 ### Tabla de Contenidos
@@ -2438,10 +2439,123 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Recomendación:**  
   Resaltar la información sobre la suscripción premium en la página principal de la aplicación, mostrando sus beneficios de forma clara y atractiva.
 
+## 5.3. Landing Page & Mobile Application Implementation
+### 5.3.1. Sprint 3
+#### 5.3.1.1. Sprint Planning 
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||  
+|Date|2024-10-15|  
+|Time|09:00 PM|  
+|Location|Virtual|  
+|Prepared by|Rivadeneyra Ramos, Joaquin David|  
+|Attendees (to planning meeting)|<p>Rivadeneyra Ramos, Joaquin David</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Espinoza Saenz, Christian Renato</p><p>Elsner De la Torre Ugarte, Julio Esteban</p><p>Serrano Ircañaupa, Nelson Elias</p><p></p>|  
+|Sprint n - 2 Review Summary|Se completó la aplicación móvil inicial|  
+|Sprint n - 2 Retrospective Summary|Se identificaron mejoras en la gestión del tiempo y colaboración en equipo|  
+|**Sprint Goal & User Stories**||  
+|Sprint 3 Goal|Optimizar tanto el fronted como el backend y mejorar la interfaz de usuario|  
+|Sprint 3 Velocity|25|  
+|Sum of Story Points|25|
+
+#### 5.3.1.2. Sprint Backlog 3
+
+| Sprint #   | Sprint 2                                                           |                  |                                                                                |                                                                                |                   |                                             |                                             | 
+|------------|--------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------|---------------------------------------------|---------------------------------------------|
+| User Story |                    Title                                                | Work-Item / Task |                      Title                                                          | Description                                                                    | Estimation(Hours) | Assigned To                                 | Status (To-Do / In-Process / Review / Done) |
+| US17       | Vehicles                                                           | TS20             | Desarrollar formulario de registro de vehículos.                               | Crear un formulario para que los usuarios puedan registrar nuevos vehículos.   | 3                 | Christian Renato Espinoza Saenz             | Done                                        |
+|            |                                                                    | TS21             | Implementar validación de datos del vehículo.                                  | Verificar que los datos del vehículo sean correctos antes de almacenarlos.     | 2                 | Christian Renato Espinoza Saenz             | Done                                        |
+| US07       | Customers                                                          | TS22             | Desarrollar formulario de registro de clientes.                                | Crear un formulario para que los usuarios se registren como clientes.          | 3                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+|            |                                                                    | TS23             | Implementar validación de datos del cliente.                                   | Verificar los datos del cliente antes de almacenarlos en la base de datos.     | 2                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+| US11       | Location                                                           | TS24             | Desarrollar funcionalidad para seleccionar la ubicación del cliente.           | Permitir a los usuarios seleccionar su ubicación para recoger el vehículo.     | 2                 | Nelson Elías Serrano Ircañaupa              | Done                                        |
+|            |                                                                    | TS25             | Implementar validación de la ubicación seleccionada.                           | Verificar que la ubicación seleccionada sea válida antes de confirmarla.       | 2                 | Nelson Elías Serrano Ircañaupa              | Done                                        |
+| US06       | Subscription                                                       | TS26             | Desarrollar funcionalidad de suscripción para los usuarios.                    | Implementar la opción de que los usuarios puedan suscribirse a un plan.        | 3                 | Alvaro Felipe Pinto Fuentes Rivera          | Done                                        |
+|            |         |       TS27           |   Implementar actualización de planes en la base de datos.    |     Actualizar los planes de suscripción de los usuarios en la base de datos.             |       2    |     Alvaro Felipe Pinto Fuentes Rivera            |            Done            |
+| US20       | Reservation                                                        | TS28             | Desarrollar funcionalidad de reservas.                                         | Permitir a los usuarios reservar vehículos en la plataforma.                   | 3                 | Joaquin David Rivadeneyra Ramos             | Done                                        |
+|            |                                                                    | TS29             | Implementar confirmación de reservas por email.                                | Enviar confirmación de la reserva a través de correo electrónico.              | 2                 | Joaquin David Rivadeneyra Ramos             | Done                                        |
+| US14       | Comments                                                           | TS30             | Desarrollar funcionalidad para dejar comentarios sobre vehículos.              | Permitir que los usuarios dejen comentarios sobre su experiencia con el vehículo.| 2                 | Christian Renato Espinoza Saenz             | Done                                        |
+|            |                                                                    | TS31             | Implementar validación de comentarios.                                         | Verificar que los comentarios cumplan con las políticas antes de ser publicados.| 2                 | Christian Renato Espinoza Saenz             | Done                                        |
+| US03       | Notification                                                       | TS32             | Desarrollar funcionalidad de notificaciones en tiempo real.                    | Implementar un sistema para notificar a los usuarios sobre cambios o eventos.  | 3                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+|            |                                                                    | TS33             | Integrar el backend con el sistema de notificaciones.                          | Conectar el sistema de notificaciones con el backend para recibir alertas.     | 2                 | Julio Esteban Elsner De La Torre Ugarte     | Done                                        |
+
+#### 5.3.1.3. Development Evidence for Sprint Review
+
+| Repository                                         | Branch | Commit Id  | Commit Message                           | Commit Message Body                                              | Commited on (Date) |
+|----------------------------------------------------|--------|------------|------------------------------------------|------------------------------------------------------------------|--------------------|
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | 83b7e56   | feat: added authentication feature       | Implemented the user authentication feature with Firebase.       | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | cfa0129   | fix: improved vehicle search filter      | Enhanced the search filter to include new parameters.            | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | 1d4c678   | chore: updated UI for vehicle listings   | Redesigned the vehicle listing UI for better user experience.     | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | eca93f0   | feat: added booking confirmation page    | Added a new booking confirmation page with real-time updates.     | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | ab7345d   | refactor: optimized car class code       | Refactored the car class to improve performance and readability.  | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | f45d72c   | feat: implemented login functionality    | Created login functionality using Firebase for secure access.    | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | b6d9a12   | fix: resolved login session persistence  | Fixed an issue with session persistence after user login.         | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | d0a4f8b   | feat: added payment gateway integration  | Integrated payment gateway using Stripe for vehicle bookings.     | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | a19b6e3   | feat: added payment confirmation page    | Created a payment confirmation page for user transactions.        | 23/10/24           |
+| AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | c1e4f7a   | chore: updated password reset flow       | Improved the password reset flow for enhanced user experience.    | 23/10/24           |
+
+#### 5.3.1.4. Testing Suite Evidence for Sprint Review
+
+Como parte del proceso de validación y aseguramiento de calidad para la aplicación "Gotta Go Fast", hemos diseñado y ejecutado pruebas de aceptación utilizando el lenguaje Gherkin. Este enfoque permite definir criterios claros y precisos para validar las funcionalidades clave del sistema, asegurando que cumplan con las expectativas del usuario final y los requisitos de negocio.
+
+El uso de Gherkin facilita la creación de pruebas entendibles tanto para desarrolladores como para stakeholders no técnicos, gracias a su lenguaje natural estructurado en forma de escenarios. Cada escenario detalla cómo debe comportarse la aplicación bajo condiciones específicas, lo que permite detectar fallos de forma anticipada y garantizar una experiencia de usuario fluida.
+
+    Funcionalidad: Inicio de sesión de usuario
+    
+    Escenario: Inicio de sesión exitoso
+    Dado que el usuario está en la página de inicio de sesión
+    Cuando el usuario ingresa credenciales válidas
+    Y el usuario hace clic en el botón "Iniciar sesión"
+    Entonces el usuario debería ser redirigido a la página principal
+    Y el usuario debería ver un mensaje de bienvenida
+    
+    Escenario: Fallo en el inicio de sesión por credenciales incorrectas
+    Dado que el usuario está en la página de inicio de sesión
+    Cuando el usuario ingresa credenciales inválidas
+    Y el usuario hace clic en el botón "Iniciar sesión"
+    Entonces el usuario debería ver un mensaje de error indicando credenciales incorrectas
+
+    Funcionalidad: Búsqueda de vehículos
+
+    Escenario: El usuario busca vehículos disponibles
+    Dado que el usuario está en la página de búsqueda de vehículos
+    Cuando el usuario ingresa "SUV" como tipo de vehículo
+    Y el usuario selecciona "Lima" como ubicación
+    Y el usuario hace clic en el botón "Buscar"
+    Entonces el sistema debería mostrar una lista de SUVs disponibles en Lima
+
+    Funcionalidad: Reserva de vehículos
+    
+    Escenario: El usuario reserva un vehículo exitosamente
+    Dado que el usuario está en la página de listado de vehículos
+    Cuando el usuario selecciona un vehículo
+    Y el usuario hace clic en "Reservar ahora"
+    Y el usuario confirma los detalles de la reserva
+    Entonces el sistema debería mostrar un mensaje de confirmación de reserva
+    Y la reserva debería aparecer en el historial de reservas del usuario
+
+    Funcionalidad: Procesamiento de pagos
+    
+    Escenario: El usuario completa el pago para una reserva
+    Dado que el usuario ha confirmado la reserva del vehículo
+    Cuando el usuario ingresa los detalles de pago válidos
+    Y el usuario hace clic en el botón "Pagar ahora"
+    Entonces el pago debería ser procesado exitosamente
+    Y el usuario debería ver una página de confirmación de pago
+
+    Funcionalidad: Restablecimiento de contraseña
+    
+    Escenario: El usuario restablece su contraseña exitosamente
+    Dado que el usuario está en la página de inicio de sesión
+    Cuando el usuario hace clic en "¿Olvidaste tu contraseña?"
+    Y el usuario ingresa su correo electrónico registrado
+    Entonces el sistema debería enviar un enlace de restablecimiento de contraseña al correo electrónico del usuario
+    Y el usuario debería ser notificado para revisar su bandeja de entrada
+
+#### 5.3.1.5. Execution Evidence for Sprint Review
+
 ## 5.4. Video About-the-Product
 
 ●	Link: [Click para ver el about the product](https://drive.google.com/file/d/1Ib_r82ifKCdEEZDk1TOVhXAPzRH4JMQE/view?usp=sharing)
-
 
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
