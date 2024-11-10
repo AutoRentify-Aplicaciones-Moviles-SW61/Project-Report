@@ -2034,15 +2034,15 @@ El **Servicio de Gestión de Usuarios** es responsable de manejar todas las oper
   - Gestión de roles de usuario (por ejemplo, administrador, cliente).
 
 - **Endpoints:**
-  - `POST /api/users/register`: Registra un nuevo usuario en el sistema.
-  - `POST /api/users/login`: Autentica a un usuario y proporciona un token de acceso.
-  - `PUT /api/users/:id`: Actualiza la información del perfil del usuario.
-  - `GET /api/users/:id`: Recupera los detalles de un usuario.
+  - `POST /api/user/register`: Registra un nuevo usuario en el sistema.
+  - `POST /api/user/login`: Autentica a un usuario y proporciona un token de acceso.
+  - `PUT /api/user/:id`: Actualiza la información del perfil del usuario.
+  - `GET /api/user/:id`: Recupera los detalles de un usuario.
 
 - **Tecnologías:**
   - **Framework:** Flutter para la aplicación móvil.
-  - **Backend:** Node.js con Express.js.
-  - **Base de Datos:** MongoDB para almacenamiento de usuarios.
+  - **Backend:** ASP.NET NET 7.0
+  - **Base de Datos:** MySQL para almacenamiento de usuarios.
   - **Autenticación:** JWT (JSON Web Token).
 
 ---
@@ -2064,8 +2064,8 @@ El **Servicio de Gestión de Vehículos** se encarga de gestionar toda la inform
 
 - **Tecnologías:**
   - **Framework:** Flutter para la aplicación móvil.
-  - **Backend:** Spring Boot.
-  - **Base de Datos:** PostgreSQL para datos de vehículos.
+  - **Backend:** ASP.NET NET 7.0
+  - **Base de Datos:** MySQL  para datos de vehículos.
   - **Integración con API externa:** Integración con el servicio de precios para actualizar tarifas dinámicas.
 
 ---
@@ -2087,7 +2087,7 @@ El **Servicio de Gestión de Alquileres** maneja todo el proceso de alquiler de 
 
 - **Tecnologías:**
   - **Framework:** Flutter para la aplicación móvil.
-  - **Backend:** Django REST Framework.
+  - **Backend:** ASP.NET NET 7.0
   - **Base de Datos:** MySQL para almacenar información de alquileres.
   - **Integración con API de vehículos:** Consulta de disponibilidad de vehículos y tarifas aplicables.
 
@@ -2110,8 +2110,8 @@ El **Servicio de Gestión perfil y suscripciones** maneja todo el proceso de cre
 
 - **Tecnologías:**
   - **Framework:** Flutter para la aplicación móvil.
-  - **Backend:** Django REST Framework.
-  - **Base de Datos:** MySQL para almacenar información de alquileres.
+  - **Backend:** ASP.NET NET 7.0
+  - **Base de Datos:** MySQL 
   - **Integración con API de vehículos:** Consulta de disponibilidad de vehículos y tarifas aplicables.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
@@ -2568,6 +2568,51 @@ El uso de Gherkin facilita la creación de pruebas comprensibles para desarrolla
     Entonces el sistema debería mostrar un mensaje de error y solicitar un método de pago válido
 
 #### 5.3.1.5. Execution Evidence for Sprint Review
+
+#### 5.3.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.3.1.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se emplearon las siguientes herramientas y tecnologías:
+
+1. **Git & GitHub**:
+- **Control de Versiones**: Git fue utilizado como sistema de control de versiones para gestionar el historial del código. Los cambios fueron registrados constantemente, permitiendo un respaldo continuo y la capacidad de volver a versiones anteriores si fuese necesario.
+- **Hosting del Repositorio**: El repositorio del proyecto fue alojado en GitHub, facilitando la colaboración y el manejo del código en un entorno distribuido.
+- **Estrategia de Ramas**: Se utilizó una estrategia de ramas para organizar el código, con ramas dedicadas para nuevas funcionalidades, correcciones de errores y lanzamientos, asegurando una integración y despliegue eficientes.
+
+2. **Rider**:
+- **Entorno de Desarrollo**: Rider fue el IDE utilizado para escribir el código del backend. Su integración robusta con aplicaciones ASP.NET lo convirtió en la elección ideal para un desarrollo eficiente y sin errores.
+- **Depuración y Refactorización**: Rider proporcionó herramientas avanzadas de depuración y refactorización, lo que ayudó a optimizar el código y mantenerlo organizado.
+
+3. **ASP.NET con .NET 7.0:**:
+- **Framework**: ASP.NET con .NET 7.0 fue seleccionado para el desarrollo del backend debido a su rápida configuración y su integración perfecta con C#. Proporcionó todos los componentes necesarios para construir una API RESTful, incluyendo un servidor integrado, inyección de dependencias y una gestión sencilla de configuraciones.
+- **Conectividad con la Base de Datos**: La aplicación interactuó con una base de datos MySQL para gestionar los datos relacionados con vehículos, rentas y usuarios, utilizando Entity Framework Core.
+- **Integración con Swagger**: Se utilizó Swashbuckle para generar la documentación de la API mediante Swagger, lo que permitió a los desarrolladores visualizar y probar los endpoints de manera eficiente.
+- **Endpoints del backend en swagger:**
+  ![image](https://github.com/user-attachments/assets/40e389a3-657a-4219-8bec-d3fd6d198243)
+
+
+4. **Railway (MySQL)**:
+- **Gestión de Base de Datos**: La base de datos MySQL alojada en Railway fue utilizada para almacenar toda la información relacionada con vehículos, usuarios, tarjetas y transacciones de renta.
+- **Configuración de la Base de Datos**: Las conexiones a la base de datos se gestionaron a través del archivo de configuración `app.settings.json` de ASP.NET , asegurando la autenticación adecuada y la persistencia y recuperación de datos.
+- **Base de datos:**
+ ![img.png](img.png)
+
+5. **Microsoft Azure**:
+- **Despliegue del API**: El API fue desplegado en la nube utilizando Microsoft Azure, lo que permitió el acceso remoto a la aplicación y su integración en un entorno de producción.
+  ![img_2.png](images/imgtest2.png)
+
+- Aquí se muestra el repositorio desplegado correctamente gracias al servicio de azure
+  ![img_3.png](images/imgtest4.png)
+- Enlace del repositorio: https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/api-mobile-backend
+
+
+#### 5.3.1.8. Team Collaboration Insights during Sprint
+
+Para la repartición equitativa del trabajo durante este sprint se colaboró en github con metodologías gitflow. En una llamada de discord acordamos trabajar ciertas partes para manejar con orden el proyecto y no interrumpir el proceso. A continuación se muestra el desempeño de los integrantes.
+![image](https://github.com/user-attachments/assets/5ee4bf0b-4191-4e24-8fe8-2b043355cdfd)
+
+
 
 ## 5.4. Video About-the-Product
 
