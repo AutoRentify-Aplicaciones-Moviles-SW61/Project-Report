@@ -2446,7 +2446,47 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ### 6.1.1. Software Development Environment Configuration
 
+#### Project Management:
+
+- **Discord:** Implementamos Discord como nuestro principal canal de comunicación y colaboración entre los miembros del equipo. Nos ayudó a organizar reuniones virtuales y mantener la cohesión en tiempo real.
+
+![Discord](./images/discord.png)
+
+- **WhatsApp:** Utilizamos WhatsApp para comunicaciones rápidas y eficientes.
+
+![WhatsApp](./images/Whats.png)
+
+#### Requirements Management:
+
+- **Canva:** Durante la etapa de diseño gráfico, empleamos Canva para crear elementos visuales adicionales, como imágenes y gráficos, lo que contribuyó a mejorar la presentación estética del producto.
+
+![Canva](./images/canva.png)
+
+#### Software Development:
+
+- **IDE (Integrated Development Environment):** Decidimos usar **Android Studio** como nuestro IDE principal, debido a su excelente soporte para el desarrollo de aplicaciones móviles en Flutter. Android Studio nos proporcionó las herramientas necesarias para escribir y depurar código de manera eficiente, lo que mejoró la productividad del equipo y la calidad del producto final.
+
+![Android Studio](./images/android.png)
+
+#### Source Code Management:
+
+- **Git:** Implementamos Git para el control de versiones del código fuente, lo que fue esencial para la colaboración entre los desarrolladores. Esto nos permitió trabajar en diferentes ramas sin generar conflictos y realizar un seguimiento detallado de los cambios en el código.
+
+![Git](./images/git.png)
+
+#### Software Documentation:
+
+- **GitHub:** Utilizamos GitHub como la plataforma central para la gestión del código y la documentación del proyecto. Cada actualización y progreso fue documentado en archivos README.md, proporcionando una visión clara y accesible del desarrollo.
+
+![Github](./images/github.png)
+
 ### 6.1.2. Source Code Management
+
+Para asegurar una gestión eficiente y evitar conflictos durante el desarrollo de Gotta Go Fast, centralizamos el control de versiones en una organización de GitHub. Dentro de esta organización, creamos repositorios específicos para cada componente del proyecto. Aquí están los enlaces a los repositorios:
+
+Backebd: https://ggfastapi-bybnhzc6f0axapfr.canadacentral-01.azurewebsites.net/
+
+Para gestionar el flujo de trabajo, implementamos GitFlow, lo que nos permitió estructurar el desarrollo de forma clara. Cada cambio en el código fue documentado siguiendo el formato de “Conventional Commits”, lo que facilitó el seguimiento y la identificación de cada modificación realizada. Utilizamos una rama principal (main) para las versiones finales y estables, mientras que cada miembro del equipo trabajaba en ramas específicas, permitiendo una mejor organización y seguimiento del código.
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
@@ -2671,3 +2711,5 @@ https://repositorio.pascualbravo.edu.co/handle/pascualbravo/2371
 ## **Anexos**
 
 - Landing Page Desployada: [https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/](https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/) 
+- Backend Deployment: [https://ggfastapi-bybnhzc6f0axapfr.canadacentral-01.azurewebsites.net/](https://ggfastapi-bybnhzc6f0axapfr.canadacentral-01.azurewebsites.net/) 
+
