@@ -2440,9 +2440,20 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Recomendación:**  
   Resaltar la información sobre la suscripción premium en la página principal de la aplicación, mostrando sus beneficios de forma clara y atractiva.
 
-## 5.3. Landing Page & Mobile Application Implementation
-### 5.3.1. Sprint 3
-#### 5.3.1.1. Sprint Planning 
+# Capítulo VI: Product Implementation & Validation
+
+## 6.1. Mobile Application Implementation
+
+### 6.1.1. Software Development Environment Configuration
+
+### 6.1.2. Source Code Management
+
+### 6.1.3. Source Code Style Guide & Conventions
+
+### 6.1.4. Software Deployment Configuration
+
+### 6.2.1. Sprint 3
+#### 6.2.1.1. Sprint Planning 
 
 |**Sprint #**|Sprint 3|
 | :- | :- |
@@ -2459,7 +2470,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 |Sprint 3 Velocity|22|  
 |Sum of Story Points|22|
 
-#### 5.3.1.2. Sprint Backlog 3
+#### 6.2.1.2. Sprint Backlog 3
 
 | Sprint #   | Sprint 3                                                           |                  |                                                                                |                                                                                |                   |                                             |                                             | 
 |------------|--------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------|---------------------------------------------|---------------------------------------------|
@@ -2477,7 +2488,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | US23       | Payment                                                            | TS44             | Crear funcionalidad de procesamiento de pagos.                                | Desarrollar un sistema para procesar pagos de reservas en la aplicación.       | 2.5               | Christian Renato Espinoza Saenz             | Done                                        |
 |            |                                                                    | TS45             | Implementar validación de métodos de pago.                                    | Verificar y validar los métodos de pago proporcionados por los usuarios.       | 2                 | Christian Renato Espinoza Saenz             | Done                                        |
 
-#### 5.3.1.3. Development Evidence for Sprint Review
+#### 6.2.1.3. Development Evidence for Sprint Review
 
 | Repository                                         | Branch | Commit Id  | Commit Message                           | Commit Message Body                                              | Commited on (Date) |
 |----------------------------------------------------|--------|------------|------------------------------------------|------------------------------------------------------------------|--------------------|
@@ -2492,7 +2503,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | d3f6c4b   | refactor: optimized car listing filters  | Refactored and optimized filters for vehicle listings.            | 05/11/24           |
 | AutoRentify-Aplicaciones-Moviles-SW61 / GottaGoFast-flutter-app | main   | b8f4a2e   | fix: adjusted profile password update    | Resolved issues in profile section allowing smooth password updates.| 05/11/24          |
 
-#### 5.3.1.4. Testing Suite Evidence for Sprint Review
+#### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
 Como parte del proceso de validación y aseguramiento de calidad para la aplicación "Gotta Go Fast", se han diseñado y ejecutado pruebas de aceptación utilizando el lenguaje Gherkin. Este enfoque define criterios claros para validar las funcionalidades clave del sistema, asegurando que cumplan con las expectativas del usuario final y los requisitos de negocio.
 
@@ -2568,11 +2579,11 @@ El uso de Gherkin facilita la creación de pruebas comprensibles para desarrolla
     Cuando el sistema verifica los detalles de pago
     Entonces el sistema debería mostrar un mensaje de error y solicitar un método de pago válido
 
-#### 5.3.1.5. Execution Evidence for Sprint Review
+#### 6.2.1.5. Execution Evidence for Sprint Review
 
-#### 5.3.1.6. Services Documentation Evidence for Sprint Review
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
-#### 5.3.1.7. Software Deployment Evidence for Sprint Review
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se emplearon las siguientes herramientas y tecnologías:
 
@@ -2608,14 +2619,14 @@ Para el desarrollo y despliegue del **API Backend de Renta de Vehículos**, se e
 - Enlace del repositorio: https://github.com/AutoRentify-Aplicaciones-Moviles-SW61/api-mobile-backend
 
 
-#### 5.3.1.8. Team Collaboration Insights during Sprint
+#### 6.2.1.8. Team Collaboration Insights during Sprint
 
 Para la repartición equitativa del trabajo durante este sprint se colaboró en github con metodologías gitflow. En una llamada de discord acordamos trabajar ciertas partes para manejar con orden el proyecto y no interrumpir el proceso. A continuación se muestra el desempeño de los integrantes.
 ![image](https://github.com/user-attachments/assets/5ee4bf0b-4191-4e24-8fe8-2b043355cdfd)
 
 
 
-## 5.4. Video About-the-Product
+## 6.4. Video About-the-Product
 
 ●	Link: [Click para ver el about the product](https://drive.google.com/file/d/1Ib_r82ifKCdEEZDk1TOVhXAPzRH4JMQE/view?usp=sharing)
 
