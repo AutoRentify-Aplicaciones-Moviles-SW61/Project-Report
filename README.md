@@ -2627,7 +2627,29 @@ El uso de Gherkin facilita la creación de pruebas comprensibles para desarrolla
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 
-![image](images/ResultsPage.png)
+<div align="center">
+
+### Sección Home
+
+![img_1.png](images/ResultsPage.png)
+
+### Sección Search
+
+![img_2.png](images/search.png)
+
+### Sección About Me
+
+![img_3.png](images/Reserves.png)
+
+### Sección Edit Profile
+
+![img_4.png](images/BookingPage.png)
+
+### Sección Reserves
+
+![img_5.png](images/AccountSettingsPage.png)
+
+</div>
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
