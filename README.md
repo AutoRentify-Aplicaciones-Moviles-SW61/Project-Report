@@ -2629,7 +2629,7 @@ El uso de Gherkin facilita la creación de pruebas comprensibles para desarrolla
 
 <div align="center">
 
-### Sección Home
+### Sección Results
 
 ![img_1.png](images/ResultsPage.png)
 
@@ -2637,15 +2637,15 @@ El uso de Gherkin facilita la creación de pruebas comprensibles para desarrolla
 
 ![img_2.png](images/search.png)
 
-### Sección About Me
+### Sección My reservations
 
 ![img_3.png](images/Reserves.png)
 
-### Sección Edit Profile
+### Sección Booking
 
 ![img_4.png](images/BookingPage.png)
 
-### Sección Reserves
+### Sección Settings
 
 ![img_5.png](images/AccountSettingsPage.png)
 
