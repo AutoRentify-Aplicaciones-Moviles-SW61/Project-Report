@@ -2490,7 +2490,13 @@ Para gestionar el flujo de trabajo, implementamos GitFlow, lo que nos permitió 
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+Durante el desarrollo del proyecto, se utilizará Java en el backend para gestionar la lógica y el procesamiento de datos. Se seguirá una estructura modular, con clases y métodos descriptivos que reflejen su propósito. Se emplearán nombres de clases en PascalCase y métodos en camelCase, asegurando que todo el código esté debidamente comentado para explicar su funcionalidad. Además, se utilizarán frameworks como Spring cuando sea necesario, y se manejarán correctamente las excepciones para garantizar la estabilidad de la aplicación.
+
 ### 6.1.4. Software Deployment Configuration
+
+Usamos GitHub para el desarrollo del backend debido a su eficiencia en la gestión de versiones y colaboración en equipo, facilitando el trabajo mediante ramas y pull requests. Para el despliegue, elegimos Railway, ya que ofrece una plataforma escalable y fácil de usar, que automatiza el proceso de implementación y gestión del entorno de producción, permitiéndonos centrarnos en el desarrollo sin preocuparnos por la infraestructura.
+
+![Railway](images/railway.jpeg)
 
 ### 6.2.1. Sprint 3
 #### 6.2.1.1. Sprint Planning 
