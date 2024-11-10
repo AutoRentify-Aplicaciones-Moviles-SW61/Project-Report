@@ -2581,7 +2581,54 @@ El uso de Gherkin facilita la creación de pruebas comprensibles para desarrolla
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 
+![image](images/ResultsPage.png)
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
+
+## Servicio 1: Servicio de Gestión de Usuarios
+
+El Servicio de Gestión de Usuarios maneja todas las operaciones relacionadas con los usuarios, tales como la creación de cuentas, actualización de perfiles y la gestión de roles y permisos de usuarios.
+
+### Características Clave
+- Registro y autenticación de usuarios.
+- Actualización de perfil (por ejemplo, correo electrónico, número de teléfono, licencia de conducir).
+- Gestión de roles de usuario (por ejemplo, administrador, cliente).
+
+### Endpoints
+- `POST /api/user/register`: Registra un nuevo usuario en el sistema.
+- `POST /api/user/login`: Autentica a un usuario y proporciona un token de acceso.
+- `PUT /api/user/:id`: Actualiza la información del perfil del usuario.
+- `GET /api/user/:id`: Recupera los detalles de un usuario.
+
+### Tecnologías
+- **Framework:** Flutter para la aplicación móvil.
+- **Backend:** ASP.NET Core 7.0.
+- **Base de Datos:** MySQL para almacenamiento de usuarios.
+- **Autenticación:** JWT (JSON Web Token).
+
+---
+
+## Servicio 2: Servicio de Gestión de Vehículos
+
+El Servicio de Gestión de Vehículos gestiona toda la información relacionada con los vehículos, incluyendo disponibilidad, precios y detalles de reserva.
+
+### Características Clave
+- Gestión de detalles del vehículo (modelo, marca, capacidad).
+- Verificación de disponibilidad de vehículos para alquiler.
+- Aplicación de tarifas y descuentos.
+
+### Endpoints
+- `GET /api/vehicles`: Recupera una lista de todos los vehículos disponibles.
+- `POST /api/vehicles`: Agrega un nuevo vehículo al sistema.
+- `PUT /api/vehicles/:id`: Actualiza los detalles de un vehículo existente.
+- `DELETE /api/vehicles/:id`: Elimina un vehículo del sistema.
+
+### Tecnologías
+- **Framework:** Flutter para la aplicación móvil.
+- **Backend:** ASP.NET Core 7.0.
+- **Base de Datos:** MySQL para datos de vehículos.
+- **Integración con API externa:** Integración con el servicio de precios para actualizar tarifas dinámicas.
+
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
