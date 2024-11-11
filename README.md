@@ -2745,6 +2745,11 @@ Para la repartición equitativa del trabajo durante este sprint se colaboró en 
 
 ●	Link: [Click para ver el about the product](https://drive.google.com/file/d/1Ib_r82ifKCdEEZDk1TOVhXAPzRH4JMQE/view?usp=sharing)
 
+
+## 6.5. Video About-the-Team
+
+●	Link: [Click para ver el about the team](https://drive.google.com/file/d/1VR_FMIubxVsZG65KIez0Mm2eBiz11wjk/view?usp=sharing)
+
 ## **Conclusiones**
 ### Conclusiones y Recomendaciones
 
@@ -2787,4 +2792,5 @@ https://repositorio.pascualbravo.edu.co/handle/pascualbravo/2371
 
 - Landing Page Desployada: [https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/](https://autorentify-aplicaciones-moviles-sw61.github.io/Landing-Page/) 
 - Backend Deployment: [https://ggfastapi-bybnhzc6f0axapfr.canadacentral-01.azurewebsites.net/](https://ggfastapi-bybnhzc6f0axapfr.canadacentral-01.azurewebsites.net/) 
+- About the Team: [https://drive.google.com/file/d/1VR_FMIubxVsZG65KIez0Mm2eBiz11wjk/view?usp=sharing](https://drive.google.com/file/d/1VR_FMIubxVsZG65KIez0Mm2eBiz11wjk/view?usp=sharing) 
 
